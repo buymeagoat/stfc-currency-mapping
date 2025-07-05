@@ -1,0 +1,5 @@
+Damage mitigation has 3 components: armor, shield deflection, and dodge. For each component, divide the corresponding defense value by the corresponding piercing value and look up the mitigation in the chart below. Finally, weight each individual mitigation value by 0.3 (surveys), 0.55 (combat ship primary defense), or 0.2 (combat ship secondary defense) and combine them multiplicatively.
+
+More precisely: Given defender armor dA, defender shield deflection dS, defender dodge dD, attacker armor piercing pA, attacker shield piercing pS, and attacker accuracy pD, mitigation is 1 - (1 - cA * f(dA / pA)) * (1 - cS * f(dS / pS)) * (1 - cD * f(dD / pD)) where f is a nonlinear function and [cA, cS, cD] is equal to [0.3, 0.3, 0.3] for surveys, [0.55, 0.2, 0.2] for battleships, [0.2, 0.55, 0.2] for explorers, and [0.2, 0.2, 0.55] for interceptors.
+
+The logistic function y = 1 / (1 + 4^(1.1 - x))) (shown below) provides an almost perfect fit for f (accurate to 0.1%).

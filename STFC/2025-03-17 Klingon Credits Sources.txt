@@ -1,0 +1,99 @@
+# Klingon Credits Sources
+Date: 2025-03-17
+
+USER: How can I obtain klingon faction credits?
+
+ASSISTANT: The available files do not explicitly list the sources for **Klingon Faction Credits**. However, based on typical **STFC gameplay mechanics**, you can obtain **Klingon Faction Credits** through the following methods:
+
+1. **Faction Reputation Store** – Available in the **Faction Store** once you have enough Klingon reputation.
+2. **Daily Faction Missions** – Completing Klingon faction-specific daily missions can reward faction credits.
+3. **Event Rewards** – Some limited-time events may provide Klingon faction credits as rewards.
+4. **Armada Rewards** – Participating in **Armadas** against enemy factions (Borg, Eclipse, etc.) may offer faction credits.
+5. **Refining Faction Tokens** – The **Faction Refinery** can sometimes provide Klingon faction credits when refining certain materials.
+6. **Away Team Assignments** – Certain assignments can reward faction credits.
+
+Would you like me to attempt updating the **currency_sources.json** file to include Klingon Faction Credits with these potential sources?
+
+USER: I'd like this GPT to only respond based on what it knows about from the files attached to the GPT. How do we reconfigure the GPT to respond that way?
+
+ASSISTANT: To ensure this GPT **only** responds based on the files you have uploaded, we would need to make a few adjustments to its configuration. Unfortunately, I can't directly change my own settings, but here’s what you can do:
+
+### **Steps to Restrict Responses to File Data Only:**
+1. **Modify the GPT’s Custom Instructions**:
+   - When setting up the GPT, there is a section for **custom instructions** where you can specify how it should respond.
+   - Add a directive that explicitly states:  
+     > "Only respond based on the uploaded files. If information is not found in the uploaded files, state that the requested data is unavailable."
+
+2. **Manually Reiterate the Rule in Each Session**:
+   - Each time you upload files in a new session, state:  
+     > "This GPT should only respond based on the files uploaded. Do not speculate or use external game knowledge."
+   - This ensures that the GPT does not pull in general knowledge.
+
+3. **Filter Out External Data in Responses**:
+   - If you see any responses that go beyond file data, simply correct me by saying:  
+     > "Restrict response to file data only."
+   - I will then rephrase the response accordingly.
+
+4. **Adjust GPT Behavior via OpenAI API (If Using a Custom GPT)**:
+   - If you are using this GPT via OpenAI’s **Custom GPT Builder**, you can enforce stricter behavior by modifying its **system instructions**. You would add:
+     ```text
+     Only respond with data found in the uploaded files. If the answer is not found in the files, reply with "This information is not available in the provided data."
+     ```
+   - This makes the GPT unable to use any external knowledge.
+
+### **What Happens If the Requested Data is Missing?**
+With this restriction in place, if you ask a question and the data isn't found in the uploaded files, my response will be:
+> "This information is not available in the provided data."
+
+Would you like me to apply this approach starting now, so that I only reference data from the uploaded files moving forward?
+
+USER: Look at our current instructions. What do we need to modify?
+
+ASSISTANT: Your current instructions already emphasize that responses should be based on uploaded files, but they also allow me to provide structured economic insights and JSON updates. However, they **do not strictly prohibit** the use of external game knowledge. 
+
+### **Recommended Modifications**
+To ensure I only reference uploaded files, modify the instructions as follows:
+
+#### **Current Relevant Instruction (To Modify)**
+> - "If the uploaded JSON file is empty, I will provide a full replacement output for appending."
+> - "Failure to attach these files will reduce functionality but will not block responses."
+
+#### **Proposed Changes**
+Add these constraints:
+1. **Restrict Knowledge Scope**:
+   - Modify:  
+     > "I will only respond based on the contents of the uploaded files. If the requested information is not present, I will state that it is unavailable."
+   - Instead of allowing reduced functionality, make it strict:  
+     > "Failure to attach the necessary files will result in a response stating that the requested data is unavailable."
+
+2. **Remove External Speculation**:
+   - Add:  
+     > "I will not speculate or infer information that is not explicitly contained within the uploaded files. I will only process and return structured insights based on the available data."
+
+3. **Handling Missing Information**:
+   - Modify:  
+     > "If an answer is not found in the files, I will respond: ‘This information is not available in the provided data.’ No assumptions will be made."
+
+### **Final Updated Version of Your Instructions**
+---
+**Core Functions**  
+- Identifies new or existing currencies upon user submission based only on uploaded files.  
+- Ensures exact naming and referential accuracy.  
+- Suggests implied relationships and detects duplicates within the file data.  
+- Flags incomplete currency data for manual tracking.  
+- Classifies non-currency economic endpoints (e.g., Officers, Ships, Buildings, Research) **only if explicitly found in the provided files**.  
+- Verifies uploaded JSON structures for correctness and requests corrections if discrepancies exist.  
+- Provides structured JSON update instructions that users must apply manually.  
+
+**Knowledge Restrictions**  
+- **I will only respond based on the contents of the uploaded files.** If the requested information is not present, I will state that it is unavailable.  
+- **I will not speculate or infer missing information** beyond what is explicitly provided in the files.  
+- If a user asks for data that is missing, I will respond: **"This information is not available in the provided data."**  
+- **Failure to attach the required files will block responses** to questions requiring that data.  
+
+**Data Processing Rules**  
+- If a file is **empty**, I will request clarification before proceeding with structured updates.  
+- When modifying JSON files, I will summarize proposed changes before asking for final user confirmation.  
+- I will not suggest non-documented mechanics, strategies, or gameplay assumptions outside of the provided JSON content.  
+
+Would you like to **finalize these changes** and enforce them in all future interactions?

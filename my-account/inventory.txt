@@ -1,0 +1,13176 @@
+Logo Spock's Club
+Home
+Profile 
+Calculators 
+Combat Tools 
+Account Progress 
+Logout
+INVENTORY
+
+Resource Categories
+Search
+
+Sort By
+Hide Empty Show Hidden Show Exact Amounts 
+Resource Image
+Ship XP
+8.76 M
+
+Resource Image
+Officer XP
+2.03 M
+
+Resource Image
+Transporter Patterns
+654.23 K
+
+Resource Image
+Parsteel
+1,724.02 Qd
+
+Resource Image
+Tritanium
+50.46 T
+
+Resource Image
+Dilithium
+23.32 T
+
+Resource Image
+Latinum
+120.85 M
+
+Resource Image
+Recruit Token
+15
+
+Resource Image
+Premium Recruit Token
+81
+
+Resource Image
+Relocation Token
+641
+
+Resource Image
+Federation Credits
+2.95 M
+
+Resource Image
+Klingon Credits
+22.77 K
+
+Resource Image
+Romulan Credits
+2.87 M
+
+Resource Image
+Independent Credits
+285.16 K
+
+Resource Image
+Augment Credits
+935.77 K
+
+Resource Image
+1★ Interceptor Parts
+290
+
+Resource Image
+1★ Explorer Parts
+831
+
+Resource Image
+1★ Battleship Parts
+766
+
+Resource Image
+1★ Survey Parts
+665
+
+Resource Image
+2★ Interceptor Parts
+4.71 K
+
+Resource Image
+2★ Explorer Parts
+897
+
+Resource Image
+2★ Battleship Parts
+13.3 K
+
+Resource Image
+2★ Survey Parts
+94
+
+Resource Image
+3★ Interceptor Parts
+940
+
+Resource Image
+3★ Explorer Parts
+718
+
+Resource Image
+3★ Battleship Parts
+2.73 K
+
+Resource Image
+3★ Survey Parts
+34.97 K
+
+Resource Image
+4★ Broken Interceptor Parts
+14.5 M
+
+Resource Image
+4★ Broken Explorer Parts
+12.3 M
+
+Resource Image
+4★ Broken Battleship Parts
+17.11 M
+
+Resource Image
+4★ Broken Survey Parts
+14.07 K
+
+Resource Image
+4★ Common Interceptor Parts
+5.24 M
+
+Resource Image
+4★ Uncommon Interceptor Parts
+654.61 K
+
+Resource Image
+4★ Rare Interceptor Parts
+9.34 K
+
+Resource Image
+4★ Common Explorer Parts
+2.18 M
+
+Resource Image
+4★ Uncommon Explorer Parts
+894.24 K
+
+Resource Image
+4★ Rare Explorer Parts
+57.11 K
+
+Resource Image
+4★ Common Battleship Parts
+4.89 M
+
+Resource Image
+4★ Uncommon Battleship Parts
+529.53 K
+
+Resource Image
+4★ Rare Battleship Parts
+2.5 K
+
+Resource Image
+4★ Common Survey Parts
+1.48 M
+
+Resource Image
+4★ Uncommon Survey Parts
+254.71 K
+
+Resource Image
+4★ Rare Survey Parts
+1.02 K
+
+Resource Image
+5★ Broken Interceptor Parts
+79.27 M
+
+Resource Image
+5★ Broken Explorer Parts
+73.38 M
+
+Resource Image
+5★ Broken Battleship Parts
+53.7 M
+
+Resource Image
+5★ Broken Survey Parts
+429.89 K
+
+Resource Image
+5★ Common Interceptor Parts
+14.61 M
+
+Resource Image
+5★ Uncommon Interceptor Parts
+757.04 K
+
+Resource Image
+5★ Rare Interceptor Parts
+21.36 K
+
+Resource Image
+5★ Common Explorer Parts
+43.01 M
+
+Resource Image
+5★ Uncommon Explorer Parts
+992.76 K
+
+Resource Image
+5★ Rare Explorer Parts
+47.98 K
+
+Resource Image
+5★ Common Battleship Parts
+3.88 M
+
+Resource Image
+5★ Uncommon Battleship Parts
+1.24 M
+
+Resource Image
+5★ Rare Battleship Parts
+52.8 K
+
+Resource Image
+5★ Common Survey Parts
+2.89 M
+
+Resource Image
+5★ Uncommon Survey Parts
+836.08 K
+
+Resource Image
+5★ Rare Survey Parts
+18.92 K
+
+Resource Image
+D'Vor Parts
+37.18 K
+
+Resource Image
+6★ Broken Interceptor Parts
+55.03 M
+
+Resource Image
+6★ Broken Explorer Parts
+68.46 M
+
+Resource Image
+6★ Broken Battleship Parts
+48.02 M
+
+Resource Image
+6★ Broken Survey Parts
+20.82 M
+
+Resource Image
+6★ Common Interceptor Parts
+407.32 K
+
+Resource Image
+6★ Uncommon Interceptor Parts
+189.7 K
+
+Resource Image
+6★ Rare Interceptor Parts
+7.25 K
+
+Resource Image
+6★ Common Explorer Parts
+609.24 K
+
+Resource Image
+6★ Uncommon Explorer Parts
+244.4 K
+
+Resource Image
+6★ Rare Explorer Parts
+8 K
+
+Resource Image
+6★ Common Battleship Parts
+102.57 K
+
+Resource Image
+6★ Uncommon Battleship Parts
+71.6 K
+
+Resource Image
+6★ Rare Battleship Parts
+3.52 K
+
+Resource Image
+6★ Common Survey Parts
+448.84 K
+
+Resource Image
+6★ Uncommon Survey Parts
+96.24 K
+
+Resource Image
+6★ Rare Survey Parts
+3.63 K
+
+Resource Image
+2★ Raw Ore
+1.88 K
+
+Resource Image
+2★ Raw Gas
+2.22 K
+
+Resource Image
+2★ Raw Crystal
+1.19 K
+
+Resource Image
+3★ Raw Ore
+53.01 M
+
+Resource Image
+3★ Raw Gas
+48.28 M
+
+Resource Image
+3★ Raw Crystal
+50.09 M
+
+Resource Image
+4★ Raw Ore
+144.8 M
+
+Resource Image
+4★ Raw Gas
+95.62 M
+
+Resource Image
+4★ Raw Crystal
+62.85 M
+
+Resource Image
+2★ Common Refined Ore
+101.41 K
+
+Resource Image
+2★ Uncommon Refined Ore
+9.64 K
+
+Resource Image
+2★ Common Refined Gas
+106.69 K
+
+Resource Image
+2★ Uncommon Refined Gas
+6.96 K
+
+Resource Image
+2★ Common Refined Crystal
+50.79 K
+
+Resource Image
+2★ Uncommon Refined Crystal
+1.89 K
+
+Resource Image
+3★ Common Refined Ore
+4.08 M
+
+Resource Image
+3★ Uncommon Refined Ore
+399.38 K
+
+Resource Image
+3★ Rare Refined Ore
+207.89 K
+
+Resource Image
+3★ Common Refined Gas
+3.03 M
+
+Resource Image
+3★ Uncommon Refined Gas
+308.74 K
+
+Resource Image
+3★ Rare Refined Gas
+174.04 K
+
+Resource Image
+3★ Common Refined Crystal
+3.28 M
+
+Resource Image
+3★ Uncommon Refined Crystal
+360.05 K
+
+Resource Image
+3★ Rare Refined Crystal
+242.33 K
+
+Resource Image
+4★ Common Refined Ore
+47.88 M
+
+Resource Image
+4★ Uncommon Refined Ore
+4.22 M
+
+Resource Image
+4★ Rare Refined Ore
+869.99 K
+
+Resource Image
+4★ Epic Refined Ore
+201.42 K
+
+Resource Image
+4★ Common Refined Gas
+46.67 M
+
+Resource Image
+4★ Uncommon Refined Gas
+4.71 M
+
+Resource Image
+4★ Rare Refined Gas
+827.7 K
+
+Resource Image
+4★ Epic Refined Gas
+162.66 K
+
+Resource Image
+4★ Common Refined Crystal
+50.25 M
+
+Resource Image
+4★ Uncommon Refined Crystal
+4.37 M
+
+Resource Image
+4★ Rare Refined Crystal
+1.02 M
+
+Resource Image
+4★ Epic Refined Crystal
+181.05 K
+
+Resource Image
+5★ Raw Ore
+362.95 M
+
+Resource Image
+5★ Raw Gas
+338.19 M
+
+Resource Image
+5★ Raw Crystal
+337.53 M
+
+Resource Image
+5★ Common Refined Ore
+12.42 M
+
+Resource Image
+5★ Uncommon Refined Ore
+1.81 M
+
+Resource Image
+5★ Rare Refined Ore
+228.12 K
+
+Resource Image
+5★ Epic Refined Ore
+34.02 K
+
+Resource Image
+5★ Common Refined Gas
+12.11 M
+
+Resource Image
+5★ Uncommon Refined Gas
+1.48 M
+
+Resource Image
+5★ Rare Refined Gas
+104.7 K
+
+Resource Image
+5★ Epic Refined Gas
+5.39 K
+
+Resource Image
+5★ Common Refined Crystal
+12.48 M
+
+Resource Image
+5★ Uncommon Refined Crystal
+1.63 M
+
+Resource Image
+5★ Rare Refined Crystal
+172.07 K
+
+Resource Image
+5★ Epic Refined Crystal
+29.6 K
+
+Resource Image
+6★ Raw Ore
+61.19 M
+
+Resource Image
+6★ Raw Gas
+53.06 M
+
+Resource Image
+6★ Raw Crystal
+51.78 M
+
+Resource Image
+6★ Common Refined Ore
+734.97 K
+
+Resource Image
+6★ Uncommon Refined Ore
+7.79 K
+
+Resource Image
+6★ Rare Refined Ore
+9.08 K
+
+Resource Image
+6★ Epic Refined Ore
+0
+
+Resource Image
+6★ Common Refined Gas
+1.07 M
+
+Resource Image
+6★ Uncommon Refined Gas
+57.23 K
+
+Resource Image
+6★ Rare Refined Gas
+16.21 K
+
+Resource Image
+6★ Epic Refined Gas
+0
+
+Resource Image
+6★ Common Refined Crystal
+902.37 K
+
+Resource Image
+6★ Uncommon Refined Crystal
+8.55 K
+
+Resource Image
+6★ Rare Refined Crystal
+16.77 K
+
+Resource Image
+6★ Epic Refined Crystal
+0
+
+Resource Image
+7★ Common Refined Ore
+0
+
+Resource Image
+7★ Uncommon Refined Ore
+0
+
+Resource Image
+7★ Rare Refined Ore
+0
+
+Resource Image
+7★ Common Refined Gas
+0
+
+Resource Image
+7★ Uncommon Refined Gas
+0
+
+Resource Image
+7★ Rare Refined Gas
+0
+
+Resource Image
+7★ Common Refined Crystal
+0
+
+Resource Image
+7★ Uncommon Refined Crystal
+0
+
+Resource Image
+7★ Rare Refined Crystal
+0
+
+Resource Image
+Corrupted Data
+1.75 K
+
+Resource Image
+Decoded Data
+14.17 M
+
+Resource Image
+Common Plutonium
+74.17 K
+
+Resource Image
+Uncommon Plutonium
+203.37 K
+
+Resource Image
+Rare Plutonium
+8.27 K
+
+Resource Image
+Raw Latinum
+32.55 M
+
+Resource Image
+1⇴ Raw Isogen
+89.1 M
+
+Resource Image
+2⇴ Raw Isogen
+76.53 M
+
+Resource Image
+3⇴ Raw Isogen
+1.02 M
+
+Resource Image
+1⇴ Refined Isogen
+0
+
+Resource Image
+2⇴ Refined Isogen
+0
+
+Resource Image
+3⇴ Refined Isogen
+0
+
+Resource Image
+Iso-emulsion
+22.34 M
+
+Resource Image
+2⇴ Iso-emulsion
+0
+
+Resource Image
+3⇴ Iso-emulsion
+0
+
+Resource Image
+Progenitor Alloy
+1.49 M
+
+Resource Image
+Progenitor Core
+0
+
+Resource Image
+Progenitor Diode
+0
+
+Resource Image
+Progenitor Emitter
+0
+
+Resource Image
+Progenitor Laser
+0
+
+Resource Image
+Progenitor Nexus
+0
+
+Resource Image
+Progenitor Reactor
+0
+
+Resource Image
+Phantom Particle
+33.51 K
+
+Resource Image
+Chronometric Particle
+260
+
+Resource Image
+Quantum Particle
+42.11 K
+
+Resource Image
+Surax Particle
+45.82 K
+
+Resource Image
+Metreon Particle
+16.29 K
+
+Resource Image
+Challenger Token I
+0
+
+Resource Image
+Challenger Token II
+0
+
+Resource Image
+Conqueror Token I
+0
+
+Resource Image
+Conqueror Token II
+0
+
+Resource Image
+Prime Particle
+48
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Territory Research Medal
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Tola Core
+0
+
+Resource Image
+Federation Points
+346.95 B
+
+Resource Image
+Klingon Points
+357.83 B
+
+Resource Image
+Romulan Points
+348.38 B
+
+Resource Image
+Andorian Points
+0
+
+Resource Image
+Vulcan Points
+0
+
+Resource Image
+Gorn Points
+0
+
+Resource Image
+Arkonian Points
+0
+
+Resource Image
+Suliban Points
+0
+
+Resource Image
+Corvallen Points
+0
+
+Resource Image
+Orion Syndicate Points
+0
+
+Resource Image
+Augment Points
+1 M
+
+Resource Image
+Command Badge
+11
+
+Resource Image
+Science Badge
+56
+
+Resource Image
+Engineering Badge
+78
+
+Resource Image
+Federation Recruit Token
+70
+
+Resource Image
+Klingon Recruit Token
+25
+
+Resource Image
+Romulan Recruit Token
+445
+
+Resource Image
+Ultra Recruit Token
+485
+
+Resource Image
+Augment Recruit Token
+0
+
+Resource Image
+Franklin Advanced Data Core
+0
+
+Resource Image
+Swarm Biominerals
+20.24 K
+
+Resource Image
+Swarm Advanced Biotics
+20.37 K
+
+Resource Image
+Frequency Modulators
+11.12 M
+
+Resource Image
+Franklin Warp Interlock
+0
+
+Resource Image
+Franklin Warp Conduit
+0
+
+Resource Image
+Franklin Warp Relay
+0
+
+Resource Image
+Franklin Warp Regulator
+0
+
+Resource Image
+Franklin Warp Injector
+0
+
+Resource Image
+Franklin Warp Containment
+0
+
+Resource Image
+Franklin Warp Coil
+0
+
+Resource Image
+Franklin Warp Core
+0
+
+Resource Image
+Frequency Modulator Mk. II
+194.21 M
+
+Resource Image
+Franklin Warp Interlock Mk. II
+0
+
+Resource Image
+Franklin Warp Conduit Mk. II
+0
+
+Resource Image
+Franklin Warp Relay Mk. II
+0
+
+Resource Image
+Franklin Warp Regulator Mk. II
+0
+
+Resource Image
+Franklin Warp Injector Mk. II
+0
+
+Resource Image
+Franklin Warp Containment Mk. II
+0
+
+Resource Image
+Franklin Warp Coil Mk. II
+0
+
+Resource Image
+Franklin Warp Core Mk. II
+0
+
+Resource Image
+Franklin-A Alpha Retrofit Key
+0
+
+Resource Image
+Franklin-A Delta Retrofit Key
+0
+
+Resource Image
+Franklin-A Omega Retrofit Key
+0
+
+Resource Image
+Cyberpathic Interface
+1
+
+Resource Image
+Cyberpathic Nexus
+0
+
+Resource Image
+Bronze Swarm Trophy
+0
+
+Resource Image
+Silver Swarm Trophy
+0
+
+Resource Image
+Gold Swarm Trophy
+0
+
+Resource Image
+Platinum Swarm Trophy
+0
+
+Resource Image
+Rigellian Datapad
+11
+
+Resource Image
+Orion Manifest
+21
+
+Resource Image
+Encryption Key
+24
+
+Resource Image
+Tracking Device
+0
+
+Resource Image
+Hacking Tool
+0
+
+Resource Image
+Tricorder
+3
+
+Resource Image
+Cargo Crate
+2
+
+Resource Image
+Cargo Container
+19
+
+Resource Image
+Freight Vault
+0
+
+Resource Image
+Klingon Gagh
+0
+
+Resource Image
+Escape Pod
+0
+
+Resource Image
+Stasis Chamber
+0
+
+Resource Image
+Energy Manifold
+17
+
+Resource Image
+Mobile Armory
+0
+
+Resource Image
+Weapons Case
+0
+
+Resource Image
+Shuttlecraft
+0
+
+Resource Image
+Klingon Bloodwine
+0
+
+Resource Image
+Romulan Ale
+0
+
+Resource Image
+Satellite
+0
+
+Resource Image
+Wild Tribble
+3.32 K
+
+Resource Image
+Medical Equipment
+0
+
+Resource Image
+Medical Supplies
+0
+
+Resource Image
+Damaged Escape Pod
+0
+
+Resource Image
+Damaged Datapad
+15
+
+Resource Image
+Smashed Datapad
+0
+
+Resource Image
+Satellite Emitter
+0
+
+Resource Image
+Satellite Probe
+0
+
+Resource Image
+Cybernetic Fragments
+0
+
+Resource Image
+Section 31 Datapad
+1
+
+Resource Image
+KSG Datapad
+8
+
+Resource Image
+Romulan Immortal Datapad
+17
+
+Resource Image
+Devotion Token
+13
+
+Resource Image
+S31 Devotion Token
+3
+
+Resource Image
+KSG Devotion Token
+0
+
+Resource Image
+Immortal Devotion Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Cult Transmission
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+6* Planetary Datapad
+63
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Void Configurations
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Dark Matter
+6
+
+Resource Image
+Halloween Token
+0
+
+Resource Image
+Klingon Death Mask
+0
+
+Resource Image
+Starfleet Service Ribbon
+0
+
+Resource Image
+Romulan Seal Of Loyalty
+0
+
+Resource Image
+Commendation Rank 2
+2
+
+Resource Image
+Commendation Rank 3
+2
+
+Resource Image
+Commendation Rank 4
+2
+
+Resource Image
+Commendation Rank 5
+2
+
+Resource Image
+Commendation Rank 6
+2
+
+Resource Image
+Commendation Rank 7
+0
+
+Resource Image
+Commendation Rank 8
+0
+
+Resource Image
+Commendation Rank 9
+0
+
+Resource Image
+Commendation Rank 10
+0
+
+Resource Image
+Alliance Credits
+21.72 K
+
+Resource Image
+1M Parsteel Token
+0
+
+Resource Image
+1 Minute Speed Up
+110
+
+Resource Image
+3 Minute Speed Up
+0
+
+Resource Image
+5 Minute Speed Up
+122
+
+Resource Image
+10 Minute Speed Up
+0
+
+Resource Image
+15 Minute Speed Up
+112
+
+Resource Image
+30 Minute Speed Up
+0
+
+Resource Image
+1 Hour Speed Up
+59
+
+Resource Image
+3 Hour Speed Up
+212
+
+Resource Image
+5 Hour Speed Up
+0
+
+Resource Image
+8 Hour Speed Up
+0
+
+Resource Image
+12 Hour Speed Up
+0
+
+Resource Image
+15 Hour Speed Up
+0
+
+Resource Image
+1 Day Speed Up
+0
+
+Resource Image
+2 Day Speed Up
+0
+
+Resource Image
+3 Day Speed Up
+0
+
+Resource Image
+10 Day Speed Up
+0
+
+Resource Image
+1 Minute Repair Speed Up
+1.43 K
+
+Resource Image
+3 Minute Repair Speed Up
+278
+
+Resource Image
+5 Minute Repair Speed Up
+4.8 K
+
+Resource Image
+10 Minute Repair Speed Up
+4.84 K
+
+Resource Image
+15 Minute Repair Speed Up
+15.15 K
+
+Resource Image
+30 Minute Repair Speed Up
+47.86 K
+
+Resource Image
+1 Hour Repair Speed Up
+19.1 K
+
+Resource Image
+3 Hour Repair Speed Up
+9.88 K
+
+Resource Image
+5 Hour Repair Speed Up
+15.71 K
+
+Resource Image
+8 Hour Repair Speed Up
+11.87 K
+
+Resource Image
+12 Hour Repair Speed Up
+9.63 K
+
+Resource Image
+15 Hour Repair Speed Up
+6.3 K
+
+Resource Image
+1 Day Repair Speed Up
+3.62 K
+
+Resource Image
+2 Day Repair Speed Up
+1.66 K
+
+Resource Image
+3 Day Repair Speed Up
+0
+
+Resource Image
+1 Minute Assignment Speed Up
+358
+
+Resource Image
+5 Minute Assignment Speed Up
+373
+
+Resource Image
+15 Minute Assignment Speed Up
+789
+
+Resource Image
+1 Hour Assignment Speed Up
+1.68 K
+
+Resource Image
+4 Hour Assignment Speed Up
+57
+
+Resource Image
+12 Hour Assignment Speed Up
+21
+
+Resource Image
+1 Day Assignment Speed Up
+0
+
+Resource Image
+Spock Recruit Token
+0
+
+Resource Image
+Alliance Event Trophy
+2.42 K
+
+Resource Image
+Alliance Silver Trophy
+0
+
+Resource Image
+Alliance Gold Trophy
+0
+
+Resource Image
+Alliance Platinum Trophy
+0
+
+Resource Image
+Hunter Trophy
+0
+
+Resource Image
+Holiday Token
+0
+
+Resource Image
+Super Holiday Token
+0
+
+Resource Image
+Platinum Trophy
+0
+
+Resource Image
+Standard Reward Chip
+0
+
+Resource Image
+Choice Reward Chip
+0
+
+Resource Image
+Elite Reward Chip
+0
+
+Resource Image
+Elite Bat'leth Token
+0
+
+Resource Image
+Klingon Bronze Token
+0
+
+Resource Image
+Klingon Silver Token
+0
+
+Resource Image
+Klingon Gold Token
+0
+
+Resource Image
+Epic Ultra Token
+0
+
+Resource Image
+Romulan Bronze Token
+0
+
+Resource Image
+Romulan Silver Token
+0
+
+Resource Image
+Romulan Gold Token
+0
+
+Resource Image
+Romulan Platinum Token
+0
+
+Resource Image
+Federation Bronze Token
+0
+
+Resource Image
+Federation Silver Token
+0
+
+Resource Image
+Federation Gold Token
+0
+
+Resource Image
+Federation Platinum Token
+0
+
+Resource Image
+Klingon Heart
+0
+
+Resource Image
+Alliance Gift Token
+0
+
+Resource Image
+Key Token
+0
+
+Resource Image
+Palladium Token
+0
+
+Resource Image
+Hero Token
+0
+
+Resource Image
+Daily Points
+505.63 K
+
+Resource Image
+1 Hr Peace Shield
+29
+
+Resource Image
+2 Hr Peace Shield
+9
+
+Resource Image
+4 Hr Peace Shield
+297
+
+Resource Image
+8 Hr Peace Shield
+431
+
+Resource Image
+12 Hr Peace Shield
+290
+
+Resource Image
+1 Day Peace Shield
+115
+
+Resource Image
+3 Day Peace Shield
+84
+
+Resource Image
+7 Day Peace Shield
+46
+
+Resource Image
+14 Day Peace Shield
+0
+
+Resource Image
+30 Day Peace Shield
+0
+
+Resource Image
+1 Hr Peace Shield
+0
+
+Resource Image
+1 Hr Peace Shield
+0
+
+Resource Image
+Ascend Key
+0
+
+Resource Image
+Ascend Key 2
+0
+
+Resource Image
+Ascend Key 3
+0
+
+Resource Image
+100K Parsteel Token
+0
+
+Resource Image
+100K Tritanium Token
+426
+
+Resource Image
+10K Dilithium Token
+76
+
+Resource Image
+1M Parsteel Token
+106.5 K
+
+Resource Image
+1M Tritanium Token
+1.5 K
+
+Resource Image
+100K Dilithium Token
+163
+
+Resource Image
+1B Parsteel Token
+0
+
+Resource Image
+1B Tritanium Token
+384
+
+Resource Image
+1M Dilithium Token
+15.14 K
+
+Resource Image
+1T Parsteel Token
+0
+
+Resource Image
+1T Tritanium Token
+0
+
+Resource Image
+1B Dilithium Token
+27
+
+Resource Image
+Standard Reward Chip
+0
+
+Resource Image
+Choice Reward Chip
+0
+
+Resource Image
+Elite Reward Chip
+0
+
+Resource Image
+June Reward Chip
+0
+
+Resource Image
+July Reward Chip
+0
+
+Resource Image
+August Reward Chip
+0
+
+Resource Image
+September Reward Chip
+0
+
+Resource Image
+October Reward Chip
+0
+
+Resource Image
+November Reward Chip
+0
+
+Resource Image
+December Reward Chip
+0
+
+Resource Image
+January Reward Chip
+0
+
+Resource Image
+February Reward Chip
+0
+
+Resource Image
+March Reward Chip
+0
+
+Resource Image
+April Reward Chip
+0
+
+Resource Image
+May Reward Chip
+0
+
+Resource Image
+June Choice Reward Chip
+0
+
+Resource Image
+July Choice Reward Chip
+0
+
+Resource Image
+August Choice Reward Chip
+0
+
+Resource Image
+September Choice Reward Chip
+0
+
+Resource Image
+October Choice Reward Chip
+0
+
+Resource Image
+November Choice Reward Chip
+0
+
+Resource Image
+December Choice Reward Chip
+0
+
+Resource Image
+January Choice Reward Chip
+0
+
+Resource Image
+February Choice Reward Chip
+0
+
+Resource Image
+March Choice Reward Chip
+0
+
+Resource Image
+April Choice Reward Chip
+0
+
+Resource Image
+May Choice Reward Chip
+0
+
+Resource Image
+June Elite Daily Reward Chip
+0
+
+Resource Image
+July Elite Daily Reward Chip
+0
+
+Resource Image
+August Elite Daily Reward Chip
+0
+
+Resource Image
+September Elite Daily Reward Chip
+0
+
+Resource Image
+October Elite Daily Reward Chip
+0
+
+Resource Image
+November Elite Daily Reward Chip
+0
+
+Resource Image
+December Elite Daily Reward Chip
+0
+
+Resource Image
+January Elite Daily Reward Chip
+0
+
+Resource Image
+February Elite Daily Reward Chip
+0
+
+Resource Image
+March Elite Daily Reward Chip
+0
+
+Resource Image
+April Elite Daily Reward Chip
+0
+
+Resource Image
+May Elite Daily Reward Chip
+0
+
+Resource Image
+Jan Bonus Chip Standard
+0
+
+Resource Image
+July Bonus Chip Standard
+0
+
+Resource Image
+March Bonus Chip Standard
+0
+
+Resource Image
+April Bonus Chip Standard
+0
+
+Resource Image
+May Bonus Chip Standard
+0
+
+Resource Image
+June Bonus Chip Standard
+0
+
+Resource Image
+July Bonus Chip Standard
+0
+
+Resource Image
+Aug Bonus Chip Standard
+0
+
+Resource Image
+Sept Bonus Chip Standard
+0
+
+Resource Image
+Oct Bonus Chip Standard
+0
+
+Resource Image
+Nov Bonus Chip Standard
+0
+
+Resource Image
+Dec Bonus Chip Standard
+0
+
+Resource Image
+January Bonus Chip Rare
+0
+
+Resource Image
+Feb Bonus Chip Rare
+0
+
+Resource Image
+March Bonus Chip Rare
+0
+
+Resource Image
+April Bonus Chip Rare
+0
+
+Resource Image
+May Bonus Chip Rare
+0
+
+Resource Image
+June Bonus Chip Rare
+0
+
+Resource Image
+July Bonus Chip Rare
+0
+
+Resource Image
+August Bonus Chip Rare
+0
+
+Resource Image
+Sept Bonus Chip Rare
+0
+
+Resource Image
+Oct Bonus Chip Rare
+0
+
+Resource Image
+Nov Bonus Chip Rare
+0
+
+Resource Image
+Dec Bonus Chip Rare
+0
+
+Resource Image
+Jan Bonus Chip Epic
+0
+
+Resource Image
+February Bonus Chip Epic
+0
+
+Resource Image
+March Bonus Chip Epic
+0
+
+Resource Image
+April Bonus Chip Epic
+0
+
+Resource Image
+May Bonus Chip Epic
+0
+
+Resource Image
+June Bonus Chip Epic
+0
+
+Resource Image
+July Bonus Chip Epic
+0
+
+Resource Image
+Aug Bonus Chip Epic
+0
+
+Resource Image
+Sept Bonus Chip Epic
+0
+
+Resource Image
+Oct Bonus Chip Epic
+0
+
+Resource Image
+Nov Bonus Chip Epic
+0
+
+Resource Image
+Dec Bonus Chip Epic
+0
+
+Resource Image
+Relocation Token
+1
+
+Resource Image
+Relocation Token
+1
+
+Resource Image
+Relocation Token
+1
+
+Resource Image
+Loyalty Badge
+3
+
+Resource Image
+Armada Directives
+930
+
+Resource Image
+Rare Armada Directives
+1.31 K
+
+Resource Image
+Epic Armada Directives
+8.84 K
+
+Resource Image
+PvP Armada Directives
+0
+
+Resource Image
+Uncommon Armada Credit
+1.77 B
+
+Resource Image
+Rare Armada Credit
+687.43 M
+
+Resource Image
+Epic Armada Credit
+364.33 M
+
+Resource Image
+Armada Tactical Core
+67.49 M
+
+Resource Image
+Rare Armada Tactical Core
+1.99 M
+
+Resource Image
+Novice Transfer Token
+1
+
+Resource Image
+Advanced Transfer Token
+0
+
+Resource Image
+ISS Command Codes
+0
+
+Resource Image
+Broken Mirror Mission Token
+0
+
+Resource Image
+Mirror, Mirror Mission Token
+0
+
+Resource Image
+Crossover Token
+0
+
+Resource Image
+Mirror Sigil
+0
+
+Resource Image
+Hikakin Token
+0
+
+Resource Image
+Ion Particle
+0
+
+Resource Image
+Pattern Disruptor
+3.71 K
+
+Resource Image
+Warp Particle
+0
+
+Resource Image
+Federation Message
+16.3 M
+
+Resource Image
+Klingon Message
+14.72 M
+
+Resource Image
+Romulan Message
+15.53 M
+
+Resource Image
+Deep Space Datapad
+3
+
+Resource Image
+Alpha Token
+0
+
+Resource Image
+Beta Token
+0
+
+Resource Image
+Gamma Token
+0
+
+Resource Image
+Delta Token
+0
+
+Resource Image
+Epsilon Token
+0
+
+Resource Image
+Zeta Token
+0
+
+Resource Image
+Theta Token
+0
+
+Resource Image
+Kappa Token
+0
+
+Resource Image
+Christmas Token
+0
+
+Resource Image
+Gingerbread Token
+0
+
+Resource Image
+Thanksgiving Token
+0
+
+Resource Image
+Valentines Day Standard Token
+0
+
+Resource Image
+Valentines Day Rare Token
+0
+
+Resource Image
+Valentines Day Epic Token
+0
+
+Resource Image
+Valentines Day Token
+0
+
+Resource Image
+Uncommon St. Patrick's Token
+0
+
+Resource Image
+Rare St. Patrick's Token
+0
+
+Resource Image
+Epic St. Patrick's Token
+0
+
+Resource Image
+Friday 13th Token
+0
+
+Resource Image
+Spring Equinox Token
+0
+
+Resource Image
+First Contact Token
+0
+
+Resource Image
+Bronze Competition Token
+0
+
+Resource Image
+Silver Competition Token
+0
+
+Resource Image
+Gold Competition Token
+0
+
+Resource Image
+System Scan Data
+25
+
+Resource Image
+Federation Easter Token
+0
+
+Resource Image
+Klingon Easter Token
+0
+
+Resource Image
+Romulan Easter Token
+0
+
+Resource Image
+Mirror Easter Token
+0
+
+Resource Image
+Borg Easter Token
+0
+
+Resource Image
+Mother's Day Token
+0
+
+Resource Image
+Cinco de Mayo Token
+0
+
+Resource Image
+Honored Service Token
+0
+
+Resource Image
+Galaxy Token 1
+0
+
+Resource Image
+Galaxy Token 2
+0
+
+Resource Image
+Galaxy Token 3
+0
+
+Resource Image
+Galaxy Token 4
+0
+
+Resource Image
+Galaxy Token 5
+0
+
+Resource Image
+Galaxy Token 6
+0
+
+Resource Image
+Galaxy Token 7
+0
+
+Resource Image
+Quantum Token
+0
+
+Resource Image
+Plasma Token
+0
+
+Resource Image
+Allegiance Token
+1
+
+Resource Image
+Polaron Token
+0
+
+Resource Image
+Isokinetic Token
+0
+
+Resource Image
+Rare Star Token
+0
+
+Resource Image
+Rare Planetary Token
+0
+
+Resource Image
+TOS II Server Mission Key
+0
+
+Resource Image
+Rare Exploration Token
+0
+
+Resource Image
+Ship Cloak Token - Level 26
+0
+
+Resource Image
+Uncommon Planetary Token
+0
+
+Resource Image
+Second Chances Token
+0
+
+Resource Image
+Uncommon Exploration Token
+0
+
+Resource Image
+Epic Star Token
+0
+
+Resource Image
+Epic Planetary Token
+0
+
+Resource Image
+Epic Galaxy Token
+25
+
+Resource Image
+Epic Exploration Token
+0
+
+Resource Image
+Uncommon Command Token
+0
+
+Resource Image
+Uncommon Engineering Token
+0
+
+Resource Image
+Uncommon Science Token
+0
+
+Resource Image
+Armada Trophy
+0
+
+Resource Image
+Borg Point
+0
+
+Resource Image
+Borg Recon Premium Rewards 1
+0
+
+Resource Image
+Epic Borg Point
+0
+
+Resource Image
+Epic Borg Reward Token
+0
+
+Resource Image
+Premium Borg Reward Token
+0
+
+Resource Image
+Borg Mission Key
+0
+
+Resource Image
+Borg Recon Premium Rewards 1
+0
+
+Resource Image
+Borg Recon Premium Rewards 2
+0
+
+Resource Image
+Borg Recon Premium Rewards 3
+0
+
+Resource Image
+Borg Recon Premium Rewards 4
+0
+
+Resource Image
+Borg Recon Premium Rewards 5
+0
+
+Resource Image
+Borg Recon Premium Rewards 6
+0
+
+Resource Image
+Borg Recon Premium Rewards 7
+0
+
+Resource Image
+Borg Recon Premium Rewards 8
+0
+
+Resource Image
+Borg Recon Premium Rewards 9
+0
+
+Resource Image
+Borg Recon Premium Rewards 10
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+February Borg Premium Rewards 1
+0
+
+Resource Image
+February Borg Premium Rewards 2
+0
+
+Resource Image
+February Borg Premium Rewards 3
+0
+
+Resource Image
+February Borg Premium Rewards 4
+0
+
+Resource Image
+February Borg Premium Rewards 5
+0
+
+Resource Image
+February Borg Premium Rewards 6
+0
+
+Resource Image
+February Borg Premium Rewards 7
+0
+
+Resource Image
+February Borg Premium Rewards 8
+0
+
+Resource Image
+February Borg Premium Rewards 9
+0
+
+Resource Image
+February Borg Premium Rewards 10
+0
+
+Resource Image
+March Borg Premium Rewards 1
+0
+
+Resource Image
+March Borg Premium Rewards 2
+0
+
+Resource Image
+March Borg Premium Rewards 3
+0
+
+Resource Image
+March Borg Premium Rewards 4
+0
+
+Resource Image
+March Borg Premium Rewards 5
+0
+
+Resource Image
+March Borg Premium Rewards 6
+0
+
+Resource Image
+March Borg Premium Rewards 7
+0
+
+Resource Image
+March Borg Premium Rewards 8
+0
+
+Resource Image
+March Borg Premium Rewards 9
+0
+
+Resource Image
+March Borg Premium Rewards 10
+0
+
+Resource Image
+March Borg Point
+0
+
+Resource Image
+Borg War Funds
+1.9 K
+
+Resource Image
+Borg Tech Salvage
+0
+
+Resource Image
+Advanced Borg Tech Salvage
+0
+
+Resource Image
+Borg War Effort Point
+0
+
+Resource Image
+Borg Transwarp Cell
+0
+
+Resource Image
+Mega Cube Transwarp Cell
+0
+
+Resource Image
+Borg Armada Directive
+1
+
+Resource Image
+Rare Borg Armada Directive
+0
+
+Resource Image
+Epic Borg Armada Directive
+0
+
+Resource Image
+Borg Mega Cube Armada Directive
+10
+
+Resource Image
+Inert Nanoprobe
+144.72 M
+
+Resource Image
+Active Nanoprobe
+3.53 M
+
+Resource Image
+Charged Nanoprobe
+87.5 M
+
+Resource Image
+Transwarp Cell
+90
+
+Resource Image
+Latinum Antique
+0
+
+Resource Image
+Uncommon Latinum Transwarp Cell
+3
+
+Resource Image
+Rare Latinum Transwarp Cell
+0
+
+Resource Image
+Epic Latinum Transwarp Cell
+24
+
+Resource Image
+Salvaged Latinum Token
+0
+
+Resource Image
+Hungry Tribble
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Elite Pass
+0
+
+Resource Image
+Gauntlet Token
+0
+
+Resource Image
+Outlaw Premium Token 2
+0
+
+Resource Image
+Outlaw Premium Token 3
+0
+
+Resource Image
+Outlaw Premium Token 4
+0
+
+Resource Image
+5th Anniversary Gift
+0
+
+Resource Image
+Outlaw Premium Token 6
+0
+
+Resource Image
+Outlaw Premium Token 7
+0
+
+Resource Image
+Outlaw Premium Token 8
+0
+
+Resource Image
+Outlaw Premium Token 9
+0
+
+Resource Image
+Outlaw Premium Token 10
+0
+
+Resource Image
+Outlaws Mission Key
+0
+
+Resource Image
+Data Mining Trophy
+0
+
+Resource Image
+Arena Warp Cell
+0
+
+Resource Image
+Gravimetric Scanner
+0
+
+Resource Image
+Battle Pass Points
+9.93 M
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Outlaws II Mission Key
+0
+
+Resource Image
+Rogue Event Trophy
+65
+
+Resource Image
+Augment Event Trophy
+0
+
+Resource Image
+Rogue Reputation
+30 M
+
+Resource Image
+Rogue Credits
+715
+
+Resource Image
+Eclipse Security Codes
+50.66 M
+
+Resource Image
+Uncommon Eclipse Armada Directive
+352
+
+Resource Image
+Rare Eclipse Armada Directive
+1.2 K
+
+Resource Image
+Epic Eclipse Armada Directive
+55
+
+Resource Image
+Uncommon Exchange Vault Loot
+58.61 M
+
+Resource Image
+Rare Exchange Vault Loot
+1.21 M
+
+Resource Image
+Epic Exchange Vault Loot
+313.97 K
+
+Resource Image
+Uncommon Uranium
+2.9 M
+
+Resource Image
+Rare Uranium
+417.04 K
+
+Resource Image
+Epic Uranium
+50.92 K
+
+Resource Image
+Mission Token
+2
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Stella Particle
+1.37 M
+
+Resource Image
+Outlaw Research Credits
+311.52 K
+
+Resource Image
+Lackey Token
+0
+
+Resource Image
+Scoundrel Token
+0
+
+Resource Image
+Known Associate Token
+0
+
+Resource Image
+Outlaw Rep Token
+0
+
+Resource Image
+Alpha Particle
+0
+
+Resource Image
+Beta Particle
+0
+
+Resource Image
+Gamma Particle
+1
+
+Resource Image
+Rogue Transwarp Cell
+67
+
+Resource Image
+Stella Hull Scan
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+5
+
+Resource Image
+Mission Token
+5
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+5
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Outlaws II Elite Pass
+0
+
+Resource Image
+Eclipse Heist Token
+50
+
+Resource Image
+Contraband Chips
+7.25 K
+
+Resource Image
+Apex Research Medal
+8.53 K
+
+Resource Image
+August Elite Pass
+0
+
+Resource Image
+August Outlaw Mission Key
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Heist Loot
+0
+
+Resource Image
+Stella G4 Bonus
+0
+
+Resource Image
+Mycelium Spore
+803.81 K
+
+Resource Image
+Cultivated Mycelium
+145.21 K
+
+Resource Image
+Discovery Recruit Token
+72
+
+Resource Image
+Discovery Refinery Token
+372
+
+Resource Image
+Spore Drive Component
+22.38 K
+
+Resource Image
+Synaptic Interface
+0
+
+Resource Image
+September Elite Pass
+0
+
+Resource Image
+Discovery Mission Key
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Twisted Alien Metal
+0
+
+Resource Image
+Repaired Alien Metal
+0
+
+Resource Image
+Rare Alliance Gift Token
+0
+
+Resource Image
+Minor Commendation
+8.79 K
+
+Resource Image
+Distortion Ring
+0
+
+Resource Image
+Spatial Coordinates
+0
+
+Resource Image
+October Elite Pass
+0
+
+Resource Image
+Discovery II Mission Key
+0
+
+Resource Image
+Gold Star Medal
+65
+
+Resource Image
+Silver Star Medal
+3
+
+Resource Image
+Bronze Star Medal
+3
+
+Resource Image
+Gummy Tardigrade
+0
+
+Resource Image
+Gummy Gagh
+0
+
+Resource Image
+Gummy Legionary
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+25 K
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+500
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+November Elite Pass
+0
+
+Resource Image
+Discovery III Mission Key
+0
+
+Resource Image
+Terran Imperial Credits
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Duranium
+12.29 K
+
+Resource Image
+Uncommon Black Fleet Memorial
+11
+
+Resource Image
+Rare Black Fleet Memorial
+9
+
+Resource Image
+Epic Black Fleet Memorial
+2
+
+Resource Image
+Fortified Baakonite
+18.93 K
+
+Resource Image
+December Elite Pass
+0
+
+Resource Image
+Discovery IV Mission Key
+0
+
+Resource Image
+Holiday Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Relocation Token
+1
+
+Resource Image
+Relocation Token
+1
+
+Resource Image
+Relocation Token
+1
+
+Resource Image
+Lucrative 3★ Mines Transwarp Cell
+102
+
+Resource Image
+January 2021 Elite Pass
+0
+
+Resource Image
+TOS Mission Key
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Event Ticket
+0
+
+Resource Image
+February Elite Pass
+0
+
+Resource Image
+TOS II Mission Key
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Uncommon Event Ticket
+20
+
+Resource Image
+G4 Station Particle
+0
+
+Resource Image
+Doomsday Transwarp Cell
+0
+
+Resource Image
+Elite Doomsday Transwarp Cell
+0
+
+Resource Image
+Valentine
+0
+
+Resource Image
+Valentine Event Ticket
+0
+
+Resource Image
+Salvage Parts
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+USS Constellation Shard
+0
+
+Resource Image
+3⇵ TOS USS Enterprise Shard
+0
+
+Resource Image
+3⇵ TOS D7 Shard
+0
+
+Resource Image
+3⇵ TOS Bird of Prey Shard
+0
+
+Resource Image
+4⇵ TOS USS Enterprise Shard
+0
+
+Resource Image
+4⇵ TOS D7 Shard
+0
+
+Resource Image
+4⇵ TOS Bird of Prey Shard
+0
+
+Resource Image
+Common Projectile Shard
+0
+
+Resource Image
+Uncommon Projectile Shard
+0
+
+Resource Image
+Rare Projectile Shard
+100
+
+Resource Image
+Epic Projectile Shard
+0
+
+Resource Image
+March Elite Pass
+0
+
+Resource Image
+Doomsday Mission Key
+0
+
+Resource Image
+Neutronium
+0
+
+Resource Image
+Antiprotons
+0
+
+Resource Image
+Ship Skin Shard Tracker
+17.55 K
+
+Resource Image
+Gem
+0
+
+Resource Image
+Gold Coin
+0
+
+Resource Image
+Silver Coin
+0
+
+Resource Image
+Tribble(s)
+0
+
+Resource Image
+Crate of Grain
+0
+
+Resource Image
+Doomsday Directive
+0
+
+Resource Image
+Rare Event Ticket
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Infinitus Shard
+41
+
+Resource Image
+Opus Grande Shard
+6
+
+Resource Image
+USS Terror Shard
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+April Elite Pass
+0
+
+Resource Image
+Absolution Mission Key
+0
+
+Resource Image
+Borg Armada Directive
+0
+
+Resource Image
+Borg Recruit Token
+95
+
+Resource Image
+Plasma Blast Shard
+50
+
+Resource Image
+Shuttle Bay Particle
+2
+
+Resource Image
+Assignment Refresh Token
+0
+
+Resource Image
+Service Award
+281.38 M
+
+Resource Image
+Merit of Honor
+117.28 K
+
+Resource Image
+Away Teams Particle
+206
+
+Resource Image
+Rare Star Chart
+2.08 M
+
+Resource Image
+Epic Star Chart
+2.27 M
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Special Battlepass Star Chart
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+May Elite Pass
+0
+
+Resource Image
+TNG Mission Key
+0
+
+Resource Image
+Memorial Day Token
+0
+
+Resource Image
+Rare Event Ticket
+0
+
+Resource Image
+Epic Event Ticket
+0
+
+Resource Image
+June Elite Pass
+0
+
+Resource Image
+TNG Pt. 2 Mission Key
+0
+
+Resource Image
+Picard Ticket
+0
+
+Resource Image
+Picard Coin
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Euro 2020: Neutral Badge
+0
+
+Resource Image
+Diplomatic Protocol Commendation
+0
+
+Resource Image
+Offensive Protocol Commendation
+0
+
+Resource Image
+Euro 2020: Team Romulan Badge
+0
+
+Resource Image
+Platinum Armada Credit
+0
+
+Resource Image
+Refractive Beam Shard
+0
+
+Resource Image
+Positron Phaser Shard
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Iso-Resin
+90.87 K
+
+Resource Image
+Meridian Iso Warp Interlock
+0
+
+Resource Image
+Meridian Iso Warp Regulator
+0
+
+Resource Image
+3⇵ Meridian Refit Shard
+0
+
+Resource Image
+4⇵ USS Hydra Refit Shard
+0
+
+Resource Image
+4⇵ B'Chor Refit Shard
+0
+
+Resource Image
+4⇵ Vorta Vor Refit Shard
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+July Elite Pass
+0
+
+Resource Image
+TNG Pt. 3 Mission Key
+0
+
+Resource Image
+Bronze Medal
+0
+
+Resource Image
+Silver Medal
+0
+
+Resource Image
+Gold Medal
+0
+
+Resource Image
+Riker Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+August Elite Pass
+0
+
+Resource Image
+Server Milestone Ticket
+0
+
+Resource Image
+TNG Pt. 4 Mission Key
+0
+
+Resource Image
+Burst Event Trophy
+0
+
+Resource Image
+Decision Point Token
+0
+
+Resource Image
+TNG Recruit Token
+0
+
+Resource Image
+Mining Recruit Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Axionic Chip
+1.92 K
+
+Resource Image
+Exocomp Factory Key
+0
+
+Resource Image
+Axionic Servo
+6.75 K
+
+Resource Image
+Advanced Exocomp Factory Key
+0
+
+Resource Image
+Trait XP
+30.66 K
+
+Resource Image
+Away Teams Credits
+2.94 K
+
+Resource Image
+Shuttle Bay Particle
+0
+
+Resource Image
+Trait Badge
+0
+
+Resource Image
+September Elite Pass
+0
+
+Resource Image
+TNG Pt. 5 Mission Key
+0
+
+Resource Image
+Memento of Valor
+0
+
+Resource Image
+Parrises Qualifier Token A
+0
+
+Resource Image
+Parrises Qualifier Token B
+0
+
+Resource Image
+Parrises Finals Token A
+0
+
+Resource Image
+Parrises Finals Token B
+0
+
+Resource Image
+Parrises Entry Token
+0
+
+Resource Image
+Parrises Qualifier Token A1
+0
+
+Resource Image
+Parrises Qualifier Token B1
+0
+
+Resource Image
+Parrises Finals Token A1
+0
+
+Resource Image
+Parrises Finals Token B1
+0
+
+Resource Image
+Parrises Entry Token A1
+0
+
+Resource Image
+Sigma Event Token
+0
+
+Resource Image
+Chi Event Token
+0
+
+Resource Image
+Phi Event Token
+0
+
+Resource Image
+Omega Event Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Multiphasic Credits
+5.79 K
+
+Resource Image
+S31 Intelligence
+43.61 K
+
+Resource Image
+K.S.G. Intelligence
+55.41 K
+
+Resource Image
+R.I. Intelligence
+49.41 K
+
+Resource Image
+Raw Intelligence
+273.21 K
+
+Resource Image
+October Elite Pass
+0
+
+Resource Image
+Duality Pt. 1 Mission Key
+0
+
+Resource Image
+Klingon Bounty
+0
+
+Resource Image
+Romulan Bounty
+0
+
+Resource Image
+Klingon War Pact
+0
+
+Resource Image
+Romulan War Pact
+0
+
+Resource Image
+Candy Corn Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Advanced Exocomp Factory Key II
+0
+
+Resource Image
+D3 Cloaking Shard
+0
+
+Resource Image
+Legionary Cloaking Shard
+0
+
+Resource Image
+Bortas Cloaking Shard
+0
+
+Resource Image
+Centurion Cloaking Shard
+1
+
+Resource Image
+B'rel Cloaking Shard
+0
+
+Resource Image
+Gladius Cloaking Shard
+0
+
+Resource Image
+D4 Cloaking Shard
+0
+
+Resource Image
+Augur Cloaking Shard
+0
+
+Resource Image
+K'T'inga Cloaking Shard
+0
+
+Resource Image
+Valdore Cloaking Shard
+0
+
+Resource Image
+Korinar Cloaking Shard
+0
+
+Resource Image
+Pilum Cloaking Shard
+0
+
+Resource Image
+Hegh'ta Cloaking Shard
+0
+
+Resource Image
+Tribune Cloaking Shard
+0
+
+Resource Image
+Tetryons
+501
+
+Resource Image
+Mission Token
+9
+
+Resource Image
+3⇵ USS Enterprise D Shard
+0
+
+Resource Image
+4⇵ USS Enterprise D Shard
+0
+
+Resource Image
+Ephemeris Shard
+7
+
+Resource Image
+Puyjaq Shard
+93
+
+Resource Image
+Astrum Shard
+8
+
+Resource Image
+USS Enterprise Cloaking Shard
+0
+
+Resource Image
+USS Enterprise A Cloaking Shard
+0
+
+Resource Image
+Vor'Cha Cloaking Shard
+0
+
+Resource Image
+Corvus Cloaking Shard
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Cloaked Racketeer Token
+0
+
+Resource Image
+November Elite Pass
+0
+
+Resource Image
+Romulan Mission Key
+0
+
+Resource Image
+Klingon Mission Key
+0
+
+Resource Image
+Mission Key
+1
+
+Resource Image
+Fed. Cloaking Unlock Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Conquest Entry Token
+0
+
+Resource Image
+Conquest Klingon Token
+0
+
+Resource Image
+Conquest Romulan Token
+0
+
+Resource Image
+Thanksgiving Token
+0
+
+Resource Image
+Thanksgiving Store Token
+0
+
+Resource Image
+Tetryon Radiation
+2.04 K
+
+Resource Image
+Cloaking Research Key
+0
+
+Resource Image
+Borg Transponder
+0
+
+Resource Image
+Romulan Rank
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+ISS Jellyfish Cloaking Shard
+0
+
+Resource Image
+Sarcophagus Cloaking Shard
+0
+
+Resource Image
+Syndicate XP
+23.4 M
+
+Resource Image
+Mission Token
+50
+
+Resource Image
+December Elite Pass
+0
+
+Resource Image
+Glory!
+0
+
+Resource Image
+NYE Token
+0
+
+Resource Image
+Holiday Event Token
+0
+
+Resource Image
+Holiday Store Token
+0
+
+Resource Image
+Special Event Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+2
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1.18 K
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+18
+
+Resource Image
+Duality Pt 3 Mission Key
+0
+
+Resource Image
+Cryonic Blast Projectile Shard
+0
+
+Resource Image
+Quv'Sompek Cloaking Shard
+0
+
+Resource Image
+Sanctus Cloaking Shard
+0
+
+Resource Image
+Amalgam Cloaking Shard
+0
+
+Resource Image
+Amalgam Parts
+3.14 M
+
+Resource Image
+Plundered Cargo
+29.23 M
+
+Resource Image
+January Elite Pass
+0
+
+Resource Image
+Talondarsek
+0
+
+Resource Image
+Duality Pt. 4 Mission Key
+0
+
+Resource Image
+SMS Completionist
+0
+
+Resource Image
+Ticketed Event Completionist
+0
+
+Resource Image
+SLB Top 3 Trophy
+0
+
+Resource Image
+SLB First Place Trophy
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Klingon Initiation Token
+0
+
+Resource Image
+Romulan Initiation Token
+0
+
+Resource Image
+Amalgam Refinery Token
+8.01 K
+
+Resource Image
+February Elite Pass
+0
+
+Resource Image
+RoA Pt 1 Mission Key
+0
+
+Resource Image
+Dabo Token
+0
+
+Resource Image
+Valentine's Day Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Ferengi Gacha token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Marauder Mo
+0
+
+Resource Image
+Concentrated Latinum
+521.47 M
+
+Resource Image
+D'Vor Feesha Parts
+4.24 M
+
+Resource Image
+Drydock G Key
+0
+
+Resource Image
+D'Vor Feesha Warp Interlock
+0
+
+Resource Image
+D'Vor Feesha Warp Regulator
+0
+
+Resource Image
+D'Vor Advanced Data Core
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Triskelion Torpedo Shard
+0
+
+Resource Image
+RoA Pt 2 Mission Key
+0
+
+Resource Image
+March Elite Pass
+0
+
+Resource Image
+St Patrick's Day Token
+0
+
+Resource Image
+Treasury Key
+0
+
+Resource Image
+Desealing Rod
+14
+
+Resource Image
+Optical Diode
+42
+
+Resource Image
+Ferengi Gacha Token
+0
+
+Resource Image
+Epic Luck Token
+0
+
+Resource Image
+Quark Coin
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+890
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+6
+
+Resource Image
+Mission Token
+14
+
+Resource Image
+Cerritos Parts
+2.53 M
+
+Resource Image
+Culver Particle
+4.09 M
+
+Resource Image
+Rare Culver Particle
+10 K
+
+Resource Image
+Irvinite
+19.8 K
+
+Resource Image
+Lower Decks Mission Key
+0
+
+Resource Image
+April Elite Pass
+0
+
+Resource Image
+Cerritos Refinery Token
+750
+
+Resource Image
+Assignment Token
+0
+
+Resource Image
+Duty Shift Token
+0
+
+Resource Image
+Broken Desealing Rod
+2.84 K
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+10
+
+Resource Image
+Syndicate Prime Particle
+0
+
+Resource Image
+Section 31 Refit Shard
+2
+
+Resource Image
+Salvager Refit Shard
+0
+
+Resource Image
+May Elite Battle Pass
+0
+
+Resource Image
+3D Chess Piece
+0
+
+Resource Image
+May Discovery Mission Key
+0
+
+Resource Image
+May TOS Mission Key
+0
+
+Resource Image
+May TNG Mission Key
+0
+
+Resource Image
+May LD Mission Key
+0
+
+Resource Image
+May Completionist
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+June Elite Pass
+0
+
+Resource Image
+SNW Mission Key
+0
+
+Resource Image
+Cerritos Service Core
+0
+
+Resource Image
+SNW Medal of Honor
+0
+
+Resource Image
+Rodinium Particle
+175.19 K
+
+Resource Image
+Faction Allegiance Key
+3
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+601
+
+Resource Image
+Pattern Buffer
+950
+
+Resource Image
+Matrix Diode
+350
+
+Resource Image
+Holographic Diode
+0
+
+Resource Image
+June Reward Chip
+0
+
+Resource Image
+July Reward Chip
+0
+
+Resource Image
+August Reward Chip
+0
+
+Resource Image
+September Reward Chip
+0
+
+Resource Image
+October Reward Chip
+0
+
+Resource Image
+November Reward Chip
+0
+
+Resource Image
+December Reward Chip
+0
+
+Resource Image
+January Reward Chip
+0
+
+Resource Image
+February Reward Chip
+0
+
+Resource Image
+March Reward Chip
+0
+
+Resource Image
+April Reward Chip
+0
+
+Resource Image
+May Reward Chip
+0
+
+Resource Image
+June Choice Reward Chip
+0
+
+Resource Image
+July Choice Reward Chip
+0
+
+Resource Image
+August Choice Reward Chip
+0
+
+Resource Image
+September Choice Reward Chip
+0
+
+Resource Image
+October Choice Reward Chip
+0
+
+Resource Image
+November Choice Reward Chip
+0
+
+Resource Image
+December Choice Reward Chip
+0
+
+Resource Image
+January Choice Reward Chip
+0
+
+Resource Image
+February Choice Reward Chip
+0
+
+Resource Image
+March Choice Reward Chip
+0
+
+Resource Image
+April Choice Reward Chip
+0
+
+Resource Image
+May Choice Reward Chip
+0
+
+Resource Image
+June Elite Daily Reward Chip
+0
+
+Resource Image
+July Elite Daily Reward Chip
+0
+
+Resource Image
+August Elite Daily Reward Chip
+0
+
+Resource Image
+September Elite Daily Reward Chip
+0
+
+Resource Image
+October Elite Daily Reward Chip
+0
+
+Resource Image
+November Elite Daily Reward Chip
+0
+
+Resource Image
+December Elite Daily Reward Chip
+0
+
+Resource Image
+January Elite Daily Reward Chip
+0
+
+Resource Image
+February Elite Daily Reward Chip
+0
+
+Resource Image
+March Elite Daily Reward Chip
+0
+
+Resource Image
+April Elite Daily Reward Chip
+0
+
+Resource Image
+May Elite Daily Reward Chip
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Cerritos Refit Shard
+0
+
+Resource Image
+Temporal Torpedo Shard
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+July Elite Battle Pass
+0
+
+Resource Image
+Subspace Relay Key
+0
+
+Resource Image
+Subspace Relay Upgrade
+1.72 K
+
+Resource Image
+Triumph Token
+0
+
+Resource Image
+Triumph Token
+0
+
+Resource Image
+Incursion Coin
+6.08 K
+
+Resource Image
+Incursion Coin 2
+300
+
+Resource Image
+Incursion Conduit
+130
+
+Resource Image
+Interim Battle Pass
+0
+
+Resource Image
+Officer Flash Pass Points.
+3.41 M
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+300
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Ancient Beacon
+8
+
+Resource Image
+Actian Venom
+155.31 M
+
+Resource Image
+Synthetic Nitrium
+86.76 K
+
+Resource Image
+Synthetic Ion
+361.05 K
+
+Resource Image
+Condensed Venom
+5.24 K
+
+Resource Image
+Chrysalis Silk
+262
+
+Resource Image
+Diluted Nitrium
+257
+
+Resource Image
+Cytotoxin Slime
+277
+
+Resource Image
+Compressed Cortisol
+0
+
+Resource Image
+Compressed Cortisol
+0
+
+Resource Image
+Hull Fragments
+56
+
+Resource Image
+Pure Venom
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1.46 K
+
+Resource Image
+August Completionist
+0
+
+Resource Image
+Actian Keys
+0
+
+Resource Image
+August Elite Pass
+0
+
+Resource Image
+Majalan Power Core Tier 2
+0
+
+Resource Image
+Majalan Power Core Tier 3
+0
+
+Resource Image
+Majalan Power Core Tier 4
+0
+
+Resource Image
+Majalan Power Core Tier 5
+0
+
+Resource Image
+Majalan Power Core Tier 6
+0
+
+Resource Image
+Majalan Power Core Tier 7
+0
+
+Resource Image
+Majalan Power Core Tier 8
+0
+
+Resource Image
+Majalan Power Core Tier 9
+0
+
+Resource Image
+Majalan Power Core Tier 10
+0
+
+Resource Image
+Majalan Power Core Tier 11
+0
+
+Resource Image
+Majalan Power Core Tier 12
+0
+
+Resource Image
+Officer Flash Pass Elite
+0
+
+Resource Image
+Cardassian Disruptor Shard
+0
+
+Resource Image
+Enterprise Refit Shard
+0
+
+Resource Image
+D4 Class Refit Shard
+0
+
+Resource Image
+Augur Refit Shard
+0
+
+Resource Image
+Alliance Points
+495 K
+
+Resource Image
+Alliance Reserves
+0
+
+Resource Image
+Collisional Plasma
+0
+
+Resource Image
+Magnetic Plasma
+0
+
+Resource Image
+Active Plasma
+0
+
+Resource Image
+Subspace Superconductor
+0
+
+Resource Image
+Cardassian Loot
+2.01 M
+
+Resource Image
+Superior Cardassian Loot
+23.99 K
+
+Resource Image
+Assembly Medals
+1.5 M
+
+Resource Image
+1 Minute Alliance Speedup
+0
+
+Resource Image
+5 Minute Alliance Speedup
+0
+
+Resource Image
+15 Minute Alliance Speedup
+0
+
+Resource Image
+30 Minute Alliance Speedup
+0
+
+Resource Image
+1 Hour Alliance Speedup
+0
+
+Resource Image
+5 Hour Alliance Speedup
+0
+
+Resource Image
+12 Hour Alliance Speedup
+0
+
+Resource Image
+1 Day Alliance Speedup
+0
+
+Resource Image
+Advanced Procedures
+0
+
+Resource Image
+September Elite Pass
+0
+
+Resource Image
+M46 DS9 Mission Key
+0
+
+Resource Image
+Orb Fragments
+0
+
+Resource Image
+Orbs of Prosperity
+0
+
+Resource Image
+Isolinear Rods
+0
+
+Resource Image
+Isolinear Data Chips
+0
+
+Resource Image
+Intel Brief – Kira
+0
+
+Resource Image
+Intel Brief – Miles
+1
+
+Resource Image
+Intel Brief – Sisko
+0
+
+Resource Image
+Elite Federation Recruit Token
+260
+
+Resource Image
+Elite Romulan Recruit Token
+200
+
+Resource Image
+Elite Klingon Recruit Token
+415
+
+Resource Image
+Officer Flash Pass Elite
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+26
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+October Elite Pass
+0
+
+Resource Image
+Officer Flash Pass Elite
+0
+
+Resource Image
+Antimatter Units
+20.03 M
+
+Resource Image
+Bajoran Reputation
+5 M
+
+Resource Image
+Bajoran Credits
+85.62 K
+
+Resource Image
+Bajoran Badge
+45.17 K
+
+Resource Image
+Diplomacy Token
+97.85 K
+
+Resource Image
+Dominion Solo Armada Credit Uncommon
+957.18 M
+
+Resource Image
+Dominion Solo Armada Credit Rare
+2.13 B
+
+Resource Image
+Dominion Solo Armada Credit Epic
+478.24 M
+
+Resource Image
+Dominion Solo Armada Edict
+671.34 K
+
+Resource Image
+Dominion Solo Armada Directive Uncommon
+6.85 K
+
+Resource Image
+Dominion Solo Armada Directive Rare
+18.37 K
+
+Resource Image
+Dominion Solo Armada Directive Epic
+10.75 K
+
+Resource Image
+G4 Dominion Transwarp Cell
+58
+
+Resource Image
+G5 Dominion Transwarp Cell
+33
+
+Resource Image
+Orb Splinters
+1.39 K
+
+Resource Image
+Prime Medal
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Halloween Hat
+0
+
+Resource Image
+Legate's Decree
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Antares Auto Defense Shard
+107
+
+Resource Image
+Valkis Auto Defense Shard
+107
+
+Resource Image
+K'Vort Auto Defense Shard
+108
+
+Resource Image
+Hydra Auto Defense Shard
+107
+
+Resource Image
+Vorta Auto Defense Shard
+107
+
+Resource Image
+B'Chor Auto Defense Shard
+107
+
+Resource Image
+Swarm Prime Particle
+0
+
+Resource Image
+Faction Event Particle
+713
+
+Resource Image
+November Elite Pass
+0
+
+Resource Image
+November Elite Flash Pass
+0
+
+Resource Image
+Ablative Armor Parts
+759.94 K
+
+Resource Image
+Plasma Conduits
+440 K
+
+Resource Image
+Subspace Transceivers
+570
+
+Resource Image
+Isolinear Optical Chip T2
+0
+
+Resource Image
+Isolinear Optical Chip T3
+0
+
+Resource Image
+Isolinear Optical Chip T4
+0
+
+Resource Image
+Isolinear Optical Chip T5
+0
+
+Resource Image
+Isolinear Optical Chip T6
+0
+
+Resource Image
+Isolinear Optical Chip T7
+0
+
+Resource Image
+Isolinear Optical Chip T8
+0
+
+Resource Image
+Isolinear Optical Chip T9
+0
+
+Resource Image
+Isolinear Optical Chip T10
+0
+
+Resource Image
+Isolinear Optical Chip T11
+0
+
+Resource Image
+Isolinear Optical Chip T12
+0
+
+Resource Image
+Ablative Amplifiers
+21.85 K
+
+Resource Image
+Mission Token
+4
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+2
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+5
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+USS Defiant Cloaking Shard
+1
+
+Resource Image
+D'Deridex Cloaking Shard
+0
+
+Resource Image
+Rotarran Cloaking Shard
+0
+
+Resource Image
+USS Enterprise D Cloaking Shard
+0
+
+Resource Image
+Nadion
+4.16 K
+
+Resource Image
+Mayflower Relentless Assault Shard
+0
+
+Resource Image
+Saladin Relentless Assault Shard
+0
+
+Resource Image
+Intrepid Relentless Assault Shard
+0
+
+Resource Image
+Enterprise Direct Hit Shard
+0
+
+Resource Image
+Kelvin Relentless Assault Shard
+0
+
+Resource Image
+Newton Relentless Assault Shard
+0
+
+Resource Image
+Enterprise A Lethal Force Shard
+0
+
+Resource Image
+Northcutt Relentless Assault Shard
+0
+
+Resource Image
+Crozier Relentless Assault Shard
+0
+
+Resource Image
+Enterprise D Weapon Barrage Shard
+0
+
+Resource Image
+D3 Relentless Assault Shard
+0
+
+Resource Image
+Bortas Relentless Assault Shard
+0
+
+Resource Image
+B’rel Relentless Assault Shard
+0
+
+Resource Image
+D4 Direct Hit Shard
+0
+
+Resource Image
+K’t’inga Relentless Assault Shard
+0
+
+Resource Image
+Korinar Relentless Assault Shard
+0
+
+Resource Image
+Hegh’ta Lethal Force Shard
+0
+
+Resource Image
+Vor’cha Relentless Assault Shard
+0
+
+Resource Image
+Quv’Sompek Relentless Assault Shard
+0
+
+Resource Image
+Rotarran Lethal Force Shard
+0
+
+Resource Image
+Legionary Relentless Assault Shard
+0
+
+Resource Image
+Centurion Relentless Assault Shard
+0
+
+Resource Image
+Gladius Relentless Assault Shard
+0
+
+Resource Image
+Augur Direct Hit Shard
+0
+
+Resource Image
+Valdore Relentless Assault Shard
+0
+
+Resource Image
+Pilum Relentless Assault Shard
+0
+
+Resource Image
+Tribune Weapon Barrage Shard
+0
+
+Resource Image
+Corvus Relentless Assault Shard
+0
+
+Resource Image
+Sanctus Relentless Assault Shard
+0
+
+Resource Image
+D’Deridex Lethal Force Shard
+0
+
+Resource Image
+North Star Auto Defense Shard
+0
+
+Resource Image
+Horizon Auto Defense Shard
+0
+
+Resource Image
+Fourth Anniversary Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Antiproton Disruptor Shards
+0
+
+Resource Image
+Jem'Hadar Fighter Shards
+0
+
+Resource Image
+Breen Warship Shards
+0
+
+Resource Image
+Cardassian Galore Shards
+0
+
+Resource Image
+Drydock H Unlock Key
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+24
+
+Resource Image
+Mission Token
+12
+
+Resource Image
+Mission Token
+16
+
+Resource Image
+Mission Token
+17
+
+Resource Image
+December Elite Pass
+1
+
+Resource Image
+Battle Pass Points
+0
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+Flash Pass Points
+0
+
+Resource Image
+Prime Assault Key
+0
+
+Resource Image
+Ketracel
+200
+
+Resource Image
+Rare Officer Combadge
+0
+
+Resource Image
+Epic Officer Combadge
+0
+
+Resource Image
+Trekmas Box
+0
+
+Resource Image
+Holographic Cards
+0
+
+Resource Image
+POTM Voucher
+0
+
+Resource Image
+AOTM Voucher
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Tactical Mandate
+91.18 K
+
+Resource Image
+Battle Pass Points
+0
+
+Resource Image
+Officer Flash Pass Elite
+0
+
+Resource Image
+Borg Solo Armada Credit Uncommon
+4.82 B
+
+Resource Image
+Borg Solo Armada Credit Rare
+2.55 B
+
+Resource Image
+Borg Solo Armada Credit Epic
+2.55 B
+
+Resource Image
+Borg Solo Armada Directive Uncommon
+27.57 K
+
+Resource Image
+Borg Solo Armada Directive Rare
+16.72 K
+
+Resource Image
+Borg Solo Armada Directive Epic
+10.14 K
+
+Resource Image
+Polaron Beam Shard
+0
+
+Resource Image
+Quantum Communicators
+972
+
+Resource Image
+Commander XP
+12.38 M
+
+Resource Image
+Uncommon Commander Skill Points
+7.15 K
+
+Resource Image
+Rare Commander Skill Points
+594
+
+Resource Image
+Kirk Skill Points
+94
+
+Resource Image
+Spock Skill Points
+6
+
+Resource Image
+Locutus Skill Points
+157
+
+Resource Image
+Uncommon Commander Credits
+699.52 K
+
+Resource Image
+Rare Commander Credits
+134.32 K
+
+Resource Image
+Epic Commander Credits
+25.69 K
+
+Resource Image
+Command Center Refinery Dust
+4 K
+
+Resource Image
+Miner
+0
+
+Resource Image
+Architect
+0
+
+Resource Image
+Scientist
+0
+
+Resource Image
+Leader
+0
+
+Resource Image
+Hunter
+0
+
+Resource Image
+Explorer
+0
+
+Resource Image
+January Elite Pass
+1
+
+Resource Image
+Battle Pass Points
+0
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+Flash Pass Points
+0
+
+Resource Image
+Cyber-Luck Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+800
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+61
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Spock Quantum Key 1
+0
+
+Resource Image
+Spock Quantum Key 2
+0
+
+Resource Image
+Spock Quantum Key 3
+0
+
+Resource Image
+Spock Quantum Key 4
+0
+
+Resource Image
+Spock Quantum Key 5
+0
+
+Resource Image
+Spock Quantum Key 6
+0
+
+Resource Image
+Kirk Quantum Key 1
+0
+
+Resource Image
+Kirk Quantum Key 2
+0
+
+Resource Image
+Kirk Quantum Key 3
+0
+
+Resource Image
+Kirk Quantum Key 4
+0
+
+Resource Image
+Kirk Quantum Key 5
+0
+
+Resource Image
+Kirk Quantum Key 6
+0
+
+Resource Image
+Kirk Quantum Key 7
+0
+
+Resource Image
+Locutus Quantum Key 1
+0
+
+Resource Image
+Locutus Quantum Key 2
+0
+
+Resource Image
+Locutus Quantum Key 3
+0
+
+Resource Image
+Locutus Quantum Key 4
+0
+
+Resource Image
+Locutus Quantum Key 5
+0
+
+Resource Image
+Locutus Quantum Key 6
+0
+
+Resource Image
+USS Cerritos Cloaking Shard
+0
+
+Resource Image
+February Elite Pass
+1
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+Transwarp Coil - T2
+1
+
+Resource Image
+Transwarp Coil - T3
+1
+
+Resource Image
+Transwarp Coil - T4
+1
+
+Resource Image
+Transwarp Coil - T5
+1
+
+Resource Image
+Transwarp Coil - T6
+1
+
+Resource Image
+Transwarp Coil - T7
+1
+
+Resource Image
+Transwarp Coil - T8
+1
+
+Resource Image
+Transwarp Coil - T9
+1
+
+Resource Image
+Transwarp Coil - T10
+1
+
+Resource Image
+Transwarp Coil - T11
+1
+
+Resource Image
+Transwarp Coil - T12
+1
+
+Resource Image
+Vinculum Fragments
+3.4 M
+
+Resource Image
+Expansion Cube Directives
+1.27 K
+
+Resource Image
+Assimilated Recruit
+0
+
+Resource Image
+Assimilated Authority Recruit
+0
+
+Resource Image
+Assimilation Store Credit
+0
+
+Resource Image
+Favor of the Borg Queen
+8 K
+
+Resource Image
+Horga'hn Totem
+0
+
+Resource Image
+Horga'hn carved Currency
+4
+
+Resource Image
+Assimilated Amalgam Shard
+0
+
+Resource Image
+Assimilated Stella Shard
+0
+
+Resource Image
+Mission Token
+4
+
+Resource Image
+Mission Token
+4
+
+Resource Image
+Mission Token
+4
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+4
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+4
+
+Resource Image
+Mission Token
+4
+
+Resource Image
+Mission Token
+4
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+168
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Vi'dar Talios Prime Particle
+0
+
+Resource Image
+Expansion Cube Prime Particle
+0
+
+Resource Image
+Elite Recruit Prime Particle
+234
+
+Resource Image
+Foreknowledge buff for Vi'dar Talios
+860
+
+Resource Image
+Bonus Refinery Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Borg Cannon Shard
+0
+
+Resource Image
+Ex-Borg Reputation
+320 K
+
+Resource Image
+Ex-Borg Credits
+205.32 K
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+March Elite Battle Pass
+1
+
+Resource Image
+Lucky Shamrock
+2.2 K
+
+Resource Image
+Tribble Coin
+0
+
+Resource Image
+Villianous Token
+0
+
+Resource Image
+Feesha Glas Shard
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+4
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+4
+
+Resource Image
+Mission Token
+5
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+7
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Replicator Rations
+1.39 M
+
+Resource Image
+Mess Hall Key
+0
+
+Resource Image
+Repair Prime Particle
+508
+
+Resource Image
+Weapon Prime Particle
+200
+
+Resource Image
+Ship Parts Prime Particle
+700
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Prime Particle Key
+900
+
+Resource Image
+Apocrita Refit Shard
+0
+
+Resource Image
+USS Titan-A Parts
+305.06 K
+
+Resource Image
+Chateau Picard Coin
+300
+
+Resource Image
+Picard Memory Chip
+0
+
+Resource Image
+Radioactive Titanite
+25.81 K
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+7
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+160
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+5
+
+Resource Image
+Mission Token
+5
+
+Resource Image
+Mission Token
+5
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+4
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Seven of Nine Skill Points
+76
+
+Resource Image
+Veridium Isotope
+20.56 K
+
+Resource Image
+Enhanced Veridium Isotope
+0
+
+Resource Image
+USS Titan-A Max Fortification Shards
+0
+
+Resource Image
+Uncommon USS Titan-A Parts
+0
+
+Resource Image
+Rare USS Titan-A Parts
+0
+
+Resource Image
+Repair Requisition
+0
+
+Resource Image
+Weapon Upgrade Requisition
+0
+
+Resource Image
+Rare Skill Point Fragments
+1.85 K
+
+Resource Image
+Beryllium
+164.43 K
+
+Resource Image
+Christalline Beryllium
+0
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+April Elite Pass
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Supreme Choice Token
+0
+
+Resource Image
+Generic Token R2
+0
+
+Resource Image
+Generic Token R3
+10
+
+Resource Image
+Star Trek Day Claim Token
+0
+
+Resource Image
+Generic Token K1
+0
+
+Resource Image
+Generic Token K2
+0
+
+Resource Image
+Unknown Quantity Token
+0
+
+Resource Image
+Janeway Unlock Token
+0
+
+Resource Image
+010 Override Ticket
+0
+
+Resource Image
+Captain Freeman's Trophy
+100
+
+Resource Image
+Risa Officer Flash Pass Elite
+1
+
+Resource Image
+010 Override Scoring Token
+2.42 K
+
+Resource Image
+May/July Elite Research Daily Reward Chip
+0
+
+Resource Image
+June Elite Research Daily Reward Chip
+0
+
+Resource Image
+Prime Dolamide Particle
+430
+
+Resource Image
+Officer Flash Pass Elite
+0
+
+Resource Image
+May Elite Pass
+1
+
+Resource Image
+Mission Token
+470
+
+Resource Image
+Voyager Combadge
+6
+
+Resource Image
+Delta Flyer
+4
+
+Resource Image
+Mobile Emitter
+10
+
+Resource Image
+Voyager Travel Token
+5
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+4
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+4
+
+Resource Image
+Mission Token
+9
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+2
+
+Resource Image
+Mission Token
+8
+
+Resource Image
+Mission Token
+14
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Energy Focused Beam Projectile Shard
+0
+
+Resource Image
+Formation Armada Directive (Uncommon)
+90
+
+Resource Image
+Mission Token
+803
+
+Resource Image
+Artifact Token
+3.1 M
+
+Resource Image
+Premium Artifact Token
+805
+
+Resource Image
+Artifact Gallery Key
+0
+
+Resource Image
+Artifact Gallery Schematics
+1.39 K
+
+Resource Image
+Artifact Remnant
+21.67 K
+
+Resource Image
+Picard's Ammonite Fossil
+55
+
+Resource Image
+Orb of Prosperity
+82
+
+Resource Image
+Optolythic Data Rod
+77
+
+Resource Image
+Uhura's Vokaya Necklace
+88
+
+Resource Image
+Aamaarazan Breathing Mask
+72
+
+Resource Image
+USS Discovery Scale Replica
+51
+
+Resource Image
+Kurlan Naiskos
+36
+
+Resource Image
+Mukull Time-piece
+33
+
+Resource Image
+Shield of Pericles
+45
+
+Resource Image
+Worf's d'k tagh
+45
+
+Resource Image
+Stamets' Original Mycelium Sample
+37
+
+Resource Image
+Janeway's Coffee Mug
+135
+
+Resource Image
+Mudd's Andorian Helmet
+32
+
+Resource Image
+Horga'hn
+89
+
+Resource Image
+Spock's Engagement Pendant
+77
+
+Resource Image
+McCoy's Hypospray
+42
+
+Resource Image
+Earth Science Institute Scanner
+9
+
+Resource Image
+Quark's Scanner
+60
+
+Resource Image
+Andorian Scanner
+34
+
+Resource Image
+Chapel's Hypospray
+74
+
+Resource Image
+Crusher's Hypospray
+7
+
+Resource Image
+D'Arsay Archive Scale Replica
+54
+
+Resource Image
+Scepter of the Grand Nagus
+33
+
+Resource Image
+K'T'inga Scale Replica
+35
+
+Resource Image
+Scotty's Trident Scanner
+43
+
+Resource Image
+Bat'leth of House Martok
+35
+
+Resource Image
+Kirk's Phaser Rifle
+41
+
+Resource Image
+Guinan's Magus III Weapon
+6
+
+Resource Image
+June Reward Chip
+0
+
+Resource Image
+July Reward Chip
+0
+
+Resource Image
+August Reward Chip
+0
+
+Resource Image
+September Reward Chip
+0
+
+Resource Image
+October Reward Chip
+0
+
+Resource Image
+November Reward Chip
+0
+
+Resource Image
+December Reward Chip
+0
+
+Resource Image
+January Reward Chip
+0
+
+Resource Image
+February Reward Chip
+0
+
+Resource Image
+March Reward Chip
+0
+
+Resource Image
+April Reward Chip
+0
+
+Resource Image
+May Reward Chip
+0
+
+Resource Image
+June Choice Reward Chip
+0
+
+Resource Image
+July Choice Reward Chip
+0
+
+Resource Image
+August Choice Reward Chip
+0
+
+Resource Image
+September Choice Reward Chip
+0
+
+Resource Image
+October Choice Reward Chip
+0
+
+Resource Image
+November Choice Reward Chip
+0
+
+Resource Image
+December Choice Reward Chip
+0
+
+Resource Image
+January Choice Reward Chip
+0
+
+Resource Image
+February Choice Reward Chip
+0
+
+Resource Image
+March Choice Reward Chip
+0
+
+Resource Image
+April Choice Reward Chip
+0
+
+Resource Image
+May Choice Reward Chip
+0
+
+Resource Image
+June Elite Daily Reward Chip
+0
+
+Resource Image
+July Elite Daily Reward Chip
+0
+
+Resource Image
+August Elite Daily Reward Chip
+0
+
+Resource Image
+September Elite Daily Reward Chip
+0
+
+Resource Image
+October Elite Daily Reward Chip
+0
+
+Resource Image
+November Elite Daily Reward Chip
+0
+
+Resource Image
+December Elite Daily Reward Chip
+0
+
+Resource Image
+January Elite Daily Reward Chip
+0
+
+Resource Image
+February Elite Daily Reward Chip
+0
+
+Resource Image
+March Elite Daily Reward Chip
+0
+
+Resource Image
+April Elite Daily Reward Chip
+0
+
+Resource Image
+May Elite Daily Reward Chip
+0
+
+Resource Image
+Mission Token
+2
+
+Resource Image
+Incursions Trophy
+1
+
+Resource Image
+Voyager Ship Parts
+337.79 K
+
+Resource Image
+Circuitry Fragments
+516.13 K
+
+Resource Image
+Hirogen Relics
+8.42 M
+
+Resource Image
+Exotic Biotoxins
+854.23 K
+
+Resource Image
+Common Anomaly Sample
+578.52 K
+
+Resource Image
+Rare Anomaly Sample
+14.05 K
+
+Resource Image
+Delta Quadrant Borg Coordinates
+12.3 K
+
+Resource Image
+Deuterium Canister
+150.25 K
+
+Resource Image
+Commerce Insignia
+5.87 K
+
+Resource Image
+Delta Quadrant Warp Cell
+165
+
+Resource Image
+Coaxial Warp Drive - G4
+0
+
+Resource Image
+Coaxial Warp Drive - G5
+1
+
+Resource Image
+Mission Token
+8
+
+Resource Image
+Mission Token
+1.32 K
+
+Resource Image
+O’Brien’s Dartboard
+645
+
+Resource Image
+Captain Proton’s Blaster
+758
+
+Resource Image
+Blade of Tkon
+1.05 K
+
+Resource Image
+Vidiian Honatta Organ Harvester
+950
+
+Resource Image
+Narada Tendril Fragment
+1.32 K
+
+Resource Image
+Picard's Ressikin Flute
+1.14 K
+
+Resource Image
+Taurean Spear
+62
+
+Resource Image
+Sisko's Baseball
+9
+
+Resource Image
+Majalan Oath Coin
+30
+
+Resource Image
+Riker's Trombone
+71
+
+Resource Image
+Kataan Telescope
+33
+
+Resource Image
+King M'Benga's Crown
+15
+
+Resource Image
+Malkothian Spirits
+47
+
+Resource Image
+Dual Generators
+670
+
+Resource Image
+Borg Queen’s Remains
+3
+
+Resource Image
+Isolytic Artifact Token
+949
+
+Resource Image
+Lobi Crystal
+0
+
+Resource Image
+Janeway Recruit Token
+0
+
+Resource Image
+Mission Token
+21
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+4
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+7
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+8
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+June Elite Pass
+1
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+July Elite Pass
+1
+
+Resource Image
+Omega Particle
+62
+
+Resource Image
+Nebula Shield
+0
+
+Resource Image
+Aurora Gem
+0
+
+Resource Image
+Mission Token
+26
+
+Resource Image
+Mission Token
+60
+
+Resource Image
+Mission Token
+15
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+17
+
+Resource Image
+Mission Token
+5
+
+Resource Image
+Mission Token
+6
+
+Resource Image
+Mission Token
+6
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Trial Bell
+1.07 K
+
+Resource Image
+Court of Q Key
+0
+
+Resource Image
+Emblem of Assessment
+13.21 K
+
+Resource Image
+★★ Seal of Approval - Battleships
+0
+
+Resource Image
+★★ Seal of Approval - Interceptors
+0
+
+Resource Image
+★★ Seal of Approval - Explorers
+0
+
+Resource Image
+★★★ Seal of Approval - Battleships
+0
+
+Resource Image
+★★★ Seal of Approval - Interceptors
+0
+
+Resource Image
+★★★ Seal of Approval - Explorers
+0
+
+Resource Image
+★★★★ Seal of Approval - Battleships
+0
+
+Resource Image
+★★★★ Seal of Approval - Interceptors
+0
+
+Resource Image
+★★★★ Seal of Approval - Explorers
+0
+
+Resource Image
+★★★★★ Seal of Approval - Battleships
+15
+
+Resource Image
+★★★★★ Seal of Approval - Interceptors
+40
+
+Resource Image
+★★★★★ Seal of Approval - Explorers
+15
+
+Resource Image
+Forbidden Tech Fusion Rods
+62.9 K
+
+Resource Image
+Forbidden Tech Refinery Credits
+50
+
+Resource Image
+Forbidden Tech Tier-Up Catalyst
+26.07 K
+
+Resource Image
+Forbidden Tech Protomatter
+1.73 M
+
+Resource Image
+Forbidden Tech Reactor
+36.14 K
+
+Resource Image
+Forbidden Tech Credit Pieces
+850
+
+Resource Image
+Common Forbidden Fragments
+120
+
+Resource Image
+Uncommon Forbidden Fragment
+270
+
+Resource Image
+Rare Forbidden Fragments
+1.17 K
+
+Resource Image
+Epic Forbidden Fragments
+9
+
+Resource Image
+Hirogen Bounty Credits
+50
+
+Resource Image
+Hirogen Bounty Order
+0
+
+Resource Image
+Mission Token
+111
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Chaotic Space Token
+700
+
+Resource Image
+Complex Nanotech
+31.13 K
+
+Resource Image
+Realta Swift Refit Shard
+0
+
+Resource Image
+Realta Battle-Ready Refit Shard
+0
+
+Resource Image
+Cosmic Particles
+11.7 K
+
+Resource Image
+Token of Dreams
+0
+
+Resource Image
+Janeway Skill Points
+32
+
+Resource Image
+Mission Token
+10
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+13
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+Officer Flash Pass Points
+0
+
+Resource Image
+Battle Pass Points
+0
+
+Resource Image
+August Battle Pass Unlock
+1
+
+Resource Image
+Formation Armada Directive (Rare)
+520
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Unicomplex Tech
+0
+
+Resource Image
+Armored Voyager Refit Shard
+80
+
+Resource Image
+Monaveen Parts
+54.41 K
+
+Resource Image
+Regal Geode
+98.31 K
+
+Resource Image
+Neural Net Chip
+34.91 M
+
+Resource Image
+Active Net Chip
+2.59 B
+
+Resource Image
+Shipyard Directives
+95.75 K
+
+Resource Image
+Shipyard Credit
+1.79 M
+
+Resource Image
+Queen's Favor
+430
+
+Resource Image
+G5 Dragonfire Warpdrive
+0
+
+Resource Image
+Mission Token
+11
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Prime Valor Emblem
+500
+
+Resource Image
+Dragonsblood Vial
+13.2 K
+
+Resource Image
+Mission Token
+7
+
+Resource Image
+Mission Token
+7
+
+Resource Image
+Mission Token
+5
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+5 Year Anniversary Credit
+0
+
+Resource Image
+5 Year Anniversary Credit
+0
+
+Resource Image
+5 Year Anniversary Credit
+0
+
+Resource Image
+Star Trek Day Chip
+0
+
+Resource Image
+Web Anniversary Chip
+0
+
+Resource Image
+★★ Seal of Approval - Explorer
+0
+
+Resource Image
+★★ Seal of Approval - Interceptor
+0
+
+Resource Image
+★★ Seal of Approval - Battleship
+0
+
+Resource Image
+★★★ Seal of Approval - Explorer
+0
+
+Resource Image
+★★★ Seal of Approval - Interceptor
+0
+
+Resource Image
+★★★ Seal of Approval - Battleship
+0
+
+Resource Image
+★★★★ Seal of Approval - Explorer
+0
+
+Resource Image
+★★★★ Seal of Approval - Interceptor
+0
+
+Resource Image
+★★★★ Seal of Approval - Battleship
+0
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+September Elite Pass
+1
+
+Resource Image
+Command Conference Invitation
+0
+
+Resource Image
+Replicator Token
+1.8 K
+
+Resource Image
+Epic G5 Armada Credit
+0
+
+Resource Image
+Rare G5 Armada Credit
+0
+
+Resource Image
+Uncommon G5 Armada Credit
+0
+
+Resource Image
+Senior Security Gacha
+0
+
+Resource Image
+Fleet Commander Slot Unlock
+0
+
+Resource Image
+Senior Medical Recruit Token
+50
+
+Resource Image
+Dr. T'Ana Unlock Token
+1 K
+
+Resource Image
+Shaxs Unlock Token
+0
+
+Resource Image
+Token R5
+1
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+TC Season Pass Unlock
+1
+
+Resource Image
+Bones and Hobgoblin Recruit Token
+0
+
+Resource Image
+WD Battle Pass Unlock
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+2
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+17
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+October Elite Pass
+1
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+TC Season Pass Unlock
+1
+
+Resource Image
+TC Season Pass Points
+2.62 M
+
+Resource Image
+Rare Optical Diode
+5.24 K
+
+Resource Image
+Σ-Parsteel
+28.52 M
+
+Resource Image
+Σ-Tritanium
+1.18 M
+
+Resource Image
+Σ-Dilithium
+1.78 M
+
+Resource Image
+1 Minute Σ-Speed Up
+1.09 K
+
+Resource Image
+3 Minute Σ-Speed Up
+0
+
+Resource Image
+5 Minute Σ-Speed Up
+3.49 K
+
+Resource Image
+10 Minute Σ-Speed Up
+558
+
+Resource Image
+15 Minute Σ-Speed Up
+2.24 K
+
+Resource Image
+30 Minute Σ-Speed Up
+0
+
+Resource Image
+1 Hour Σ-Speed Up
+1.88 K
+
+Resource Image
+3 Hour Σ-Speed Up
+11
+
+Resource Image
+5 Hour Σ-Speed Up
+0
+
+Resource Image
+8 Hour Σ-Speed Up
+0
+
+Resource Image
+12 Hour Σ-Speed Up
+0
+
+Resource Image
+15 Hour Σ-Speed Up
+29
+
+Resource Image
+1 Day Σ-Speed Up
+2
+
+Resource Image
+2 Day Σ-Speed Up
+0
+
+Resource Image
+3 Day Σ-Speed Up
+0
+
+Resource Image
+10 Day Σ-Speed Up
+0
+
+Resource Image
+1 Minute Σ-Repair Speed Up
+0
+
+Resource Image
+3 Minute Σ-Repair Speed Up
+0
+
+Resource Image
+5 Minute Σ-Repair Speed Up
+0
+
+Resource Image
+10 Minute Σ-Repair Speed Up
+0
+
+Resource Image
+15 Minute Σ-Repair Speed Up
+7.18 K
+
+Resource Image
+30 Minute Σ-Repair Speed Up
+0
+
+Resource Image
+1 Hour Σ-Repair Speed Up
+1.6 K
+
+Resource Image
+3 Hour Σ-Repair Speed Up
+2.24 K
+
+Resource Image
+5 Hour Σ-Repair Speed Up
+144
+
+Resource Image
+8 Hour Σ-Repair Speed Up
+97
+
+Resource Image
+12 Hour Σ-Repair Speed Up
+20
+
+Resource Image
+15 Hour Σ-Repair Speed Up
+8
+
+Resource Image
+1 Day Σ-Repair Speed Up
+0
+
+Resource Image
+2 Day Σ-Repair Speed Up
+0
+
+Resource Image
+3 Day Σ-Repair Speed Up
+0
+
+Resource Image
+10K Σ-Parsteel Token
+9
+
+Resource Image
+10K Σ-Tritanium Token
+1
+
+Resource Image
+1K Σ-Dilithium Token
+14
+
+Resource Image
+100K Σ-Parsteel Token
+0
+
+Resource Image
+100K Σ-Tritanium Token
+0
+
+Resource Image
+10K Σ-Dilithium Token
+0
+
+Resource Image
+1M Σ-Parsteel Token
+0
+
+Resource Image
+1M Σ-Tritanium Token
+0
+
+Resource Image
+100K Σ-Dilithium Token
+0
+
+Resource Image
+10M Σ-Parsteel Token
+0
+
+Resource Image
+10M Σ-Tritanium Token
+0
+
+Resource Image
+1M Σ-Dilithium Token
+0
+
+Resource Image
+Particle
+0
+
+Resource Image
+G6 Avatar Ops Token
+0
+
+Resource Image
+Combat performance report
+1
+
+Resource Image
+Selkie performance report
+1
+
+Resource Image
+Hazard Particle
+16.9 K
+
+Resource Image
+Raw Σ-Parsteel
+129.92 K
+
+Resource Image
+Raw Σ-Tritanium
+89.78 K
+
+Resource Image
+Raw Σ-Dilithium
+145.57 K
+
+Resource Image
+USS Akira Gold Refit Shard
+0
+
+Resource Image
+Negh'Var Gold Refit Shard
+0
+
+Resource Image
+Minerva Gold Refit Shard
+0
+
+Resource Image
+Myrmidon Refit Shard
+0
+
+Resource Image
+D'akturak Refit Shard
+0
+
+Resource Image
+Vitae Refit Shard
+0
+
+Resource Image
+USS Titan Gold Refit Shard
+0
+
+Resource Image
+Kos'Karii Gold Refit Shard
+0
+
+Resource Image
+Velox Gold Refit Shard
+0
+
+Resource Image
+USS Enterprise-E Gold Refit Shard
+0
+
+Resource Image
+Krencha Gold Refit Shard
+0
+
+Resource Image
+Scimitar Gold Refit Shard
+0
+
+Resource Image
+USS Newgrange Gold Refit Shard
+0
+
+Resource Image
+Grishnar Gold Refit Shard
+0
+
+Resource Image
+Divitae Gold Refit Shard
+0
+
+Resource Image
+Isolytic Data Logs
+0
+
+Resource Image
+Refined Isocake
+0
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+Flash Pass Points
+0
+
+Resource Image
+November Elite Pass
+1
+
+Resource Image
+Battle Pass Points
+0
+
+Resource Image
+Replicator Dust
+0
+
+Resource Image
+Grand Banquet Ticket
+0
+
+Resource Image
+Grand Banquet Coin
+15.07 K
+
+Resource Image
+Fall Green Voucher
+0
+
+Resource Image
+Fall Blue Voucher
+0
+
+Resource Image
+Fall Red Voucher
+0
+
+Resource Image
+Fall Choice Voucher
+0
+
+Resource Image
+Sigma Commendation
+0
+
+Resource Image
+Lambda Commendation
+0
+
+Resource Image
+Omicron Commendation
+0
+
+Resource Image
+Mission Token
+26
+
+Resource Image
+Mission Token
+10
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+10
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+12
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+8
+
+Resource Image
+Mission Token
+10
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Prime Cosmic Particle
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Technological Distinctiveness
+340.12 K
+
+Resource Image
+Advanced Cybernetics
+594.15 K
+
+Resource Image
+Shape Memory Alloy
+203.09 M
+
+Resource Image
+Borg Data Node Tier 2
+2
+
+Resource Image
+Borg Data Node Tier 3
+2
+
+Resource Image
+Borg Data Node Tier 4
+2
+
+Resource Image
+Borg Data Node Tier 5
+2
+
+Resource Image
+Borg Data Node Tier 6
+2
+
+Resource Image
+Borg Data Node Tier 7
+2
+
+Resource Image
+Borg Data Node Tier 8
+2
+
+Resource Image
+Borg Data Node Tier 9
+2
+
+Resource Image
+Borg Data Node Tier 10
+2
+
+Resource Image
+Borg Data Node Tier 11
+2
+
+Resource Image
+Borg Data Node Tier 12
+1
+
+Resource Image
+Borg Data Node Tier 13
+1
+
+Resource Image
+Borg Data Node Tier 14
+0
+
+Resource Image
+Borg Data Node Tier 15
+0
+
+Resource Image
+Borg Data Node Tier 16
+0
+
+Resource Image
+Borg Data Node Tier 17
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Sloan Skill Points
+125
+
+Resource Image
+Armada Countdown Speed Up
+96.65 K
+
+Resource Image
+Section 31 Reputation
+150.5 K
+
+Resource Image
+Section 31 Credits
+27.84 K
+
+Resource Image
+Section 31 Cipher
+40.5 K
+
+Resource Image
+Enigma Refit Shard
+0
+
+Resource Image
+Clandestine Refit Shard
+2
+
+Resource Image
+Mission Token
+31 K
+
+Resource Image
+Mission Token
+3.78 K
+
+Resource Image
+Mission Token
+233
+
+Resource Image
+Mission Token
+369
+
+Resource Image
+Mission Token
+39
+
+Resource Image
+Astral Prime Particle
+0
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+December Elite Pass
+1
+
+Resource Image
+Contained Thalaron
+400
+
+Resource Image
+M61 Gacha Token
+0
+
+Resource Image
+Earl Grey Cup
+0
+
+Resource Image
+Earl Grey Tea
+0
+
+Resource Image
+Section 31 Transceiver
+0
+
+Resource Image
+Section 31 Transmitter
+3.26 K
+
+Resource Image
+WD Battle Pass Unlock
+1
+
+Resource Image
+WD Battle Pass Points
+2.12 M
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+243
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+5
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+5
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mantis Cloaking Shard
+0
+
+Resource Image
+USS Discovery Cloaking Shard
+0
+
+Resource Image
+Uncommon Ex-Borg Credits
+928
+
+Resource Image
+Rare Ex-Borg Credits
+3.27 K
+
+Resource Image
+Epic Ex-Borg Credits
+2.83 K
+
+Resource Image
+Xindi Scraps
+51.77 M
+
+Resource Image
+Xindi Bounty
+1.05 K
+
+Resource Image
+Ex-Borg Emblem
+0
+
+Resource Image
+Prime Orbit Medallion
+345
+
+Resource Image
+Ex-Borg Style Token
+0
+
+Resource Image
+Mission Token
+300
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Binary Cutter Refit Shard
+0
+
+Resource Image
+Galactic Recruit Token
+760
+
+Resource Image
+Special Recruit Token
+0
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+January Elite Pass
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+NX-01 Engineering Tool
+0
+
+Resource Image
+UESPA Patch From Uniform
+0
+
+Resource Image
+NX-01 Head Gear
+0
+
+Resource Image
+November Elite Battle Pass
+1
+
+Resource Image
+Fourth Builder Unlock
+0
+
+Resource Image
+Ferengi Fortune Chip
+0
+
+Resource Image
+Emergency Field Ration
+300
+
+Resource Image
+M62 Generic Token 5
+0
+
+Resource Image
+WD Battle Pass Unlock
+1
+
+Resource Image
+Xindi Medal T1
+0
+
+Resource Image
+Xindi Medal T2
+0
+
+Resource Image
+Xindi Medal T3
+0
+
+Resource Image
+Xindi Chaser Coin
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+27
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Ceramic Composite
+317.87 K
+
+Resource Image
+NX-Isolinear Array
+276.28 K
+
+Resource Image
+Tech Module
+254.77 M
+
+Resource Image
+G5 Subspace Warp Coil
+1
+
+Resource Image
+G6 Subspace Warp Coil
+0
+
+Resource Image
+Delphic Expanse Token
+300
+
+Resource Image
+Mission Token
+9
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Choice Opportunity Chip
+50
+
+Resource Image
+Rare Choice Opportunity Chip
+2.45 K
+
+Resource Image
+NX-01 Picard Refit Shard
+0
+
+Resource Image
+Mission Token
+60
+
+Resource Image
+Mission Token
+102
+
+Resource Image
+USS Titan Attack Pattern Alpha-1 Shard
+0
+
+Resource Image
+Kos'Karii Attack Pattern Alpha-1 Shard
+0
+
+Resource Image
+Velox Attack Pattern Alpha-1 Shard
+0
+
+Resource Image
+Enterprise E Unwavering Diligence Shard
+0
+
+Resource Image
+Krencha Unwavering Diligence Shard
+0
+
+Resource Image
+Scimitar Unwavering Diligence Shard
+0
+
+Resource Image
+Mission Token
+40
+
+Resource Image
+Mission Token
+40
+
+Resource Image
+Mission Token
+40
+
+Resource Image
+Mission Token
+40
+
+Resource Image
+Mission Token
+5
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+27
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+2024 Valentine's Day Token
+0
+
+Resource Image
+Archer's Emblem
+0
+
+Resource Image
+NX-01 Coin
+0
+
+Resource Image
+Holo-Field Amplifier
+46.77 K
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+February Elite Pass
+1
+
+Resource Image
+Silent Nebula Token
+8
+
+Resource Image
+Temporal Disruptor
+96.85 K
+
+Resource Image
+Temporal Remnant
+5
+
+Resource Image
+4⇵ Uncommon Temporal Disruptor Parts
+0
+
+Resource Image
+4⇵ Rare Temporal Disruptor Parts
+9.06 K
+
+Resource Image
+5⇵ Uncommon Temporal Disruptor Parts
+134.83 K
+
+Resource Image
+5⇵ Rare Temporal Disruptor Parts
+998.64 K
+
+Resource Image
+6⇵ Uncommon Temporal Disruptor Parts
+232.85 K
+
+Resource Image
+6⇵ Rare Temporal Disruptor Parts
+772.82 K
+
+Resource Image
+WD Battle Pass Unlock
+1
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+March Elite Pass
+1
+
+Resource Image
+Emerald Wonder Ticket
+0
+
+Resource Image
+Clover Coin
+3.6 K
+
+Resource Image
+Enterprise Coin
+940
+
+Resource Image
+Biological Samples
+2
+
+Resource Image
+Medical Test Results
+175.5 K
+
+Resource Image
+Coordinate #1
+1
+
+Resource Image
+Coordinate #2
+0
+
+Resource Image
+Coordinate #3
+0
+
+Resource Image
+Coordinate #4
+0
+
+Resource Image
+Coordinate #5
+1
+
+Resource Image
+Coordinate #6
+0
+
+Resource Image
+Coordinate #7
+0
+
+Resource Image
+Coordinate #8
+0
+
+Resource Image
+Chimera Blueprint Voucher
+0
+
+Resource Image
+WD Battle Pass Unlock
+1
+
+Resource Image
+Pyrithian Bat
+10
+
+Resource Image
+Immunocytic Gel Worm
+10
+
+Resource Image
+Lyssarian Desert Larvae
+12
+
+Resource Image
+Osmotic Eel
+0
+
+Resource Image
+Regulan Bloodworms
+0
+
+Resource Image
+Merry Worth Token
+3
+
+Resource Image
+Easter Egg
+0
+
+Resource Image
+Egg Hunt Ticket
+0
+
+Resource Image
+Loose Tribble
+0
+
+Resource Image
+Mission Token
+2
+
+Resource Image
+Mission Token
+5
+
+Resource Image
+Mission Token
+5
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+2
+
+Resource Image
+Mission Token
+2
+
+Resource Image
+Mission Token
+6
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Orb of Prophecy and Change
+0
+
+Resource Image
+Orb of Time
+8
+
+Resource Image
+Orb of the Emissary
+13
+
+Resource Image
+The Great Eye of Ara
+34
+
+Resource Image
+Jaheelah
+52
+
+Resource Image
+Nero's Trident
+2
+
+Resource Image
+Chroniton Sample
+3
+
+Resource Image
+La'an's 21st Century Watch
+42
+
+Resource Image
+Temporal Observatory
+32
+
+Resource Image
+Stone of Memory
+9
+
+Resource Image
+Guardian of Forever
+0
+
+Resource Image
+Book of the Kosst Amojan
+40
+
+Resource Image
+Boreth Time Crystal
+32
+
+Resource Image
+Iconian Gateway
+17
+
+Resource Image
+Krulmuth-B Portal
+2
+
+Resource Image
+USS Akira Cloaking Shard
+0
+
+Resource Image
+USS Titan Cloaking Shard
+0
+
+Resource Image
+USS Enterprise-E Cloaking Shard
+0
+
+Resource Image
+Negh’var Cloaking Shard
+0
+
+Resource Image
+Kos’Karii Cloaking Shard
+0
+
+Resource Image
+Krencha Cloaking Shard
+0
+
+Resource Image
+Minerva Cloaking Shard
+0
+
+Resource Image
+Velox Cloaking Shard
+0
+
+Resource Image
+Scimitar Cloaking Shard
+0
+
+Resource Image
+Xindi Final Weapon Directives
+730
+
+Resource Image
+Rare Xindi Final Weapon Directives
+3 K
+
+Resource Image
+Refined Kemocite
+697.77 M
+
+Resource Image
+Superior Kemocite
+59.17 M
+
+Resource Image
+Precious Kemocite
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Prime Coaxial Particle
+0
+
+Resource Image
+Rare Prime Orbit Medallion
+0
+
+Resource Image
+Columbia NX-02 Shard
+0
+
+Resource Image
+Prime Hull Breach Resilience Particle
+0
+
+Resource Image
+Prime Mining Rate Particle
+0
+
+Resource Image
+Prime PvP Damage Resistance Particle
+0
+
+Resource Image
+Prime Borg Cube Isolytic Damage Particle
+0
+
+Resource Image
+Voyager Astrometric Sensor Refit Shard
+0
+
+Resource Image
+Volatile Isomatter
+1.91 M
+
+Resource Image
+Transwarp Drive Refit Shard
+0
+
+Resource Image
+Transwarp Manifold
+14 K
+
+Resource Image
+Warchest Key
+0
+
+Resource Image
+Emblem of Honor
+2.3 K
+
+Resource Image
+Ruxi's Missive
+0
+
+Resource Image
+TC Season Pass Unlock
+1
+
+Resource Image
+WD Battle Pass Unlock
+1
+
+Resource Image
+Seal of Ko'tal
+64
+
+Resource Image
+Subdermal Scalpel
+0
+
+Resource Image
+Uhura's Com Badge
+0
+
+Resource Image
+Chaos Tech Choice
+0
+
+Resource Image
+Rare Officer Choice
+0
+
+Resource Image
+Command Codes
+0
+
+Resource Image
+M65 Generic Token 4
+0
+
+Resource Image
+M65 Generic Token 5
+0
+
+Resource Image
+M65 Generic Token 6
+0
+
+Resource Image
+M65 Generic Token 7
+0
+
+Resource Image
+M65 Generic Token 8
+0
+
+Resource Image
+Choice Reward
+0
+
+Resource Image
+M65 Generic Token 10
+0
+
+Resource Image
+M65 Generic Token 11
+0
+
+Resource Image
+M65 Generic Token 12
+0
+
+Resource Image
+M65 Generic Token 13
+0
+
+Resource Image
+M65 Generic Token 14
+0
+
+Resource Image
+M65 Generic Token 15
+0
+
+Resource Image
+Mission Token
+760
+
+Resource Image
+Mission Token
+6
+
+Resource Image
+Mission Token
+2
+
+Resource Image
+Mission Token
+12
+
+Resource Image
+Mission Token
+2
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+April Elite Battle Pass
+1
+
+Resource Image
+April Battle Pass
+1
+
+Resource Image
+Kir'Shara
+9
+
+Resource Image
+June Reward Chip
+0
+
+Resource Image
+July Reward Chip
+0
+
+Resource Image
+September Reward Chip
+0
+
+Resource Image
+September Reward Chip
+0
+
+Resource Image
+October Reward Chip
+0
+
+Resource Image
+November Reward Chip
+0
+
+Resource Image
+December Reward Chip
+0
+
+Resource Image
+January Reward Chip
+0
+
+Resource Image
+February Reward Chip
+0
+
+Resource Image
+March Reward Chip
+0
+
+Resource Image
+April Reward Chip
+0
+
+Resource Image
+May Reward Chip
+0
+
+Resource Image
+June Choice Reward Chip
+0
+
+Resource Image
+July Choice Reward Chip
+0
+
+Resource Image
+September Choice Reward Chip
+0
+
+Resource Image
+September Choice Reward Chip
+0
+
+Resource Image
+October Choice Reward Chip
+0
+
+Resource Image
+November Choice Reward Chip
+0
+
+Resource Image
+December Choice Reward Chip
+0
+
+Resource Image
+January Choice Reward Chip
+0
+
+Resource Image
+February Choice Reward Chip
+0
+
+Resource Image
+March Choice Reward Chip
+0
+
+Resource Image
+April Choice Reward Chip
+10
+
+Resource Image
+May Choice Reward Chip
+0
+
+Resource Image
+June Elite Daily Reward Chip
+0
+
+Resource Image
+July Elite Daily Reward Chip
+0
+
+Resource Image
+September Elite Daily Reward Chip
+0
+
+Resource Image
+September Elite Daily Reward Chip
+0
+
+Resource Image
+October Elite Daily Reward Chip
+0
+
+Resource Image
+November Elite Daily Reward Chip
+0
+
+Resource Image
+December Elite Daily Reward Chip
+0
+
+Resource Image
+January Elite Daily Reward Chip
+0
+
+Resource Image
+February Elite Daily Reward Chip
+0
+
+Resource Image
+March Elite Daily Reward Chip
+0
+
+Resource Image
+April Elite Daily Reward Chip
+0
+
+Resource Image
+May Elite Daily Reward Chip
+0
+
+Resource Image
+Officer Flash Pass Points
+0
+
+Resource Image
+Apex Isomatter
+4.21 M
+
+Resource Image
+Monaveen MkII Refit Shard
+0
+
+Resource Image
+Gorn Eviscerator Parts
+345.03 K
+
+Resource Image
+Axion Plasma
+54.1 K
+
+Resource Image
+Prime Wartime Morale Particle
+0
+
+Resource Image
+Cephalocasque
+444
+
+Resource Image
+WD Battle Pass Unlock
+1
+
+Resource Image
+May Elite Battle Pass
+1
+
+Resource Image
+May Battle Pass
+1
+
+Resource Image
+Opelian Keystone
+520
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+5
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+9
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+210
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+27
+
+Resource Image
+Axion Engine Tier 4
+0
+
+Resource Image
+Axion Engine Tier 5
+0
+
+Resource Image
+Axion Engine Tier 6
+0
+
+Resource Image
+Axion Engine Tier 7
+0
+
+Resource Image
+Axion Engine Tier 8
+0
+
+Resource Image
+Axion Engine Tier 9
+0
+
+Resource Image
+Axion Engine Tier 10
+0
+
+Resource Image
+Axion Engine Tier 11
+3
+
+Resource Image
+Axion Engine Tier 12
+0
+
+Resource Image
+Axion Engine Tier 13
+0
+
+Resource Image
+Axion Engine Tier 14
+0
+
+Resource Image
+Axion Engine Tier 15
+0
+
+Resource Image
+Lucky Relic
+0
+
+Resource Image
+Destiny Token
+140
+
+Resource Image
+M66 Generic Token 3
+0
+
+Resource Image
+M66 Generic Token 4
+0
+
+Resource Image
+M66 Generic Token 5
+0
+
+Resource Image
+Apex Recruits
+104
+
+Resource Image
+Apex Ship Parts
+4.4 K
+
+Resource Image
+Prime Temporal Disruption Particle
+0
+
+Resource Image
+Prime Ship Isolytic Damage Particle
+0
+
+Resource Image
+Raw Trellium-A
+26.29 M
+
+Resource Image
+Raw Trellium-D
+11.92 M
+
+Resource Image
+Liquid Trellium-D
+7 K
+
+Resource Image
+Common Rift Key
+140.69 K
+
+Resource Image
+Uncommon Rift Key
+24.72 K
+
+Resource Image
+Premium Rift Key
+22.23 K
+
+Resource Image
+Common Mirror Dust
+156.98 K
+
+Resource Image
+Uncommon Mirror Dust
+157.6 K
+
+Resource Image
+Rare Mirror Dust
+44.25 K
+
+Resource Image
+Epic Mirror Dust
+1.36 K
+
+Resource Image
+Premium Mirror Dust
+125
+
+Resource Image
+Prime Mirror Particle
+0
+
+Resource Image
+Mirror Voucher
+49.42 K
+
+Resource Image
+Oblique Eviscerator Shard
+0
+
+Resource Image
+Apex Korinar Shard
+0
+
+Resource Image
+Apex Pilum Shard
+0
+
+Resource Image
+Apex USS Newton Shard
+0
+
+Resource Image
+June Elite Battle Pass
+1
+
+Resource Image
+Terran Empire Insignia
+2
+
+Resource Image
+Pride Exchange Token
+0
+
+Resource Image
+Fracture Coin
+0
+
+Resource Image
+PIC Hugh Recruit Token 1
+0
+
+Resource Image
+PIC Hugh Recruit Token 2
+0
+
+Resource Image
+Final Borg Cube Unlock
+0
+
+Resource Image
+M67 Generic Token 6
+0
+
+Resource Image
+Gwen Demarco Chip
+0
+
+Resource Image
+Gwen Demarco Trophy
+0
+
+Resource Image
+Frontier Event Store Token
+1
+
+Resource Image
+Rare Officer Choice
+0
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+Officer Flash Pass Elite
+0
+
+Resource Image
+WD Battle Pass Unlock
+1
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+28
+
+Resource Image
+Mission Token
+5
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+2
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+2.29 K
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+2
+
+Resource Image
+Mission Token
+1.19 M
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Section 31 Mirror Credits
+80.47 K
+
+Resource Image
+Section 31 Mirror Cipher
+13.74 K
+
+Resource Image
+July Elite Battle Pass
+1
+
+Resource Image
+WD Battle Pass Unlock
+1
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+TC Season Pass Unlock
+1
+
+Resource Image
+Resistance Chits
+150
+
+Resource Image
+Tribble Trophy
+0
+
+Resource Image
+Commodore's Event Ticket
+400
+
+Resource Image
+Admiral's Event Ticket
+500
+
+Resource Image
+Mirror Prime Molecule
+0
+
+Resource Image
+Field Repairs (USS NORTHCUTT) Shard
+0
+
+Resource Image
+Field Repairs (VOR'CHA) Shard
+0
+
+Resource Image
+Field Repairs (CORVUS) Shard
+0
+
+Resource Image
+Field Repairs (USS AKIRA) Shard
+0
+
+Resource Image
+Field Repairs (NEGH'VAR) Shard
+1
+
+Resource Image
+Field Repairs (MINERVA) Shard
+0
+
+Resource Image
+Field Repairs (USS ENTERPRISE-D) Shard
+0
+
+Resource Image
+Field Repairs (ROTARRAN) Shard
+0
+
+Resource Image
+Field Repairs (D'DERIDEX) Shard
+0
+
+Resource Image
+Field Repairs (USS KELVIN) Shard
+0
+
+Resource Image
+Field Repairs (K'T'INGA) Shard
+0
+
+Resource Image
+Field Repairs (VALDORE) Shard
+0
+
+Resource Image
+Welding Hardware
+29 K
+
+Resource Image
+Apex Pulse Shard
+0
+
+Resource Image
+Echo Beam Shard
+0
+
+Resource Image
+District 56 Key
+0
+
+Resource Image
+Mirror Fragments
+9.65 K
+
+Resource Image
+Mission Token
+41
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+9
+
+Resource Image
+Mission Token
+7
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Beryllium Sphere
+277.25 K
+
+Resource Image
+Omega-13 Matter
+23.77 K
+
+Resource Image
+Galactic Acclaim
+21.88 K
+
+Resource Image
+Raw Omega-Trellium
+2.85 M
+
+Resource Image
+Omega Mirror Dust
+121
+
+Resource Image
+Fatu-Krey Scrap
+369.24 M
+
+Resource Image
+Hybrid Tech
+0
+
+Resource Image
+Sarris Dominion Salvage
+37.52 K
+
+Resource Image
+Liquid Omega-Trellium
+1.4 K
+
+Resource Image
+Multidimensional Particle
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Agonizer Switch
+0
+
+Resource Image
+Blue Particle Accelerators
+200
+
+Resource Image
+Quantum Flux Engine T4
+0
+
+Resource Image
+Quantum Flux Engine T6
+1
+
+Resource Image
+Quantum Flux Engine T12
+2
+
+Resource Image
+Quantum Flux Engine T14
+2
+
+Resource Image
+Quantum Flux Engine T15
+0
+
+Resource Image
+Quantum Flux Capacitor
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+K1
+0
+
+Resource Image
+K2
+0
+
+Resource Image
+K3
+0
+
+Resource Image
+WD Battle Pass Unlock
+1
+
+Resource Image
+August Elite Battle Pass
+1
+
+Resource Image
+Galaxy Quest Elite BP
+2
+
+Resource Image
+Saurian Swinoid
+0
+
+Resource Image
+Gorignak
+0
+
+Resource Image
+Tribble
+0
+
+Resource Image
+Beryllium Sample
+2
+
+Resource Image
+Alfa 177 Canine
+0
+
+Resource Image
+Blue Demon
+0
+
+Resource Image
+Digital Conveyor Sequence
+750
+
+Resource Image
+Ω13 Activation Codes
+0
+
+Resource Image
+Galaxy Quest VHS
+13.77 K
+
+Resource Image
+Fatu-Krey Eye Patch
+4.5 K
+
+Resource Image
+Rare Hazard Particle
+8.1 K
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+7
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+8
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+14
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+890
+
+Resource Image
+Mission Token
+1.79 K
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+2
+
+Resource Image
+Galactic Solo Directive UC
+3.9 K
+
+Resource Image
+Galactic Solo Directive Rare
+4.4 K
+
+Resource Image
+Galactic Solo Directive Epic
+6.75 K
+
+Resource Image
+Uncommon G6 Solo Armada Credits
+6.95 M
+
+Resource Image
+Rare G6 Solo Armada Credits
+293.71 K
+
+Resource Image
+Epic G6 Solo Armada Credits
+5.44 K
+
+Resource Image
+K'ragk-Vort't Shard
+33
+
+Resource Image
+Field Repairs (NSEA Protector) Shard
+0
+
+Resource Image
+Ferengi Mk. I Tricorder
+2
+
+Resource Image
+Ferengi Mk. II Tricorder
+2
+
+Resource Image
+Dabo "Balancing" Slate
+1
+
+Resource Image
+Dabo Odds Calculator
+2
+
+Resource Image
+Marauder Mo
+0
+
+Resource Image
+Legitimate Artifact
+1
+
+Resource Image
+Grand Treasury Relic
+0
+
+Resource Image
+Cíocrach Token
+0
+
+Resource Image
+Limited Edition Quark Coin
+0
+
+Resource Image
+Dabo Chip
+0
+
+Resource Image
+VHS Player
+0
+
+Resource Image
+Alliance Tournament Points
+0
+
+Resource Image
+Emerald Chain XP
+0
+
+Resource Image
+Alliance Tournament Qualifier Credits
+250
+
+Resource Image
+Alliance Tournament Credits
+845
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Alliance Tournament Refresh Credits
+200.1 K
+
+Resource Image
+Mission Token
+544
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+22 K
+
+Resource Image
+Alliance Tournament Credits
+0
+
+Resource Image
+FC Skill Points CE
+0
+
+Resource Image
+Geordi Visor
+0
+
+Resource Image
+Saltah'na Clock
+0
+
+Resource Image
+Zalkonian Storage Capsule
+0
+
+Resource Image
+Sarek's Vulcan Necklace
+0
+
+Resource Image
+Emperor Georgiou’s Sword
+0
+
+Resource Image
+Classic Phaser
+0
+
+Resource Image
+Glavin
+15
+
+Resource Image
+Classic Tricorder
+15
+
+Resource Image
+Lorca Skill Points
+173
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Nova Squadron Particles
+0
+
+Resource Image
+Starfleet Distinctions
+0
+
+Resource Image
+Nova Squadron Officer Currency
+0
+
+Resource Image
+Starfleet Honors
+1.7 K
+
+Resource Image
+Mission Token
+2.24 K
+
+Resource Image
+WD Battle Pass Unlock
+1
+
+Resource Image
+Interim Battle Pass
+1
+
+Resource Image
+Interim Battle Pass Points
+0
+
+Resource Image
+September Elite Pass
+1
+
+Resource Image
+September Elite Pass
+0
+
+Resource Image
+September Elite Pass Points
+0
+
+Resource Image
+Star Trek Day Coin
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Lucky Relic
+1
+
+Resource Image
+M70 Generic Token 2
+0
+
+Resource Image
+Supreme Choice Voucher
+0
+
+Resource Image
+Spring Officer Choice Token
+0
+
+Resource Image
+Fleet Commander Slot Unlock
+0
+
+Resource Image
+Mission Token
+950
+
+Resource Image
+Mission Token
+10
+
+Resource Image
+Mission Token
+6
+
+Resource Image
+Mission Token
+326
+
+Resource Image
+Mission Token
+6
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+306
+
+Resource Image
+Mission Token
+19
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Omega Prime Particle
+0
+
+Resource Image
+Alliance Tournament Credits
+0
+
+Resource Image
+Terran Reputation
+12.42 K
+
+Resource Image
+Common Terran Credits
+5.84 K
+
+Resource Image
+Uncommon Terran Credits
+369
+
+Resource Image
+The Vindicator Parts
+635
+
+Resource Image
+Aether Core Tier 7
+6
+
+Resource Image
+Aether Core Tier 13
+0
+
+Resource Image
+Spacework Circuit
+900
+
+Resource Image
+Interdimensional Data
+94
+
+Resource Image
+Vindicator Officer Recruit Token
+0
+
+Resource Image
+Varon-T Disruptor Shard
+0
+
+Resource Image
+October Elite Battle Pass
+1
+
+Resource Image
+October Elite Battle Pass
+0
+
+Resource Image
+WD Battle Pass Unlock
+1
+
+Resource Image
+Officer Flash Pass Elite
+0
+
+Resource Image
+TC Season Pass Unlock
+0
+
+Resource Image
+Syndicate Elite Daily Token
+0
+
+Resource Image
+Premium Terror Ticket
+0
+
+Resource Image
+Fleet Commander Particle
+0
+
+Resource Image
+Building Materials Particle
+0
+
+Resource Image
+Epic Officer Elite Daily Token
+0
+
+Resource Image
+Trill Emblems
+500
+
+Resource Image
+Mission Token
+353
+
+Resource Image
+Mission Token
+23
+
+Resource Image
+Mission Token
+330
+
+Resource Image
+Mission Token
+900
+
+Resource Image
+Mission Token
+6
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+6
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+7.36 K
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+6
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Frontier Pass Premium
+0
+
+Resource Image
+Frontier Pass Points
+0
+
+Resource Image
+Arena Armada Directive
+0
+
+Resource Image
+Arena Solo Armada Directive
+0
+
+Resource Image
+Arena Warp Token
+0
+
+Resource Image
+Arena Repair Tokens
+1 K
+
+Resource Image
+Arena Emblems
+100
+
+Resource Image
+Emperor Georgiou's Crown Shard
+4
+
+Resource Image
+Spectre Shard
+0
+
+Resource Image
+Prime Weapons Drain
+0
+
+Resource Image
+Prime Shearing Boost
+0
+
+Resource Image
+Independent Archives Key
+0
+
+Resource Image
+Independent Archives Schematics
+120
+
+Resource Image
+Archive Data Shard
+4.05 K
+
+Resource Image
+Chaos Module
+35.04 M
+
+Resource Image
+November Battle Pass Unlock
+1
+
+Resource Image
+November Battle Pass Unlock
+1
+
+Resource Image
+WD Battle Pass Unlock
+1
+
+Resource Image
+Q Challenge Event Token
+0
+
+Resource Image
+6 Year Anniversary Event Token 1
+0
+
+Resource Image
+6 Year Anniversary Event Token 2
+0
+
+Resource Image
+Thanksgiving Event Token
+0
+
+Resource Image
+Q Continuum Engagement Token 1
+0
+
+Resource Image
+Q Continuum Engagement Token 2
+0
+
+Resource Image
+Q Continuum Engagement Token 3
+0
+
+Resource Image
+Chaos Tech Fusion Rods
+45.43 K
+
+Resource Image
+Chaos Tech Tier-Up Catalyst
+246.83 K
+
+Resource Image
+Chaosmatter
+354.51 K
+
+Resource Image
+Chaos Tech Reactor
+31.98 K
+
+Resource Image
+Chaos Tech Fragments
+2.29 K
+
+Resource Image
+Chaos Tech Refinery Credits
+0
+
+Resource Image
+Prime Q Sigil
+0
+
+Resource Image
+Guerilla (VINDICATOR) Shard
+0
+
+Resource Image
+Mission Token
+9
+
+Resource Image
+Mission Token
+9
+
+Resource Image
+Mission Token
+12
+
+Resource Image
+Mission Token
+12
+
+Resource Image
+Mission Token
+12
+
+Resource Image
+Mission Token
+145
+
+Resource Image
+Mission Token
+101
+
+Resource Image
+Mission Token
+105
+
+Resource Image
+Mission Token
+117
+
+Resource Image
+Mission Token
+146
+
+Resource Image
+Mission Token
+79
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+4
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+7
+
+Resource Image
+Mission Token
+5
+
+Resource Image
+Mission Token
+6
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+December Battle Pass Unlock
+1
+
+Resource Image
+December Battle Pass Unlock
+1
+
+Resource Image
+December Elite Pass Points
+0
+
+Resource Image
+December Elite Pass Points
+0
+
+Resource Image
+Holiday Syndicate Elite Daily Token
+0
+
+Resource Image
+New Year Event Token
+0
+
+Resource Image
+Holidays Event Token
+189
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+14
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+SS Revenant Mark II Shard
+0
+
+Resource Image
+SS Revenant Mark III Shard
+0
+
+Resource Image
+SS Revenant Mark IV Shard
+0
+
+Resource Image
+Fabricator Chip
+37
+
+Resource Image
+Borg Type 03 Solo Armada Directive
+1.4 K
+
+Resource Image
+Borg Type 03 Solo Armada Credits
+87 M
+
+Resource Image
+Borg Polygon Group Armada Directive
+100
+
+Resource Image
+Borg Polygon Group Armada Credits
+16.24 M
+
+Resource Image
+SS Revenant Weapon Upgrade
+0
+
+Resource Image
+SS Revenant Armor Upgrade
+0
+
+Resource Image
+El-Aurian Star Charts
+0
+
+Resource Image
+Nexus Link
+0
+
+Resource Image
+Nexus Particle
+69.05 K
+
+Resource Image
+SS Revenant Parts Uncommon
+2.42 M
+
+Resource Image
+SS Revenant Parts Rare
+704.57 K
+
+Resource Image
+SS Revenant Parts Epic
+116.2 K
+
+Resource Image
+SS Revenant Hull Scan
+0
+
+Resource Image
+SS Revenant Mark II - Gift Bundle key
+2
+
+Resource Image
+SS Revenant Mark III - Gift Bundle key
+0
+
+Resource Image
+SS Revenant Mark IV - Gift Bundle key
+0
+
+Resource Image
+Ionized Nexus Particle
+2.9 K
+
+Resource Image
+Advanced Fabricator Chip Mk II
+0
+
+Resource Image
+Advanced Fabricator Chip Mk III
+0
+
+Resource Image
+Advanced Fabricator Chip Mk IV
+0
+
+Resource Image
+Field Repairs (BORG CUBE) Shard
+0
+
+Resource Image
+Slay Bells Projectile Shard
+30
+
+Resource Image
+Countdown Cannon Projectile Shard
+36
+
+Resource Image
+DTI Reputation
+163.85 K
+
+Resource Image
+DTI Requisition Form 13-A
+7
+
+Resource Image
+Temporal Incursion Directives
+78
+
+Resource Image
+Static Temporal Wreckage
+22.74 M
+
+Resource Image
+Charged Temporal Wreckage
+27.43 M
+
+Resource Image
+Static DTI Credits
+7.68 K
+
+Resource Image
+Charged DTI Credits
+9.03 K
+
+Resource Image
+Department of Temporal Investigations Key
+0
+
+Resource Image
+DTI Security Access Card
+874
+
+Resource Image
+Janeway's Pocket Watch
+21
+
+Resource Image
+Krenim Time Weapon
+52
+
+Resource Image
+Temporal Particle
+0
+
+Resource Image
+DTI Static Favor Token
+0
+
+Resource Image
+DTI Charged Favor Token
+0
+
+Resource Image
+Year of Hell Elite Pass
+1
+
+Resource Image
+WD Battle Pass Unlock
+1
+
+Resource Image
+TC Season Pass Unlock
+0
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+Meditation Lamp
+0
+
+Resource Image
+Borg Implant
+0
+
+Resource Image
+Logical Conclusion Ticket
+0
+
+Resource Image
+Punishment Protocol Ticket
+0
+
+Resource Image
+Voyager 1
+0
+
+Resource Image
+Spring Choice Recruit Token
+0
+
+Resource Image
+Strategema Move Token
+0
+
+Resource Image
+S31 Bonus Officer Flash Pass Unlock
+0
+
+Resource Image
+Bonus Converter Token
+35
+
+Resource Image
+Voyager 30th
+0
+
+Resource Image
+Static Krenim Assignment
+1
+
+Resource Image
+Charged Krenim Assignment
+0
+
+Resource Image
+Mission Token
+5
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+68
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+10
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+6
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Encrypted Intelligence
+96.98 M
+
+Resource Image
+DTI Threat Evaluation Level Alpha
+0
+
+Resource Image
+DTI Threat Evaluation Level Beta
+0
+
+Resource Image
+DTI Threat Evaluation Level Omega
+0
+
+Resource Image
+Epic Encrypted Intelligence
+0
+
+Resource Image
+Annorax's Datapad Shard
+24
+
+Resource Image
+Krenim Formation Directive
+50
+
+Resource Image
+Krenim Temporal Wreckage
+147.79 K
+
+Resource Image
+Krenim Quantum Tech
+239.1 K
+
+Resource Image
+Charged Tachyons
+1.23 K
+
+Resource Image
+Static Tachyons
+1.29 K
+
+Resource Image
+Static Capacitors
+5.92 K
+
+Resource Image
+Charged Capacitors
+5.21 K
+
+Resource Image
+Relativity Safety Bypass T6
+23
+
+Resource Image
+Relativity Safety Bypass T11
+23
+
+Resource Image
+Strand of Krenim Hair
+31
+
+Resource Image
+DTI Temporal Device
+53
+
+Resource Image
+DTI Plaque
+26
+
+Resource Image
+Lirpa
+15
+
+Resource Image
+Friendship One Probe
+15
+
+Resource Image
+Amelia Earhart's Plane
+15
+
+Resource Image
+February Battle Pass
+1
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+WD Battle Pass Unlock
+1
+
+Resource Image
+Battle Pass Points
+0
+
+Resource Image
+Officer Flash Pass Elite
+0
+
+Resource Image
+Battle Pass Points
+0
+
+Resource Image
+Voyager 2
+0
+
+Resource Image
+Neutrino Premium Voucher
+0
+
+Resource Image
+Spring Officer Flash Pass Elite
+1
+
+Resource Image
+Ultimate Choice Voucher
+0
+
+Resource Image
+Valentine's Day Bonus Battle Pass
+1
+
+Resource Image
+Neutrino
+250
+
+Resource Image
+Mission Token
+4
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+10
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+6
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+March Elite Pass
+1
+
+Resource Image
+WD Battle Pass Unlock
+1
+
+Resource Image
+Officer Flash Pass Elite
+1
+
+Resource Image
+Flash Pass Points
+0
+
+Resource Image
+Choice Reward
+0
+
+Resource Image
+S31 Operative Elite Daily Token
+0
+
+Resource Image
+S31 Operative Token
+0
+
+Resource Image
+Syndicate Elite Daily Token
+0
+
+Resource Image
+WDBP Bonus Cache Unlock
+0
+
+Resource Image
+Lucky Charm Relic
+0
+
+Resource Image
+Section 31 Access Key
+3.7 K
+
+Resource Image
+Uncommon Section 31 Access Key
+0
+
+Resource Image
+Rare Section 31 Access Key
+0
+
+Resource Image
+Epic Section 31 Access Key
+0
+
+Resource Image
+Mission Token
+19
+
+Resource Image
+Mission Token
+2
+
+Resource Image
+Mission Token
+2
+
+Resource Image
+Mission Token
+2
+
+Resource Image
+Mission Token
+2
+
+Resource Image
+Mission Token
+6
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+The Star Dispatch Page
+1
+
+Resource Image
+Covert Procurement Particle
+0
+
+Resource Image
+Mission Token
+9
+
+Resource Image
+Mission Token
+55
+
+Resource Image
+Section 31 Beacon Shard
+1
+
+Resource Image
+Apex Hunter Particle
+0
+
+Resource Image
+Emperor Ceremonial Uniform Piece
+1
+
+Resource Image
+Encrypted S31 Particle
+0
+
+Resource Image
+Field Repairs (USS TITAN) Shard
+0
+
+Resource Image
+Field Repairs (KOS'KARII) Shard
+0
+
+Resource Image
+Field Repairs (VELOX) Shard
+0
+
+Resource Image
+Mission Token
+68
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+40
+
+Resource Image
+Mission Token
+27
+
+Resource Image
+Ship Parts Converter Token
+104
+
+Resource Image
+Mission Token
+3
+
+Resource Image
+GS-31 Parts
+600
+
+Resource Image
+Covert Modifications
+30
+
+Resource Image
+Warp Core Tier 4
+5
+
+Resource Image
+Warp Core Tier 7
+0
+
+Resource Image
+Warp Core Tier 10
+0
+
+Resource Image
+Warp Core Tier 13
+0
+
+Resource Image
+GS-31 Recon Data
+4.95 K
+
+Resource Image
+GS-31 Recycle Token
+6.8 K
+
+Resource Image
+T2 Warp token
+0
+
+Resource Image
+T3 Warp token
+0
+
+Resource Image
+Section 31 Private Cipher
+12
+
+Resource Image
+April Elite Battle Pass
+1
+
+Resource Image
+April Battle Pass Points
+0
+
+Resource Image
+WD Battle Pass Unlock
+1
+
+Resource Image
+Officer Flash Pass Elite
+0
+
+Resource Image
+Officer Flash Pass Points
+0
+
+Resource Image
+M77 Generic Token 1
+0
+
+Resource Image
+M77 Generic Token 2
+0
+
+Resource Image
+M77 Generic Token 3
+0
+
+Resource Image
+M77 Generic Token 4
+0
+
+Resource Image
+M77 Generic Token 5
+0
+
+Resource Image
+Section 31 Intelligence
+980
+
+Resource Image
+TC Season Pass Unlock
+0
+
+Resource Image
+April Choice Reward Chip
+0
+
+Resource Image
+Easter Token
+0
+
+Resource Image
+Mission Token
+28
+
+Resource Image
+Mission Token
+2
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1.16 K
+
+Resource Image
+Mission Token
+12
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+9
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Earth Day 2025
+1
+
+Resource Image
+M77 Update Themed Engagement
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+1
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Mission Token
+0
+
+Resource Image
+Prime Start Bundle Particle
+0
+
+Resource Image
+Prime Recycle Reward Tokens Particle
+0
+
+Resource Image
+Prime Material Fabricator Particle
+0
+
+   
+

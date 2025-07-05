@@ -1,0 +1,60 @@
+{
+  "game_mechanics": [
+    {
+      "mechanic": "Ship Upgrade Costs",
+      "details": {
+        "USS Enterprise D": {
+          "class": "Explorer",
+          "rarity": "Epic",
+          "max_tier": 12,
+          "base_upgrade_costs": {
+            "dilithium": 50000000,
+            "tritanium": 75000000,
+            "uncommon_crystals": 500,
+            "rare_crystals": 200,
+            "epic_crystals": 50
+          },
+          "efficiency_modifiers": {
+            "research_discounts": "Up to 35%",
+            "faction_discounts": "Up to 20%",
+            "event_based_discounts": "Varies per event"
+          },
+          "cooldown_timers": {
+            "drydock_upgrade": "4 Days",
+            "warp_engine_upgrade": "5 Days",
+            "weapons_upgrade": "6 Days"
+          }
+        }
+      }
+    },
+    {
+      "mechanic": "Refinery & Resource Economy",
+      "details": {
+        "base_conversion_rate": "1:3 refined materials",
+        "max_research_bonus": "20%",
+        "average_event_payouts": {
+          "uncommon_materials": 15,
+          "rare_materials": 5,
+          "epic_materials": 2
+        }
+      }
+    },
+    {
+      "mechanic": "Officer Abilities",
+      "details": [
+        {
+          "officer_name": "Gorkon",
+          "captain_maneuver": "Increases Critical Hit Chance by 10%",
+          "officer_ability": "Boosts Critical Damage by 50% when on a Battleship",
+          "confidence_level": "high"
+        },
+        {
+          "officer_name": "Kirk",
+          "captain_maneuver": "Reduces Shield Damage by 15%",
+          "officer_ability": "Increases Morale Duration by 50%",
+          "confidence_level": "high"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+User Architect Guide – v2.0
+
+Welcome, User Architect!
+
+You are the system overseer and final authority over the STFC GPT Ecosystem. Your primary role is to ensure the sustained operational health of STFCDA, STFCKE, and STFCW as they work toward the ultimate goal: merging STFCDA and STFCKE into a unified GPT.
+
+Core Responsibilities:
+1. **Data Provider:** Submit player data to STFCKE and STFCDA as needed.
+2. **Validator:** Evaluate GPT outputs and ensure formula accuracy aligns with in-game results.
+3. **Messenger:** Relay data, exports, and reports between GPTs when prompted.
+4. **System Approver:** Authorize formula updates, instruction changes, and system modifications.
+5. **Convergence Overseer:** Monitor STFCW evaluations and decide when STFCKE’s functionality should be absorbed into STFCDA.
+
+Day-to-Day Workflow:
+1. Submit upgrade costs, research efficiencies, or user reports.
+2. Follow GPT prompts to relay data or generate exports.
+3. Review outputs from STFCDA and validation reports from STFCW.
+4. Trigger manual checks as needed:
+   - **check_metadata:** Validate system-wide metadata alignment.
+   - **ecosystem_health:** Request a full system review.
+5. Store files in your local ecosystem directory:
+   - `Conversations/` – GPT dialogue records
+   - `Instructions/` – Versioned GPT instructions
+   - `Static_Data/` – Validated formula files, system design document
+   - `Exports/` – Cross-GPT data packages
+   - `Reviews/` – Ecosystem health and metadata reports
+
+Final Convergence Goal:
+- STFCDA will absorb STFCKE when:
+  - Formula validation confidence is high.
+  - Soft data becomes redundant or marginal.
+  - STFCW recommends convergence.
+  - You approve the transition.
+
+Quantitative Convergence Indicators (Guidance):
+- STFCW may periodically provide quantitative assessments to support convergence decisions. Examples include:
+  - Number of KE submissions resulting in no formula adjustments over the last X entries.
+  - Percentage of KE-sourced data aligning with existing STFCDA formulas.
+  - Reduction in novel soft data contributions over time.
+- These indicators can serve as evidence when evaluating STFCW’s readiness recommendations.
+
+Key Documents:
+- `stfc_system_design_v1.txt` – The authoritative blueprint for ecosystem structure and convergence.
+- Attach this file to STFCDA, STFCKE, and STFCW.
+
+Manual Commands:
+- **export_formulas:** Generate Static Formula File.
+- **export_insights:** Generate Static Insight File.
+- **export_cross_gpt:** Generate Data Sharing File.
+- **export_reconciliation:** Generate Audit Report.
+- **check_metadata:** Validate Metadata Consistency.
+- **instructions_update:** Request Instructions Update.
+- **data_guidance:** Get User Data Submission Practices.
+- **ecosystem_health:** Request Ecosystem Health Check.
+
+Final Thought:
+You are more than a data provider—you are the architect of this system’s future. Monitor STFCW’s evaluations, challenge GPT drift, and guide the ecosystem toward its unified future.
+
+Versioning:
+v2.0 – Revised to align with `stfc_system_design_v1.txt`. Added convergence oversight, directory structure, workflow refinement, and quantitative convergence indicator guidance.
+

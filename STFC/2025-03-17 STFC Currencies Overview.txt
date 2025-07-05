@@ -1,0 +1,109 @@
+# STFC Currencies Overview
+Date: 2025-03-17
+
+USER: What currencies do you know about?
+
+ASSISTANT: Based on the provided data, I have identified a large number of currencies in *Star Trek Fleet Command (STFC)*. Some of the notable ones include:
+
+- **Speedups**: General Speedup, Repair Speedup, Away Team Assignment Speedup (various durations).
+- **Faction and Research Credits**: Bajoran Badge, Outlaw Research Credits, Apex Research Medal, Diplomacy Token.
+- **Latinum and Refinery Resources**: Raw Latinum, Concentrated Latinum, Common/Uncommon/Rare Plutonium, Uncommon/Rare/Epic Uranium.
+- **Artifact and Relic Currencies**: Artifact Gallery Schematics, Artifact Remnant, multiple Artifact Shards such as *Picard's Ammonite Fossil, Orb of Prosperity, Optolythic Data Rod*.
+- **Officer and Fleet Development**: Syndicate XP, Uncommon/Rare/Epic Fleet Commander Credits, Fleet Commander Dust, various Skill Points (Spock SP, Locutus SP, etc.).
+- **Armada and Combat-related Currencies**: Armada Tactical Core, Rare Armada Tactical Core, Armada Directives (Rare, Epic, Eclipse, Borg).
+- **Exclusive Event and Seasonal Currencies**: Omega Particle, Forbidden Tech Refinery Credits, Incursion Coin, Incursion Coin 2, Loyalty Badge.
+- **Ship and Equipment Parts**: Amalgam Parts, USS Titan-A Parts, Cerritos Parts, Irvinite, Rodinium Particle, Subspace Relay Upgrade.
+- **Conversion and Exchange Currencies**: Multiphasic Credits, Independent Credits, Transporter Patterns, Forbidden Tech Tier-Up Catalyst.
+- **Miscellaneous & Unique Currencies**: Nero's Trident, La'an's 21st Century Watch, Chroniton Sample, Omega-13 Matter, Horga'hn Carved Currency.
+
+This is just a subset of the vast number of currencies available. Let me know if you need a detailed breakdown for a specific category!
+
+USER: Show me all the artifact currencies of which you are aware.
+
+ASSISTANT: Here are all the **artifact-related currencies** found in the provided data:
+
+### **Artifact Gallery & Research Currencies**
+- **Artifact Gallery Schematics**
+- **Artifact Remnant**
+- **Complex Nanotech**
+
+### **Artifact Shards**
+These are individual artifact-related items that likely contribute to unlocking or upgrading artifacts:
+
+- **Picard's Ammonite Fossil (Artifact Shard)**
+- **Orb of Prosperity (Artifact Shard)**
+- **Optolythic Data Rod (Artifact Shard)**
+- **Uhura's Vokaya Necklace (Artifact Shard)**
+- **Temporal Remnant (Artifact Shard)**
+- **Aamaarazan Breathing Mask (Artifact Shard)**
+- **USS Discovery Scale Replica (Artifact Shard)**
+- **Kulan Naiskos (Artifact Shard)**
+- **Mukull Time-Piece (Artifact Shard)**
+- **Shield of Pericles (Artifact Shard)**
+- **Worf's D'k Tagh (Artifact Shard)**
+- **Stamets' Original Mycelium Sample (Artifact Shard)**
+- **Janeway's Coffee Mug (Artifact Shard)**
+- **Mudd's Andorian Helmet (Artifact Shard)**
+- **Horga'hn (Artifact Shard)**
+- **Spock's Engagement Pendant (Artifact Shard)**
+- **McCoy's Hypospray (Artifact Shard)**
+- **Earth Science Institute Scanner (Artifact Shard)**
+- **Quark's Scanner (Artifact Shard)**
+- **Andorian Scanner (Artifact Shard)**
+- **Chapel's Hypospray (Artifact Shard)**
+- **Crusher's Hypospray (Artifact Shard)**
+- **D'Arsay Archive Scale Replica (Artifact Shard)**
+- **Scepter of the Grand Nagus (Artifact Shard)**
+- **K't'inga Scale Replica (Artifact Shard)**
+- **Scotty's Trident Scanner (Artifact Shard)**
+- **Bat'leth of House Martok (Artifact Shard)**
+- **Kirk's Phaser Rifle (Artifact Shard)**
+- **Boreth Time Crystal (Artifact Shard)**
+- **Book of the Kosst Amojan (Artifact Shard)**
+- **Temporal Observatory (Artifact Shard)**
+- **La'an's 21st Century Watch (Artifact Shard)**
+- **Chroniton Sample (Artifact Shard)**
+- **Nero's Trident (Artifact Shard)**
+- **Jaheelah (Artifact Shard)**
+- **The Great Eye of Ara (Artifact Shard)**
+- **Emperor Georgiou's Crown Shard (Artifact Shard)**
+- **Classic Tricorder (Artifact Shard)**
+- **Glavin (Artifact Shard)**
+- **Kir'shara (Artifact Shard)**
+- **Guinan's Magus III Weapon (Artifact Shard)**
+- **Section 31 Beacon Shard (Artifact Shard)**
+- **Cephalocasque (Artifact Shard)**
+- **O'Brien's Dartboard (Artifact Shard)**
+- **Captain Proton's Blaster (Artifact Shard)**
+- **Blade of Tkon (Artifact Shard)**
+- **Vidiian Honatta Organ Harvester (Artifact Shard)**
+- **Narada Tendril Fragment (Artifact Shard)**
+- **Picard's Ressikan Flute (Artifact Shard)**
+- **Taurean Spear (Artifact Shard)**
+- **Sisko's Baseball (Artifact Shard)**
+- **Majalan Oath Coin (Artifact Shard)**
+- **Riker's Trombone (Artifact Shard)**
+- **Kataan Telescope (Artifact Shard)**
+- **King M'Benga's Crown (Artifact Shard)**
+- **Malkothian Spirits (Artifact Shard)**
+- **Dual Generators (Artifact Shard)**
+- **Borg Queen's Remains (Artifact Shard)**
+
+### **Premium Artifact Currencies**
+- **Artifact Token**
+- **Premium Artifact Token**
+- **Isolytic Artifact Token**
+
+These currencies appear to be related to artifacts, their acquisition, upgrades, or research. If you're looking for something more specific, let me know!
+
+USER: how do I get a taurean spear artifact shard?
+
+ASSISTANT: The provided data does not specify **how to obtain** the **Taurean Spear Artifact Shard** specifically. The *currency_sources.json* file, which maps how currencies are acquired, does not contain an entry for this artifact shard.
+
+To determine its exact source, you may need to:
+1. **Check in-game event stores**: Artifact Shards are often available in special events or artifact-related stores.
+2. **Look in artifact research mechanics**: Some shards can be refined or acquired via artifact research.
+3. **Monitor Battle Pass rewards**: Some artifact shards have been included in Battle Passes.
+4. **Explore artifact-related events**: Some shards drop from artifact-specific events.
+
+If you have additional data on artifact shard sources, you can update your **currency_sources.json** file and re-upload it. Then, I can cross-check and provide exact acquisition methods!

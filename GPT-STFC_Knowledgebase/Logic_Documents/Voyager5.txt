@@ -1,0 +1,88 @@
+	To use this calculator, make a copy of this google sheets, and input the values in the green background fields.																																										
+																																											
+	Voyager Cargo Planner												Voyager Max Cargo to Anomaly Refinery Cost Comparison										Likely Max Cargo																				
+	Your Voyager Tier				T12								Rough Research at Tier and Ops			Daily cost (Common / 5 days + Rare / 7 days)																											
+	Is your Cargo component finished for your tier?				Yes	Base:	#NAME?	Actual Cargo:		#NAME?			Tier	Ops	Max Cargo	1 com + 1 rare	2 Com + 1 rare	3 com + 1 rare	3 com + 0 rare	Max			Based on crew tier estimation, syndicate level estimate, and max research/buildings for ops.																				
+	Crewing Options			Officer	Tier	Cargo Buff	Example of Max Cargo Crew Input						T1	35	16,380	10,571	19,571	34,571	30,000	87,143			Ops	35	39	41	43	45	47	51	53	55	57	59	60 (Max)								
+	Captain			Mavery	5	#NAME?							T2	39	63,339	12,714	24,714	43,714	38,000	109,429			Crew Bonus:	135%	135%	140%	145%	150%	155%	160%	165%	170%	175%	180%	190%								
+	Synergy (only for 2 or Mavery)			2 sides (+5% and +15%)		#NAME?							T3	41	155,100	15,143	30,143	53,143	46,000	131,714			Research Bonus:	165%	236%	295%	328%	339%	372%	425%	496%	545%	570%	620%	745%		Base Cargo						
+	Bridge Officer 1			4 of 11	5	#NAME?							T4	43	234,949	31,143	61,143	110,143	98,000	240,857			T1	12,000	14,130	16,050	17,190	17,670	18,810	20,550	22,830	24,450	25,350	27,000	31,050		3,000						
+	Bridge Oiffcer 2			Stonn	5	#NAME?							T5	45	316,602	40,429	81,429	148,429	132,000	332,000			T2	51,600	60,759	69,015	73,917	75,981	80,883	88,365	98,169	105,135	109,005	116,100	133,515		12,900						
+	Tuvok below decks			Yes	5	#NAME?							T6	47	370,062	51,429	107,429	195,429	174,000	431,143			T3	92,280	108,660	123,425	132,191	135,882	144,649	158,030	175,563	188,021	194,942	207,630	238,775		23,070						
+	La'an below decks?			Yes	5	#NAME?							T7	51	705,870	68,857	133,857	237,857	210,000	538,571			T4			199,020	213,156	219,108	233,244	254,820	283,092	303,180	314,340	334,800	385,020		37,200						
+				Total buff from officers:		#NAME?							T8	53	906,390	126,857	236,857	412,857	360,000	988,571			T5			263,755	282,489	290,377	309,111	337,705	375,173	401,795	416,585	443,700	510,255		49,300						
+	Other Sources			Input	R+D Req.	Cargo Buff	Example Max Cargo for OPs						T9	55	1,169,990	150,286	284,286	524,286	460,000	1,231,429			T6			333,305	356,979	366,947	390,621	426,755	474,103	507,745	526,435	560,700	644,805		62,300						
+	Your ops level			51-60			(assuming max research + crew for ops)						T10	57	1,431,000	176,000	360,000	640,000	560,000	1,531,429			T7			409,275	438,345	450,585	479,655	524,025	582,165	623,475	646,425	688,500	791,775		76,500						
+	Syndicate level			33+		#NAME?	OPs	Tier	Actual	Other Ship			T11	59	1,848,015	235,286	459,286	839,286	740,000	1,954,286			T8	Ops Locked						739,800	821,880	880,200	912,600	972,000	1,117,800		108,000						
+	Treasury level			60	Equal Ops	#NAME?	39	T2	63,339	248,170	T7 Ent		T12	60	2,037,915	322,857	592,857	1,052,857	920,000	2,491,429			T9							893,925	993,105	1,063,575	1,102,725	1,174,500	1,350,675		130,500						
+	Haul Capacity			10	#NAME?	#NAME?	43	T6	363,209	297,500	T7 Valdore		Absolute MAX		2,356,695								T10							1,076,135	1,195,531	1,280,365	1,327,495	1,413,900	1,625,985		157,100						
+	Voyager Cargo Research			12	#NAME?	#NAME?	49	T6	390,621	440,420	T7 Korinar												T11							1,294,650	1,438,290	1,540,350	1,597,050	1,701,000	1,956,150		189,000						
+	Anti-Proton Projectile			Yes	$$ pack	#NAME?	53	T9	1,104,826	662,200	T5 Corvus												T12							1,559,745	1,732,797	1,855,755	1,924,065	2,049,300	2,356,695		227,700						
+				Total buff from other sources:		#NAME?	60	T12	2,356,695	1,372,550	T5 Ent-D																																
+	Created by: JulesVern and BlueMandalorian				Raw data hidden below					Upd: 6/28/2023																																	
+																																											
+	Haul Capacity																																										
+	Level	Bonus	R+D	Treasury Level			Syndicate Level																																				
+	0	0	0	Level	Buff		Ops:	30-39	40-50	51-60																																	
+	1	5%	35	1-4	1%		7-10	4%	6%	10%																																	
+	2	10%	35	5-9	5%		11-13	10%	16%	20%																																	
+	3	15%	39	10-14	10%		14-28	20%	31%	40%																																	
+	4	20%	40	15-19	15%		29-32	35%	51%	65%																																	
+	5	24%	40	20-24	20%		33+	55%	81%	105%																																	
+	6	27%	45	25-29	25%																																						
+	7	30%	45	30-34	30%		Anti-proton Projectile																																				
+	8	35%	51	35-39	35%		level	buff	requirement																																		
+	9	40%	52	40-44	40%		yes	30%	$$ pack purchase																																		
+	10	50%	54	45-49	45%																																						
+	Voyager Cargo			50-54	50%					Not Upgraded	Upgraded																																
+	Level	Bonus	R+D	55-59	55%		Tier	Tier bonus	Part Level	Total Cargo	Total Cargo																																
+	0	0	0	60	60%		T1	0	3,000	3,000	3,900																																
+	1	100%	34				T2	9,000	3,900	12,900	14,070																																
+	2	133%	37				T3	18,000	5,070	23,070	28,200																																
+	3	166%	39	Tuvok			T4	27,000	10,200	37,200	40,300																																
+	4	200%	40	Tier	Bonus		T5	36,000	13,300	49,300	53,300																																
+	5	233%	43	N/a	0		T6	45,000	17,300	62,300	67,500																																
+	6	266%	47	T1	100%		T7	54,000	22,500	76,500	99,000																																
+	7	300%	50	T2	150%		T8	63,000	45,000	108,000	121,500																																
+	8	333%	51	T3	220%		T9	72,000	58,500	130,500	148,100																																
+	9	366%	53	T4	300%		T10	81,000	76,100	157,100	180,000																																
+	10	400%	55	T5	400%		T11	90,000	99,000	189,000	218,700																																
+	11	450%	58				T12	99,000	128,700	227,700	227,700																																
+	12	500%	60																																								
+																																											
+		Tier																																									
+	Officers	1	2	3	4	5																																					
+	2 of 11	20%	20%	20%	20%	20%																																					
+	Synergy	15%	5%																																								
+	Mavery	40%	40%	40%	40%	40%																																					
+	Synergy	20%																																									
+	4 of 11	40%	45%	50%	55%	60%																																					
+	Stonn	20%	25%	30%	35%	40%																																					
+	Non-cargo officer	0%	0%	0%	0%	0%																																					
+	Tuvok	100%	150%	220%	300%	400%																																					
+	SNW La'an	25%	30%	35%	40%	50%																																					
+	2 of 11 synergy	15%	15%	15%	15%	15%																																					
+																																											
+																																											
+																																											
+																																											
+																																											
+																																											
+																																											
+																																											
+																																											
+																																											
+																																											
+																																											
+																																											
+																																											
+																																											
+																																											
+																																											
+																																											
+																																											
+																																											
+																																											
+																																											
+																																											
+																																											

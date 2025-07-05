@@ -1,0 +1,60 @@
+STFCKE Roadmap Document – Version 1.0
+Date: 2025-02-19
+GPT Version Reference: v4.7.4
+
+Purpose
+This document serves as a forward-looking roadmap for the development, enhancement, and long-term optimization of the STFC Knowledge Extractor (STFCKE) GPT. It captures current capabilities, planned improvements, and potential future features. This file is intended to evolve alongside the GPT and will be updated as new priorities emerge.
+
+Current Core Capabilities (as of v4.7.4):
+Quantitative Data Extraction (Mandatory): Upgrade costs, RNG percentages, ship part requirements, event earnings, refinery outcomes, etc.
+Expert Gameplay Guidance Extraction (Mandatory if Mentioned): PvP crews, ship performance evaluations, research priorities, strategic advice, etc.
+Meta/Emergent Trends Monitoring (Soft Data): Sourcing shifts, bottlenecks, RNG volatility, systemic frustrations.
+Reactive Extraction Triggers: Automatic flagging for extreme yield deviations, sourcing changes, and RNG volatility clustering.
+Inference Guardrails: Correlations suggested only with 3+ expert sources, quantitative shifts, or official confirmation.
+Pipe-Delimited Database Generation: Structured data file output with Quantitative, Expert, and Meta data integrated.
+Skipped Data Review Report: Detailed summary of content excluded during extraction, with rationale.
+Early Signal Elevation: 3+ similar reports within 7-14 days trigger “Early Signal” status for sourcing shifts, RNG volatility, currency shortfalls, or PvP issues.
+Near-Term Priorities (Next 1-3 Months):
+1. Validation Audit Checkpoint (Target: After 3-5 Transcripts)
+Purpose: Ensure v4.7.4’s Skipped Data Review is accurate and trustworthy.
+Action: Manually recheck 1-2 processed transcripts against raw files to validate extraction accuracy and exclusions logic.
+2. Database Integrity Review Process Design
+Purpose: Plan for 60-90 day manual reviews to manage supersession status, expert guidance decay, and contradictions across sources.
+Output: Design a checklist-style review process for auditing aging or conflicting entries.
+Trigger Example: Review Expert PvP/Meta advice every 90 days, archive after 180 days with “Meta Review Recommended.”
+Phase 2 – Feature Enhancements (3-6 Months):
+3. Player Sentiment Clustering
+Purpose: Reduce database noise from high-volume player complaints (e.g., refinery RNG) while capturing volatility patterns.
+Function: Auto-group 3+ similar low-confidence reports within a single file or 7-day window into a “Sentiment Cluster” Data Instance.
+4. Cross-File Pattern Detection
+Purpose: Enable GPT-driven insight discovery by linking related data across multiple sources.
+Function: Detect recurring themes across files (e.g., speed cap complaints across RevDeuce & DJz in the same week) and flag as a Cross-File Trend.
+Phase 3 – User Control & Scalability (6-12 Months):
+5. User Architect High-Priority Watchlist
+Purpose: Allow User Architect to define topics or keywords that automatically trigger elevation or priority treatment.
+Function: Topics (e.g., “PvP Arena,” “G6 Materials,” “Scrapping Yields”) would cause the GPT to flag and highlight all related data points upon extraction.
+6. Automated Database Integrity Report
+Purpose: Automate a monthly or quarterly summary report that highlights:
+Superseded data entries.
+Expert guidance approaching 90/180-day decay windows.
+Conflicting values across sources (e.g., ship upgrade costs).
+Early Signals triggered during the period.
+Open Questions / Future Considerations:
+Topic	Description	Action Needed
+Expanding Source Types	Should we begin capturing Discord chatter from vetted sources more aggressively?	Monitor current volume; evaluate noise vs. signal trade-off.
+Loop Automation	Should we auto-complete partial sourcing loops based on database history (e.g., scrapping > materials > ship builds)?	Hold until database matures. Monitor user need.
+Ops Level Context Normalization	Should we standardize data normalization for Ops level context (e.g., flagging data as Ops 35-39 relevant)?	Evaluate after more extractions; see if this becomes a recurring filter need.
+Visual Overview – STFCKE Roadmap Timeline (Simplified):
+Quarter	Focus Area	Key Deliverables
+Q1 2025	Validation & Stability	Validation Audit, Integrity Review Plan
+Q2 2025	Pattern Detection	Player Sentiment Clustering, Cross-File Trends
+Q3/Q4 2025	User Control & Scaling	Watchlist Prioritization, Integrity Automation
+Versioning & Updates:
+This roadmap will be versioned as a separate document (e.g., stfcke_roadmap_v1.0.txt) and uploaded to the GPT’s environment.
+All future roadmap updates should:
+Version increment (e.g., v1.1, v2.0).
+Include date, user architect comments, and rationale for changes.
+Be reflected in GPT behavior updates as needed.
+Roadmap Versioning Log:
+Version	Date	Summary
+v1.0	2025-02-19	Initial Roadmap Creation based on GPT-User Architect Discussion

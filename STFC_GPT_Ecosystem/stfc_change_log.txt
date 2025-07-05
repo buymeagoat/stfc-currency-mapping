@@ -1,0 +1,23 @@
+Date: 2025-02-18
+GPT: STFCKE
+Version: v2.0 → v2.1
+Summary:
+
+Added confidence levels (Low, Medium, High).
+Expanded data scope to include PvP metrics and event feedback processing.
+Implemented automated intake pipeline for structured data processing.
+Date: 2025-02-18
+GPT: STFCDA
+Version: v2.0 → v2.1
+Summary:
+
+Integrated confidence levels for data validation.
+Expanded efficiency profile management to include PvP and event data.
+Enhanced traceability and validation summary parsing from STFCKE exports.
+Date: 2025-02-18
+GPT: STFCW
+Version: v2.0 → v2.1
+Summary:
+
+Added self-evaluation requirement for instruction updates based on changes to STFCDA and STFCKE.
+No structural changes to auditing framework, but improved future-proofing.

@@ -1,0 +1,313 @@
+This page describes the mechanics of STFC combat. It is presented as a randomly sorted list of interesting details, and is meant to be used as a reference, not as an introduction to game mechanics.
+
+Glossary
+Name	Description
+HHP	Hull hit points
+SHP	Shield hit points
+Officer abilities
+There are three types of officer abilities:
+
+Captain maneuver
+Only active if the officer is in the captain seat
+Is not affected by the officer tier or level, only by synergy
+Some effects (JELLYFISH, Cadet Leonard McCoy, Next Gen Crusher), Kras also boost the effect of the maneuver. They stack as follows: (base + synergy) * (1 + boost)
+For example, One of Eleven+Two of Eleven+Cadet Leonard McCoy would increase shield mitigation by (0.05 + 0.02) * (1 + 0.12) = 7.84%
+Not all maneuvers can be boosted. Only those that activate in combat at combat begin or subround end can be boosted (TODO: verify this).
+Officer ability
+Only active if the officer is in any of the three bridge seats (including the captain seat)
+Is not affected by the officer level or synergy, only by the officer tier
+Some effects (Christopher Pike, Jean-Luc Picard, Leonard McCoy) also boost the effect of the maneuver. They stack as follows: (base) * (1 + boost)
+For example, Christopher Pike+Marlena Moreau+T1 John Harrison would decrease target shield mitigation by (0.6) * (1 + 0.4 + 0.8) = 132%
+Not all abilities can be boosted. Only those that activate in combat at combat begin or subround end can be boosted (TODO: verify this).
+Below deck ability
+Only active if the officer is in any of the unlocked below deck slots. Officers in locked (grayed out) below deck slots have no effect.
+Is not affected by the officer level or synergy, only by the officer tier
+Below deck abilities can not be boosted
+Note: the in-game tooltips for abilities are not reliable. They are written manually, almost never corrected, and are more often than not wrong:
+
+Sometimes the numbers are wrong. T1 Carol says she provides a 20% bonus to damage, in fact the bonus is twice as large (40%).
+Sometimes the description has nothing to do with the ability. For about 3 years, the tooltip for DJaoki said he increases piercing stats, in fact he always increased defense stats.
+Sometimes the description does not explain subtle details of the ability. Leslie says he restores 5% hull each round, but does not explain that the restored hull is removed at the end of combat.
+Note: all ability types are affected by the duplicate officers bug.
+
+Effect stacking
+Whenever you have multiple effects that provide the same kind of bonus, they stack as follows:
+
+total = (A) * (1 + B) + (C)
+
+where
+
+A is the sum of all bonuses that provide a "base" value
+B is the sum of all bonuses that provide a "modifier" values
+C is the sum of all bonuses that provide a "flat bonus" values
+The terms "base", "modifier", and "flat bonus" are mine. STFC is very bad at consistently describing effects in the in-game tooltips. The only way to determine which of the 3 categories a bonus belongs to is reverse engineering it from analyzing combat logs. Common examples:
+
+"base": bonuses from ship components, bonuses to HHP/SHP from ship levels, bonuses to defense and piercing values from officers (Five of Eleven, Kang, ...), some research (Shield Modulation)
+"modifier": almost all bonuses from research and officer abilities
+"flat bonus": most bonuses to weapon damage (Mirek, Kinetic Guerilla Warefare, ...), North Star ship ability
+Ship components
+Every ship has the following ship component slots:
+
+Warp drive. Provides bonuses to warp range and warp speed.
+Impulse drive. Provides bonuses to impulse speed and the"dodge" defense stat.
+Shield. Provides bonuses to shield hit points, the "shield deflection" defense stat, and the shield regeneration rate.
+Armor. Provides bonuses to hull hit points and the "armor" defense stat.
+Sensor Dish. Currently unused in the game. Leftover from alpha release, or placeholder for future content?
+Deflector Array. Currently unused in the game. Leftover from alpha release, or placeholder for future content?
+Cargo Bay. Provides bonuses to cargo capacity and protected cargo.
+Weapon 1. Fires in subround 1 (see round structure).
+Weapon 2. Fires in subround 2 (see round structure).
+Weapon 3. Fires in subround 3 (see round structure).
+Weapon 4. Fires in subround 4 (see round structure).
+Weapon 5. Fires in subround 5 (see round structure).
+Weapon 6. Fires in subround 6 (see round structure).
+Mining tool. Provides bonuses to mining speed.
+A component slot can be either empty, hidden, or upgradeable:
+
+Only weapon slots can be empty. That means, a ship can have 1-6 weapons, but otherwise every ship has all other components.
+Some components are hidden in the UI. For example, a Realta has an Armor component that is forever stuck at Mk1. You can see such components on stfc.space when you inspect tier 1 of a ship.
+The remaining components are upgradeable. They are shown in the ship upgrade UI, and you can spend materials and resources to upgrade them.
+Ship order
+In combat, ships are sorted as follows:
+
+Defending station guns go before PvP attacker
+Ships of PvP attacker go before ships of PvP defender
+All NPCs (red dots, yellow dots, armadas) go before player ships
+The armada leader (the ship that initiated a group armada) goes before allied ships
+Starred ships go before unstarred ships
+If none of the above rules apply, ships are sorted by ship power. Note that the ship power displayed in the game is unreliable.
+This order determines which ships are included in the armada (if there are more players than seats in the armada), in which order ships appear in the combat log overview, in which order ships fire their weapons, and in which order officer effects are applied.
+
+Duplicate officers
+If there are two or more instances of the same officer in an armada, then officer abilities/maneuvers behave according to the following rules.
+
+The officer instance on the first ship according to the ship order determines the ability boost or maneuver boost applied to all other instances of the same officer. Examples:
+The three examles below assume all Gailas are maxed (tier 5).
+If the leader has Pike+Moreau+Gaila (Pike's captain maneuver boosting Gaila crit damage reduction from 50% to 110%), then all other Gailas in the armada will also provide a 110% crit damage reduction.
+If the leader has just a Gaila on the bridge (with a base crit damage reduction of 50%), then all other Gailas in the armada will also provide a 50% crit damage reduction, even if all other ships are using Pike+Moreau+Gaila.
+If the leader has no Gaila (neither on bridge nor below deck), and the only starred ship has Pike+Moreau+Gaila, then all other Gailas in the armada will also provide a 110% crit damage reduction.
+The above applies both to bridge and below deck officers. Below deck officers do not receive ability or maneuver boosts. Examples:
+If the leader has Pike+Moreau+Spock on the bridge and Gaila below deck (with a base crit damage reduction of 50%), then all other Gailas in the armada will also provide a 50% crit damage reduction, even if all other ships are using Pike+Moreau+Gaila.
+The officer instance on the first ship according to the armada order determines the officer stats used for abilities that scale with officer stats. Similarly to above, it does not matter whether the officer is on the bridge or below deck. Examples:
+The two examples below assume all Spocks are maxed and restore shield hit points equal to 750% of total defense stats.
+If the leader has Spock on the bridge and 10k defense stats, then all other Spocks in the armada will restore shield hit points equal to 750% of 10k, no matter how much defense stats the other ships have.
+If the leader has Spock below deck and 200k defense stats, then all other Spocks in the armada will restore shield hit points equal to 750% of 200k, no matter how much defense stats the other ships have.
+Each officer instance uses its own tier for officer abilities, and its own synergy for captain maneuvers. Examples:
+If the leader has a T5 Gaila (50% crit damage reduction) and the second ship a T1 Gaila, then the second ship will only provide a 10% crit damage reduction.
+If the leader has One of Eleven with full synergy (+9% shield mitigation) and the second ship One of Eleven with no synergy, then the second ship will only get a +5% shield mitigation.
+Some officer abilities/maneuvers do not work in armadas. Examples:
+There is probably some outdated list of disabled officers floating around. It's a good start, but not accurate.
+Some officer abilities/maneuvers can not be boosted. Examples:
+Ability boosting effects and maneuver boosting effects do not affect each other. For example, Pike alone will always provide a 40% boost to other officer abilities, even if you put him on a JELLYFISH and pair him with Cadet Leonard McCoy.
+Abilities/maneuvers that have a chance to apply some effect at combat start tend to be not boostable. For example, both the officer ability and captain maneuver of Harcourt Fenton Mudd have a fixed chance to activate, and that chance cannot be modified in any way.
+TL;DR
+
+Duplicate officer mechanics apply both to the bridge and below deck officers
+Boosts and stats are passed down
+Tier and synergy are NOT passed down
+Duplicate officers are never displayed in the combat log
+Bug: ship health bonus
+The actual ship health bonus your ship has is likely larger than the ship health bonus displayed in the game. It looks like ships need much less officer health stats to reach individual health bonus breakpoints than they should.
+
+Officer activation at the end of a round
+Officers never activate the end of a round. Officers that should activate after the last shots were fired in a round, activate at the beginning of the following round instead. See round structure for a technical explanation why.
+
+Round structure
+Combat simulation is sequential: events happen one at a time, in a defined order. Combat is split into rounds, which are visibly denoted in the in-game combat log UI. Each round is split into sub-rounds (the game client does not show where sub-rounds begin and end).
+
+Within each sub-round:
+
+First, all officer and ship abilities apply their buffs
+[Unverified] abilities are applied ship by ship, in the same order as the ship order. I.e., first the first ship applies all its abilities, then the next ship applies all its abilities.
+Within each ship, abilities are applied in a fixed order. For example, Kirk always applies before Spock.
+If two or more ships are using the same ability, both apply their effect but only one is displayed in the combat log.
+Then, all forbidden technologies apply their buffs
+[Unverified] FTs apply in the same order as abilities
+If two or more ships are using the same forbidden tech, both apply their effect but only one is displayed in the combat log.
+Then, all ships fire their weapon associated with the current sub-round.
+The first weapon of a ship fires in the first sub-round, the second weapon in the second sub-round, and so on.
+Use the "Firing Pattern" section of hostiles and ships on stfc.space to find out what weapon fires in which sub-round.
+At the end of each round (or between rounds, as these events are not included in the combat log):
+
+Ships wich are affected by Burning loose 1% of their initial hull hit points.
+Temporary effects are removed, see effect duration.
+Combat has a limit of 100 rounds. See combat round limit.
+
+Round structure in charts:
+
+Overview
+Example 1
+Example 2
+Example 3
+Round structure as is used in the raw combat log data (identifiers extracted from the game client):
+
+
+    START_ROUND
+      START_SUB_ROUND
+        OFFICER_ABILITIES_APPLIED_START
+          OFFICER_ABILITY_APPLIED_START
+          OFFICER_ABILITY_APPLIED_END
+          OFFICER_ABILITY_APPLIED_START
+          OFFICER_ABILITY_APPLIED_END
+        OFFICER_ABILITIES_APPLIED_END
+        FORBIDDEN_TECH_BUFFS_APPLIED_START
+          FORBIDDEN_TECH_BUFF_APPLIED_START?
+          FORBIDDEN_TECH_BUFF_APPLIED_END?
+          FORBIDDEN_TECH_BUFF_APPLIED_START?
+          FORBIDDEN_TECH_BUFF_APPLIED_END?
+        FORBIDDEN_TECH_BUFFS_APPLIED_END
+        START_ATTACK
+          OFFICER_ABILITIES_FIRING
+            OFFICER_ABILITY_START
+            OFFICER_ABILITY_END
+          OFFICER_ABILITIES_FIRED
+        END_ATTACK
+        START_ATTACK
+          OFFICER_ABILITIES_FIRING
+            OFFICER_ABILITY_START
+            OFFICER_ABILITY_END
+          OFFICER_ABILITIES_FIRED
+        END_ATTACK
+      END_SUB_ROUND
+      START_SUB_ROUND
+        ...
+      END_SUB_ROUND
+    END_ROUND
+    START_ROUND
+      ...
+    END_ROUND
+    
+Combat round limit
+Combat has a limit of 100 rounds. After 100 rounds, the side with more remaining hull hit points is declared winner, and receives rewards (including event points) as if it had destroyed the other side.
+
+You can use this repeatedly receive rewards from a target without actually destroying it. The Realta and Sarcophagus ships are best for this, due to their low ratio of damage to hit points.
+
+Effect duration
+Buffs that only last a fixed number of rounds are removed at the end of a round. So:
+
+"Add X for 1 round" means "Add X until the end of the current round"
+"Add X for 2 rounds" means "Add X until the end of the next round"
+...
+Status effects
+Ships can be affected by the following status effects, with unique built-in effects:
+
+Burning. If a ship has the Burning status at the end of a round, its hull hit points decrease by 1% of the hull hit points it had at the start of combat.
+Hull Breach. If a ship has the Hull Breach status when it receives a critical hit, it takes 50% more damage from that crit. This bonus is applied at the end, after all other bonuses have been applied.
+Morale. If a ship has the Morale status when it fires a weapon, all piercing stats are increased by 10% for that weapon attack. This bonus is applied at the end, after all other bonuses have been applied.
+Assimilated. If a ship has the Assimilated status when it activates its officers, officer abilities have their effectiveness reduced by -25% for that activation. TODO: test how this stacks with things like Pike.
+There are also traces in the game of additional unused status effects "Low Morale" and "Taunting".
+
+Healing
+There are effects in the game that restore or burn shield or hull hit points. These effects are not listed in the combat log, but can be guessed from the raw combat log data, which containts the remaining ship hit points after each weapon shot.
+
+Some effects restore hit points during combat, but the amount of hit points that was healed during combat is removed at the end of combat. Other effects restore hit points during combat, and the healed hit points persist after combat.
+
+Leslie. Healed hit points are reverted after combat. Your ship may end up being destroyed after combat, even if you had remaining hit points at the end of combat. Works most likely by increasing your maximum hit points (see below) - should only activate if you are below 35% HHP, but in long fights, he keeps activating at higher and higher remaining hit points thresholds, up to the point where you end combat with more hit points than you started.
+Spock. Healed hit points are not reverted. Can overcharge shields, where you end up with more SHP than your maximum SHP. The overcharged shields do not decay over time, you keep them until the next combat. Has no effect if you start combat with more SHP than your maximum SHP (Spock doesn't regenerate any SHP in that case).
+Moreau. Similar to Spock. Can overcharge shields, but doesn't do anything if shields are already overcharged.
+Vemet. TODO.
+Eurydice. TODO.
+Enterprise ship ability. TODO.
+Ex-borg combat repair favors. TODO.
+Burning Status. TODO.
+Tal. TODO.
+Severus. TODO.
+Unconfirmed theory: the game tracks two different stats
+
+Maximum hit points. Your maximum hit points, calculated from different buffs, see effect stacking.
+Damage taken. The cumulative amount of damage taken since you fully repaired your ship. Can be negative, which leads for example to overcharging shields beyond their maximum shield hit points.
+The remaining hit points is simply the difference between those two numbers. Some effects "heal" hit points by giving you a temporary buff to maximum hit points. Such buffs are removed at the end of combat and the "healed" hit points are lost.
+
+Isolitic damage
+The isolitic damage of a weapon attack is given by:
+
+isolitic_damage = A*(B + (1 + B)*C)
+
+where
+
+A is the total regular attack damage (after all damage modifiers, including the critical damage multiplier, have been applied)
+B is the attackers isolitic damage bonus
+C is the attackers isolitic cascade damage bonus
+Damage mitigation
+Ships "mitigate" a certain portion of incoming damage. Mitigated damage is harmless, a ship with 100% mitigation would be immune to regular damage. Incoming damage has two components: regular and isolitic damage.
+
+The portion of regular damage that is mitigated is given by:
+
+mitigation = 1 - (1 - cA * f(dA / pA)) * (1 - cS * f(dS / pS)) * (1 - cD * f(dD / pD))
+
+where
+
+f is f(x) = 1 / (1 + 4^(1.1 - x))
+dA is the defenders armor stat
+dS is the defenders shield deflection stat
+dD is the defenders dodge stat
+pA is the attackers armor piercing stat or 0, whichever is higher
+pS is the attackers shield piercing stat or 0, whichever is higher
+pD is the attackers accuracy stat or 0, whichever is higher
+[cA, cS, cD] is equal to [0.3, 0.3, 0.3] for surveys and armadas, [0.55, 0.2, 0.2] for battleships, [0.2, 0.55, 0.2] for explorers, and [0.2, 0.2, 0.55] for interceptors.
+You can use the mitigation calculator on this site to compute the above for given input values.
+
+Isolitic damage mitigation
+The portion of isolitic damage that is mitigated is given by:
+
+isolitic_mitigation = 1 / (1 + isolitic_defense)
+
+where
+
+isolitic_defense is the defenders isolitic defense stat
+Shield mitigation
+After mitigated damage has been removed, the remaining unmitigated isolitic and regular damage is added up and distributed to the targets shield and hull hit points:
+
+shp_damage_taken = S * total_unmitigated_damage
+hhp_damage_taken = (1 - S) * total_unmitigated_damage
+
+where
+
+S is the defenders shield mitigation stat
+Notes:
+
+"Shield mitigation" has nothing to do with "mitigation", that's just named confusingly.
+The shield mitigation coefficient is given by the ships shield component.
+For almost all ships in the game, the base shield mitigation coefficient is 0.8, i.e., 80% of the unmitigated damage is absorbed by the shields and 20% of the unmitigated damage damages the hull. The notable excemption is the Sarcophagus, which only has a 20% base shield mitigation.
+TODO: Effects that affect shield mitigation: Harrison (multiplicative), Fat Mudd (additive, fixed 18%), 1of11 (additive), SNW Pike (additive), Janeway (additive), Cerritos buff (additive), Titan buff (additive), ST Una (??)
+Weapon reloading
+Weapons have two stats that affect its firing pattern: the load and the reload time. The load time defines the first round in which the weapon fires, and the reload time defines how many rounds have to pass until the weapon fires again.
+
+The load and reload times are simple stats that are affected by effect stacking like any other stat. Changing a weapons load or reload time doesn't have any immediate effect.
+
+When a weapon fires an attack, it inspects the current value of its reload time and schedules the next attack according to that value. Any subsequent changes to its reload time do not move the next scheduled attack.
+
+Borg cube beam charge
+After a regular combat against a red dot (TODO: does it charge against other kinds of targets?), your beam charge increases by
+
+charge_gained = 0.1 * hull_damage_done / beam_damage * (1 + charge_optimization_bonus)
+
+Ship power rating
+The power of a ship (both player ships and NPCs) is calculated as
+
+ship_power = attack_rating + defense_rating + health_rating
+attack_rating = total_damage_per_round + 0.5 * (armor_piercing + shield_piercing + accuracy)
+defense_rating = 5 * (armor + shield_deflection + dodge)
+health_rating = 0.5 * HHP + 0.5 * SHP
+damage_per_round = (min_damage + max_damage)/2 * shots / reload_time * (1 + crit_chance * crit_damage)
+
+where
+
+damage_per_round is the estimated damage per round of a single weapon
+total_damage_per_round is the sum of damage_per_round of all weapons
+Notes:
+
+The formula for the damage per round has as bug in it, it overestimates the effect of critical hits.
+The ship power rating only considers effects that apply at all times. Research that applies only against specific targets is not included in the power rating.
+The ship power rating is fully calculated client side, and is affected by several bugs.
+The ship power rating is a mostly meaningless number.
+Client-side calculations
+Almost all numbers that you see in the game are calculated by your game client. For example, if you see an enemy ship in the combat log, the game server doesn't tell you:
+
+Hey, your target was a T5 Augur with 4.5M ship power and 2M hit points.
+
+Instead, the game server tells your game client:
+
+Hey, I'm going to give you the following information about the target: the tier and level of the ship hull, the tier of all ship components, the tier and level of all bridge and below deck officers, the complete list of all research that currently affects the ship. Now go figure out yourself the actual values of the stats of that ship.
+
+Since this calculation may contain bugs (like the game server and client disagreeing whether a given research should apply to a ship), almost all numbers visible in the game are not reliable. The only numbers I would personally trust are the damage numbers in combat logs (i.e., how much damage an individual weapon shot did). All other stats should be reverse engineered from that.

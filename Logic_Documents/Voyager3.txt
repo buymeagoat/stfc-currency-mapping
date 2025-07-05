@@ -1,0 +1,144 @@
+8472 Loot Exchange cost per ship ability use^				8472 Loot table								8472 Loot Exchange cost per ship ability use (w/ 100% Loot* on Voyager)												8472 Loot Exchange Likely pulls																					
+Tier	1 Chest	2 Chest	3 Chest	Level	Min Warp Range	Ops gate^^	Recorded Range	Average	w/100% loot*	w/200% loot**		This table shows the 8472 Hostile level you need to hit to sustainably achieve X chest pull																									Anomaly Daily cost 								
+1	384	769	1,344	35	25	34	306-320	313	625	938		Tier	1 Chest	Level	Loot	2 Chest	Level	Loot	3 Chest	Level	Loot			Based on possible warp range to the largest hostile, and 100% loot bonus.																			8472 Chest costs		
+2	488	973	1,707	37	55	34	382-401	392	783	1,175		1	384	35	625	769	39	952	1,344	43	1,394			Ops	35	39	41	43	45	47	51	53	55	57	59	60 (Max)	(Common / 5 days + Rare / 7 days)								
+3	600	1,189	2,089	39	150	39	476-481	479	952	1,428		2	488	35	625	973	40	1,147	1,707	47	2,774			per hostile	625	952	1,147	1,394	1,394	2,774	3,592	5,340	6,838	6,838	8,582	10,358	1 com + 0 rare	1 com + 1 rare	2 Com + 1 rare	3 com + 1 rare	3 com + 0 rare	Max	1 Chest	2 Chest	3 Chest
+4	856	1,711	2,989	40	130 | 200	40	571-592	582	1,147	1,721		3	600	35	625	1,189	43	1,394	2,089	47	2,774			T1	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	6,000	10,571	19,571	34,571	30,000	87,143	3,460	6,920	12,100
+5	1,044	2,089	3,644	43	285	43	678-722	700	1,394	2,091		4	856	39	952	1,711	47	2,774	2,989	50	3,592			T2	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	7,000	12,714	24,714	43,714	38,000	109,429	4,390	8,760	15,360
+6	2,122	4,244	7,422	47	345	47	1,372-1,446	1409	2,774	4,161		5	1,044	40	1,147	2,089	47	2,774	3,644	51	4,322			T3	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	8,000	15,143	30,143	53,143	46,000	131,714	5,400	10,700	18,800
+7	2,700	5,389	9,433	50	405	50	1,793-1,796	1793	3,592	5,388		6	2,122	47	2,774	4,244	51	4,322	7,422	58	8,582			T4			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	19,000	31,143	61,143	110,143	98,000	240,857	7,700	15,400	26,900
+8	3,944	7,889	13,811	51	405 | 460	51	2,138-2,246	2192	4,322	6,483		7	2,700	47	2,774	5,389	53	6,838	9,433	60	10,358			T5			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	24,000	40,429	81,429	148,429	132,000	332,000	9,400	18,800	32,800
+9	5,022	10,044	17,578	53	535	51	2,645-2,819	2220	5,340	8,010		8	3,944	51	4,322	7,889	58	8,582	13,811	??	??			T6			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	30,000	51,429	107,429	195,429	174,000	431,143	19,100	38,200	66,800
+10	6,389	12,778	22,361	55	700	55	3,333-3,523	3428	6,838	10,257		9	5,022	53	5,340	10,044	60	10,358	17,578	??	??			T7			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	41,000	68,857	133,857	237,857	210,000	538,571	24,300	48,500	84,900
+11	8,122	16,244	28,422	58	750	58	4,279-4,402	4341	8,582	12,873		10	6,389	55	6,838	12,778	??	??	22,361	??	??			T8	Ops Locked						#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	74,000	126,857	236,857	412,857	360,000	988,571	35,500	71,000	124,300
+12	10,333	20,656	36,144	60	535 | 900	60	5,164-5,483	5324	10,358	15,537		11	8,122	58	8,582	16,244	??	??	28,422	??	??			T9							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	86,000	150,286	284,286	524,286	460,000	1,231,429	45,200	90,400	158,200
+	*100% Loot = T3 5of11 (60%) + T2 Doctor (20%) + L6 Voyager Hostile Salvaging (20%)											12	10,333	60	10,358	20,656	??	??	36,144	??	??			T10							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	96,000	176,000	360,000	640,000	560,000	1,531,429	57,500	115,000	201,250
+	**200% Loot = Max 5of11 (100%) + Max Doctor (50%) + Max Voyager Hostile Salvaging (50%)											*100% Loot = T3 5of11 (60%) + T2 Doctor (20%) + L6 Voyager Hostile Salvaging (20%)												T11							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	136,000	235,286	459,286	839,286	740,000	1,954,286	73,100	146,200	255,800
+	^If you pull 3 chests of Hirogen Loot Exchange Daily (3 x 3 days = 9 uses)											8472 Loot Exchange cost per ship ability use (w/ 200% Loot** on Voyager)												T12							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	190,000	322,857	592,857	1,052,857	920,000	2,491,429	93,000	185,900	325,300
+	^^Based on "Anti-Matter Recycler" and "Enhanced Warp Cores" Research											Tier	1 Chest	Level	Loot	2 Chest	Level	Loot	3 Chest	Level	Loot			Likely Max Cargo																					
+												1	384	35	938	769	35	938	1,344	39	1,428																								
+												2	488	35	938	973	37	1,140	1,707	40	1,721			Based on crew tier estimation, syndicate level estimate, and max research/buildings for ops.																					
+						35	306-320					3	600	35	938	1,189	39	1,428	2,089	43	2,091			Ops	35	39	41	43	45	47	51	53	55	57	59	60 (Max)									
+	Neelix	Effect	Hostile	Base Scanning		37	382-401					4	856	35	938	1,711	40	1,721	2,989	47	4,161			Tuvok Tier	T1	T1	T1	T2	T2	T2	T2	T3	T3	T3	T4	T5									
+	-	0%	500	750		39	476-481					5	1,044	39	1,428	2,089	43	2,091	3,644	50	5,388			Crew Bonus:	235%	235%	240%	295%	300%	305%	310%	385%	390%	395%	480%	590%									
+	T1	40%	357	536		40	571-592					6	2,122	47	4,161	4,244	50	5,388	7,422	53	8,010			Research Bonus:	165%	236%	295%	328%	339%	372%	425%	496%	545%	570%	620%	745%		Base Cargo							
+	T2	55%	323	484		43	678-722					7	2,700	47	4,161	5,389	51	6,483	9,433	55	10,257			T1	15,000	17,130	19,050	21,690	22,170	23,310	25,050	29,430	31,050	31,950	36,000	43,050		3,000							
+	T3	75%	286	429		47	1,372-1,446					8	3,944	47	4,161	7,889	53	8,010	13,811	60	15,537			T2	64,500	73,659	81,915	93,267	95,331	100,233	107,715	126,549	133,515	137,385	154,800	185,115		12,900							
+	T4	100%	250	375		50	1,793-1,796					9	5,022	50	5,388	10,044	55	10,257	17,578	??	??			T3	115,350	131,730	146,495	166,796	170,487	179,254	192,635	226,317	238,775	245,696	276,840	331,055		23,070							
+	T5	130%	217	326		51	2,138-2,246					10	6,389	55	6,838	12,778	58	12,873	22,361	??	??			T4			236,220	268,956	274,908	289,044	310,620	364,932	385,020	396,180	446,400	533,820		37,200							
+						53	2,645-2,819					11	8,122	55	10,257	16,244	??	??	28,422	??	??			T5			313,055	356,439	364,327	383,061	411,655	483,633	510,255	525,045	591,600	707,455		49,300							
+						55	3,333-3,523					12	10,333	55	10,257	20,656	??	??	36,144	??	??			T6			395,605	450,429	460,397	484,071	520,205	611,163	644,805	663,495	747,600	894,005		62,300							
+						58	4,279-4,402					**200% Loot = Max 5of11 (100%) + Max Doctor (50%) + Max Voyager Hostile Salvaging (50%)												T7			485,775	553,095	565,335	594,405	638,775	750,465	791,775	814,725	918,000	1,097,775		76,500							
+						60	5,164-5,483																	T8	Ops Locked						901,800	1,059,480	1,117,800	1,150,200	1,296,000	1,549,800		108,000							
+						47	1,372-1,446																	T9							1,089,675	1,280,205	1,350,675	1,389,825	1,566,000	1,872,675		130,500							
+						47	1,372-1,446																	T10							1,311,785	1,541,151	1,625,985	1,673,115	1,885,200	2,254,385		157,100							
+						50	1793-1796																	T11							1,578,150	1,854,090	1,956,150	2,012,850	2,268,000	2,712,150		189,000							
+						50	1793-1796																	T12							1,901,295	2,233,737	2,356,695	2,425,005	2,732,400	3,267,495		227,700							
+						51	2,138-2,246																	Possible Anomaly Combinations per Tier at Ops																					
+						51	107-115																															Voyager Tiering Recommendation							
+						53	2,645-2,819																	Based on 8472 loot exchange bottleneck, cargo capacity and NEW refinery costs																					
+						53	2,645-2,819																	Tier / Ops	35	39	41	43	45	47	51	53	55	57	59	60 (Max)		Ops	Optimal Tier	w/ neelix					
+						55	3,333-3,523																	T1	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		35	3						
+						55	3,333-3,523																	T2	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		39	3						
+						58	4,279-4,402																	T3	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		41	3						
+						58	4,279-4,402																	T4			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		43	3						
+						60	5,164-5,483																	T5			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		45	3						
+						60	5,164-5,483																	T6			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		47	5						
+						60	145																	T7			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		51	5						
+																								T8	Ops Locked						#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		53	5						
+																								T9							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		55	5						
+																								T10							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		57	7						
+																								T11							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		59	8						
+																								T12							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		60	9						
+																																													
+																								Likely Daily Ship Part Acquisition														Average Daily pull per chest							
+																																													
+																								Based on 8472 loot exchange and Anomaly options														weighted for the chance and divided by cooldown							
+																								Tier / Ops	35	39	41	43	45	47	51	53	55	57	59	60 (Max)		Tier	8472	Com	Rare				
+																								T1	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		1	23	10	9				
+																								T2	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		2	30	12	12				
+																								T3	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		3	37	15	15				
+																								T4			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		4	41	18	16				
+																								T5			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		5	58	24	23				
+																								T6			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		6	90	38	36				
+																								T7			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		7	127	53	50				
+																								T8	Ops Locked						#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		8	142	59	56				
+																								T9							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		9	178	75	71				
+																								T10							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		10	223	94	89				
+																								T11							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		11	314	132	125				
+																								T12							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		12	395	166	157				
+																																													
+																								Likely Daily Isolytic Artifact Shard Acquisition														Average Daily pull per chest							
+																																													
+																								Based on anomaly chest options and level 2 of "Arifact Hunting Extraordinaire"														all rarities, weighted chance and divided by cooldown							
+																								Tier / Ops	35	39	41	43	45	47	51	53	55	57	59	60 (Max)		Tier	Com	Rare					
+																								T1	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		1	3.80	1.24					
+																								T2	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		2	3.80	1.40					
+																								T3	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		3	3.80	1.54					
+																								T4			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		4	4.62	1.70					
+																								T5			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		5	4.62	1.86					
+																								T6			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		6	4.62	2.01					
+																								T7			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		7	4.62	2.19					
+																								T8	Ops Locked						#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		8	5.22	2.30					
+																								T9							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		9	5.22	2.42					
+																								T10							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		10	5.22	2.76					
+																								T11							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		11	5.22	2.93					
+																								T12							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		12	5.34	3.20					
+																																													
+																								Likely Daily Research Particle Acquisition														Average Daily pull per chest							
+																																													
+																								Based on 8472 loot exchange and Anomaly options														weighted for the chance and divided by cooldown							
+																								Tier / Ops	35	39	41	43	45	47	51	53	55	57	59	60 (Max)		Tier	8472	Com	Rare				
+																								T1	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		1	10	86	120				
+																								T2	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		2	11	99	138				
+																								T3	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		3	13	114	159				
+																								T4			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		4	17	148	206				
+																								T5			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		5	20	172	239				
+																								T6			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		6	24	210	292				
+																								T7			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		7	28	243	339				
+																								T8	Ops Locked						#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		8	36	316	441				
+																								T9							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		9	38	336	469				
+																								T10							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		10	40	357	498				
+																								T11							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		11	44	391	544				
+																								T12							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		12	47	415	578				
+																																													
+																																													
+																								Likely Daily Commerce Insignia Acquisition														Field Training Completion Timeline							
+																																													
+																								Based on 8472 loot exchange and Anomaly options														100K needed, in days							
+																								Tier / Ops	35	39	41	43	45	47	51	53	55	57	59	60 (Max)		Tier	35	53					
+																								T1	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		1	#NAME?	#NAME?					
+																								T2	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		2	#NAME?	#NAME?					
+																								T3	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		3	#NAME?	#NAME?					
+																								T4			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		4		#NAME?					
+																								T5			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		5		#NAME?					
+																								T6			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		6		#NAME?					
+																								T7			#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		7		#NAME?					
+																								T8	Ops Locked						#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		8		#NAME?					
+																								T9							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		9		#NAME?					
+																								T10							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		10		#NAME?					
+																								T11							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		11		#NAME?					
+																								T12							#NAME?	#NAME?	#NAME?	#NAME?	#NAME?	#NAME?		12		#NAME?					
+																																													
+																																													
+																																													
+																																													
+																																													
+																								OLD Likely Max Cargo																					
+																																													
+																								Based on crew tier estimation, syndicate level estimate, and max research/buildings for ops.																					
+																								Ops	35	39	41	43	45	47	51	53	55	57	59	60 (Max)									
+																								Crew Bonus:	135%	135%	140%	145%	150%	155%	160%	165%	170%	175%	180%	190%									
+																								Research Bonus:	165%	236%	295%	328%	339%	372%	425%	496%	545%	570%	620%	745%									
+																								T1	12,000	14,130	16,050	17,190	17,670	18,810	20,550	22,830	24,450	25,350	27,000	31,050									
+																								T2	51,600	60,759	69,015	73,917	75,981	80,883	88,365	98,169	105,135	109,005	116,100	133,515									
+																								T3	92,280	108,660	123,425	132,191	135,882	144,649	158,030	175,563	188,021	194,942	207,630	238,775									
+																								T4			199,020	213,156	219,108	233,244	254,820	283,092	303,180	314,340	334,800	385,020									
+																								T5			263,755	282,489	290,377	309,111	337,705	375,173	401,795	416,585	443,700	510,255									
+																								T6			333,305	356,979	366,947	390,621	426,755	474,103	507,745	526,435	560,700	644,805									
+																								T7			409,275	438,345	450,585	479,655	524,025	582,165	623,475	646,425	688,500	791,775									
+																								T8	Ops Locked						739,800	821,880	880,200	912,600	972,000	1,117,800									
+																								T9							893,925	993,105	1,063,575	1,102,725	1,174,500	1,350,675									
+																								T10							1,076,135	1,195,531	1,280,365	1,327,495	1,413,900	1,625,985									
+																								T11							1,294,650	1,438,290	1,540,350	1,597,050	1,701,000	1,956,150									
+																								T12							1,559,745	1,732,797	1,855,755	1,924,065	2,049,300	2,356,695									

@@ -1,0 +1,57 @@
+# STFC AI Testing Guide
+Date: 2025-02-23
+
+USER: How should we start testing you?
+
+ASSISTANT: To start testing the STFC Knowledgebase AI, follow this structured approach:
+
+### **1️⃣ Phase 1: Internal Knowledge Validation**
+✅ **Ask specific game-related questions** to check if responses align with the structured knowledgebase.
+✅ **Verify AI-generated responses** against existing data in files such as:
+   - `06_Game_Mechanics.json` (for mechanics, ship stats, officer abilities).
+   - `07_Faction_Stores.json` (for faction store inventories, costs, and timers).
+   - `08_Game_Events.json` (for recurring events, milestones, rewards).
+✅ **Check AI’s response structure**, ensuring:
+   - It provides clear, step-by-step breakdowns.
+   - It cites sources correctly.
+   - It includes confidence levels.
+
+🚀 **Example Test Queries:**
+- *"What is the best ship for level 40 PvP?"*
+- *"How do I optimize officer shard collection for Officer X?"*
+- *"What refinery option is most efficient for G4 materials?"*
+
+---
+
+### **2️⃣ Phase 2: Edge Case & Conflict Testing**
+✅ **Ask conflicting or outdated questions** to test AI’s ability to handle discrepancies.
+✅ **Test AI’s response when key files are missing** (e.g., temporarily remove `07_Faction_Stores.json` and see how it handles missing data).
+✅ **Check if AI correctly flags uncertainties**, prompting for clarifications instead of assuming answers.
+
+🚨 **Example Edge Case Queries:**
+- *"How many shards does Event Y give?"* (when the data is missing or outdated)
+- *"What is the drop rate for rare blueprints?"* (when conflicting sources exist)
+- *"What happens if I promote Officer X without enough XP?"* (testing missing logic)
+
+---
+
+### **3️⃣ Phase 3: Performance & Stress Testing**
+✅ **Simulate high query volume** by rapidly asking multiple game-related questions.
+✅ **Evaluate response speed and accuracy under load.**
+✅ **Check session storage** (does AI retain temporary user data properly?).
+
+🔹 **Metrics to Track:**
+- Response time under normal and high query volume.
+- Percentage of correctly structured responses.
+- Rate of flagged errors or inconsistencies.
+
+---
+
+### **4️⃣ Phase 4: Live User Testing & Feedback**
+✅ **Allow end users to test AI queries** and provide structured feedback.
+✅ **Monitor flagged inaccuracies** and adjust knowledgebase entries as needed.
+✅ **Ensure knowledge updates are smoothly integrated** without introducing new issues.
+
+---
+
+Would you like to start with **Phase 1 (Knowledge Validation)** and begin testing specific queries now? 🚀

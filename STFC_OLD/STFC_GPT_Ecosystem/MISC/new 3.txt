@@ -1,0 +1,25 @@
+3 GPTs and a user architect
+
+STFC Data Architect (STFCDA) -> GPT coordinator among all three GPTs.
+STFC Knowledge Extractor (STFCKE) -> Extracts STFC-based information from various user-generated sources. 
+STFC Witness (STFCW) -> Used to reconcile information between Data Architect and Knowledge Extractor to remove data drift and other known issues with data management with ChatGPT. Data and process verification system between the two systems. How will it ensure integrity between the two systems?
+Me -> Conduit through which messages are passed from one GPT to the next. Only intervenes when requestsed by the GPTs. Works with Data Architect for overall architectural design. 
+Each GPT needs to have metadata about it that helps understand it's relationship with the other GPT. If something about this changes, we need to issue metadata updates to all three GPTs to ensure lockstep.
+
+End goal: STFC Data Architect does all functions after significant refinement.
+
+STFCDA needs to take cooldown times into account
+I'd also like to build out a resource harvesting plan based on the user's play style.
+-Basic - single pulls only
+-Advanced - Lowest or medium pulls 
+-Expert - Maximum pulls for everything
+
+Possibility to configure STFCDA based on individual pulls (like I want to do 2 chest pulls a day for 2* Isogen, but maximum for 3* Isogen) or choosing one of the three identified profiles.
+
+What I need:
+Need GPT to instruct me on what files need to be attached to what GPT.
+GPTs will generate files to either share among GPTs or for me to attach to the current GPT. GPT will prompt me this needs to happen. Perhaps this could be done in batches rather than doing an update every single time.
+Need to learn what's the most effective way to provide information to chatgpt for GPT refinement.
+Are there are formulas of which we know for STFC for which we can generate a file and attach to Data Architect?
+
+I'd also like to understand what chatgpt has learned about me. I want feedback on how I think and approach this. What am I doing well, what has it inferred I learned through this process, and where do I need yet to improve?

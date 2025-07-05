@@ -1,0 +1,75 @@
+Fastest Possible Impulse By Ship																				
+Ships	Ops	Grade	Base	Research	Max Flat	Max Crew														
+Realta	1	1	150	112	262	546														
+Mantis	33	4	85	157	242	511														
+Vidar Talios	35	4	125	117	242	511														
+Northcutt	53	5	105	132	237	502														
+Sanctus	56	5	105	132	237	502														
+Rotarran	60	5	105	132	237	502														
+Beatty	58	5	100	132	232	494														
+Vrax	58	5	100	132	232	494														
+Mow'ga	58	5	100	132	232	494														
+Botany Bay	18	3	110	92+30%	262.6	492														
+USS Voyager	34	4	110	117	227	485														
+USS Titan-A	37	4	110	117	227	485														
+Corvus	53	5	95	132	227	485														
+Quv Sempek	56	5	95	132	227	485														
+Ent-D	60	5	95	132	227	485														
+D'vor Feesha	35	4	105	117	222	476														
+Phindra	10	2	127	92	219	471														
+Stella	27	3	125	92	217	467														
+USS Franklin-A	35	4	100	117	217	467														
+Defiant	35	4	100	117	217	467														
+Nova	52	5	100	117	217	467														
+Vor'cha	53	5	85	132	217	467														
+Crozier	56	5	85	132	217	467														
+D'deridex	60	5	85	132	217	467														
+Kelvin	42	4	98	117	215	464														
+Pilum	46	4	98	117	215	464														
+Hegh'ta	50	4	98	117	215	464														
+USS Franklin	17	3	100	112	212	459														
+Vi'dar	25	3	120	92	212	459														
+Corvette	5	1	115	92	207	450														
+Kehra	20	3	115	92	207	450														
+D3	26	3	115	92	207	450														
+Hijacked D3	26	3	115	92	207	450														
+Separatist D3	26	3	115	92	207	450														
+Saladin	28	3	115	92	207	450														
+Gladius	32	3	115	92	207	450														
+D4	34	3	115	92	207	450														
+Turas	12	2	110	92	202	441														
+Jellyfish	12	2	110	92	202	441														
+North Star	18	3	110	92	202	441														
+Discovery	21	3	110	92	202	441														
+Cerritos	36	4	85	117	202	441														
+ISS Jellyfish	39	4	85	117	202	441														
+Valdore	42	4	85	117	202	441														
+Korinar	46	4	85	117	202	441														
+Ent-A	50	4	85	117	202	441														
+Vahklas	22	3	100	92	192	424														
+Mayflower	26	3	100	92	192	424														
+Hijacked Mayflower	26	3	100	92	192	424														
+Centurion	28	3	100	92	192	424														
+B'rel	32	3	100	92	192	424														
+Enterprise	34	3	100	92	192	424														
+K'tinga	42	4	72	117	189	418														
+Newton	46	4	72	117	189	418														
+Tribune	50	4	72	117	189	418														
+Fortunate	7	1	94	92	186	413														
+Talla	14	2	94	92	186	413														
+Hydra	41	4	68	117	185	411														
+Vorta Vor	41	4	68	117	185	411														
+B'chor	41	4	68	117	185	411														
+D'vor	23	3	90	92	182	406														
+Kumari	24	3	85	92	177	397														
+Legionary	26	3	85	92	177	397														
+Intrepid	32	3	85	92	177	397														
+Augur	34	3	85	92	177	397														
+Envoy	16	2	83	92	175	394														
+Sarcophagus	30	3	80	92	172	389														
+Meridian	25	3	75	92	167	380														
+Horizon	26	3	75	92	167	380														
+Antarres	30	3	75	92	167	380														
+Valkis	30	3	75	92	167	380														
+K'vort	30	3	75	92	167	380														
+Amalgam	31	3	70	92	162	371														

@@ -1,0 +1,74 @@
+# Patch Updates and Event Changes
+Date: 2025-02-23
+
+USER: 
+
+ASSISTANT: I have processed the uploaded transcripts and extracted the relevant structured data from them. Here is the summary:
+
+---
+
+### **Patch 75.2 & Planned PvP Arena Changes (2025-02-18)**
+- **Bug Fixes & Improvements**
+  - Fixes to UI lag and loading screen issues.
+  - Timeout error fixes.
+  - Incorrect Battle Log exports improved for SPO Club usage.
+  - Empty Object Viewer HUD in ship management resolved.
+  - Artifact power display bug fixed.
+
+- **PvP Arena Changes**
+  - Improvements to matchmaking and rank icon issues.
+  - Curtain animations sticking issue resolved.
+  - UI adjustments for smoother arena experience.
+
+---
+
+### **Event Store Currency Update (2025-02-13)**
+- **Currency Discrepancies**
+  - Players below level 40 are earning significantly less than those above.
+  - Estimated **200K currency** for free-to-play level 40+ users by end of the event.
+  - Players below level 40 face diminishing returns compared to past years.
+
+- **Historical Trends**
+  - Event store payouts have fluctuated, with a **400K free-to-play average** before 2024.
+  - 2024 changes included more material rewards instead of pure currency.
+
+---
+
+### **USS Mayflower Overview (2025-02-14)**
+- **Sourcing Methods**
+  - Available through **Federation Faction Store (10K credits)**.
+  - **Away Teams store** offers alternative blueprint sourcing.
+  - No grindable locations in hostiles.
+
+- **Strategic Use**
+  - Early **four-star material scrapping option**.
+  - Recommended for lower-level players focused on Federation alignment.
+  - Officer synergy and crit missions improve acquisition efficiency.
+
+---
+
+### **Prime Orbit Medallions & Free Prime Research (2025-02-17)**
+- **Silent Hostiles Loop**
+  - Hostiles found in **specific systems** (level-dependent).
+  - **Drop chance of Prime Orbit Medallions** per chest pull.
+
+- **Available Prime Research**
+  - Mostly **station and combat trees**.
+  - Recommended priority: **Defense, Repair, and Tactical boosts**.
+
+---
+
+### **Sunday Stream (2025-02-16)**
+- **Neutrino RNG System**
+  - 50% chance for **3.6K**, 36% for **6K**, 12% for **12K**, 2% for **24K**.
+  - Some players pulling consistent **high-end RNG** while others struggle.
+  - Community discussion on **fixed vs. random payouts**.
+
+- **Best Event Store Uses**
+  - **Top Priority:** **Ferengi Whip**, **Vindicator**, **Extra Fleet Commander Slot**.
+  - **Mid Priority:** **Dolamide for free Prime Research**, **NSC Scout**.
+  - **Lower Priority:** Officers, Miscellaneous Upgrades.
+
+---
+
+This data is ready for **manual integration** into the knowledgebase. Let me know if you need a specific format for copy-paste integration!

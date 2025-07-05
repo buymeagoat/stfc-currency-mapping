@@ -1,0 +1,82 @@
+STFCKE Transcript Processing Protocol (TDP) – v1.1
+Date: 2025-02-20
+Version: 1.1
+
+Overview
+This document defines the mandatory multi-pass approach to transcript and video processing for STFCKE.
+The goal is to maximize data capture density, ensure contextual insights are converted into structured knowledgebase entries, and improve long-term pattern detection across multiple sources.
+
+This protocol is authoritative for all uploaded transcript and video files.
+STFCKE must consult and apply this protocol during transcript processing in addition to the core extraction directives in v4.7.9.
+
+Step 1: Surface Extraction (Initial Pass)
+Perform the standard extraction of all three data types:
+
+Quantitative Data (Mandatory): Costs, percentages, requirements, refinery outcomes, yields, upgrade paths, event earnings, sourcing methods, efficiency modifiers.
+Expert Gameplay Guidance (Mandatory if Mentioned): Ship evaluations, officer performance, PvP crews, research efficiency, event strategies, sourcing recommendations.
+Meta/Emergent Trends (Soft Data): Sourcing shifts, RNG volatility, bottlenecks, player frustrations, system trends.
+Capture Requirements:
+Record every explicit value, percentage, cost, RNG result, or upgrade detail.
+Document all officer setups, crew combinations, or ship strategies when discussed.
+When any sourcing method is mentioned (e.g., faction store, scrapping), capture the pathway details.
+Event earnings and participation metrics (e.g., “I got 200k event points”) must always be recorded.
+Step 2: Contextual Enrichment (Second Pass)
+Evaluate surrounding context for implied data, performance cues, and efficiency markers.
+
+Key Signals to Extract:
+Context Cue	Extraction Requirement
+Efficiency Gains	Statements like “filling cargo faster,” “grinding well,” or “saved time” → Capture as Expert Guidance with efficiency emphasis.
+Performance Evaluation	Phrases like “this worked better than expected,” “my crew crushed it,” or “this officer didn’t work” → Capture as Expert Guidance even if values are absent.
+Unlock/Progression Context	“This helped me unlock X” or “finally got my Pilum” → Extract as Meta Trend: Systemic Progression Indicator.
+Frustration or Confusion	Complaints about event milestones, refinery payouts, PvP participation limits → Capture as Meta Trend: RNG Volatility, Bottleneck, or Systemic Frustration.
+Step 3: Hidden Mechanic Signals
+Capture incomplete, vague, or anecdotal references to underlying systems, as these often predate formal discovery.
+
+Specific Watch Areas:
+Mention	Extraction Requirement
+Officer Interactions	“Synergy didn’t work,” “felt stronger,” “didn’t stack” → Extract as Expert Guidance (Officer Effect Uncertainty) with Uncertainty_Marker=Yes.
+Combat Outcomes	“Weird damage,” “unexpected win/loss,” “hostiles behaving differently” → Capture as Meta Trend: Combat Mechanic Oddity.
+Artifact/Prime Dependence	“Helped by artifact” or “Prime efficiency made it cheaper” → Link Artifact/Prime to upgrade cost or performance entry (even if values are missing).
+Step 4: Partial Data Bridging
+Infer and complete sourcing or efficiency pathways from fragmented mentions.
+
+Partial Data Type	Bridging Requirement
+Scrapping, Refinery, or Store Loop	If part of the sourcing loop is mentioned, e.g., “I scrapped a ship,” capture the partial pathway and flag it for future completion.
+Cost vs. Efficiency Modifiers	When a raw cost is stated but efficiency research or primes are implied, record both as separate data points and annotate potential modifiers.
+Event Earnings with Ops Context	“I scored 500k in this event” → Capture the value with Ops Level if mentioned, and annotate Event Name even if the player’s outcome is not generalized.
+Step 5: Cross-Segment Reinforcement
+Track repeat mentions across the transcript, even when the data seems repetitive. Each instance amplifies trend strength.
+
+Repetition Area	Reinforcement Requirement
+PvP Arena Concerns	Every “bracket issue,” “speed cap,” or “outmatched” mention → Capture each one individually as Meta Trend: Systemic PvP Arena Concern.
+Event Struggles	“Missed the event” or “barely finished” → Capture as Meta Trend: Participation Bottleneck.
+Fleet Milestones	“Just got my Pilum” or “Third Amalgam” → Record as Meta Trend: Fleet Progression Indicator, signaling resource accumulation patterns.
+Data Classification Augmentation Requirements
+When applying data classifications under the v4.7.9 structure, apply these specific augmentations when context requires:
+
+Context	Additional Field Adjustment
+Crew Performance by Ops Level	Add Performance Context Field (e.g., “Effective for Ops 50+ PvP,” or “Underperforms vs. Heavy Interceptors”).
+Research and Prime Efficiency Overlap	Cross-link entries if Prime benefits are reduced by general research improvements (e.g., “G3 Prime losing value after Efficiency Research”).
+PvP Strategy Divergence	When PvP crews differ based on Ops level (e.g., G4 vs. G5), create tiered data points, rather than aggregating into one general recommendation.
+Review and Validation
+Post-Extraction Validation Requirements:
+
+Partial or Incomplete Data → Cross-check with User Architect for further inquiry if:
+Partial sourcing loops or vague mechanic descriptions are flagged.
+RNG volatility complaints cluster within 7 days across transcripts.
+PvP participation bottlenecks are mentioned multiple times.
+Uncertainty Handling (Refreshed Criteria)
+Uncertainty_Marker=Yes must be applied if:
+
+Yield data appears extreme or rare (e.g., “back-to-back 24k pulls”).
+Performance evaluation lacks concrete stats (e.g., “felt better” vs. damage output).
+Officer synergy or ability is claimed without evidence.
+Versioning Record
+Version	Date	Summary
+v1.0	2024-12	Initial Extraction Framework
+v1.1	2025-02-20	Transcript Deep Processing Protocol (TDP), Contextual Enrichment, Partial Data Bridging, Cross-Segment Reinforcement
+Next Review	March 2025	Validate after 3-5 transcripts processed using TDP
+Final Implementation Directive
+STFCKE must consult this protocol during every transcript or video processing task.
+This protocol is a mandatory supplement to STFCKE Instruction Set v4.7.9.
+

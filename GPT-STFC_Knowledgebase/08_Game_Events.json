@@ -1,0 +1,40 @@
+{
+  "game_events": [
+    {
+      "event_name": "Faction Wars",
+      "event_type": "Limited-time faction battles",
+      "reward_tiers": {
+        "milestone_1": {
+          "uncommon_crystals": 5,
+          "officer_xp_tokens": 10
+        },
+        "milestone_2": {
+          "rare_gas": 10,
+          "recruitment_tokens": 5
+        },
+        "milestone_3": {
+          "epic_ore": 15,
+          "exclusive_avatar": "Yes"
+        }
+      },
+      "event_classification": "UNKNOWN",
+      "confidence_level": "medium"
+    },
+    {
+      "event_name": "Mining Monday",
+      "event_type": "Resource gathering event",
+      "reward_tiers": {
+        "milestone_1": {
+          "uncommon_crystals": 10,
+          "event_currency": 100
+        },
+        "milestone_2": {
+          "rare_gas": 15,
+          "faction_reputation": 500
+        }
+      },
+      "event_classification": "Recurring",
+      "confidence_level": "high"
+    }
+  ]
+}

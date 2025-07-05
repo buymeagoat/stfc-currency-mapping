@@ -1,0 +1,44 @@
+Impulse Speeeeeeed Calculator
+Variables in green cells. Use dropdown menu to select value or backspace to clear the field.
+Ship	Shipyard	Grade	Your:	Current	Maxed		^ Raw Data hidden ^
+Realta	#NAME?	#NAME?	Base Impulse	#NAME?	#NAME?
+#NAME?			w/ research & exo	#NAME?	#NAME?
+Klaa, Kuron, SNW Una	#NAME?	#NAME?
+Officer Abilities	Tier	Value	Captain abilities	Value	+synergy
+Kuron	4	#NAME?	Pan	20%	15%
+Hugh	5	#NAME?	Klaa	25%	5%
+SNW Una	2	#NAME?	Burnham	15	10
+TOS Chekov	10	10
+Research	Level	Value	Req Building Level		Notes
+"Take Us Out" FC Kirk skill	14	#NAME?	Command Center	#NAME?	All, FC/CC Dependent
+Full Impulse (Territory tree)	10	#NAME?	R&D	#NAME?	All ships
+Sub-light Maneuvers	8	#NAME?	R&D	#NAME?	All ships
+G4 Impulse	10	#NAME?	Engine Technology Lab	#NAME?	G4+
+Mantis Impulse Speed	13	#NAME?	Foundry	#NAME?	ship specific
+USS Discovery Impulse Speed	3	#NAME?	R&D	#NAME?	ship specific
+USS Franklin Impulse Speed	5	#NAME?	R&D	#NAME?	ship specific
+Augmented Impulse (botany bay)	5	#NAME?	R&D	#NAME?	ship specific
+Realta Swift Refit	Yes	#NAME?	Earned in events		ship specific
+Boosted Battleship		#NAME?	Foundry	#NAME?	G5+
+Boosted Interceptor		#NAME?	Engine Technology Lab	#NAME?	G5+
+Boosted Explorer		#NAME?	Science Lab	#NAME?	G5+
+Alliance Exocomp
+Your Ops	51-60	#NAME?	Available for ops 51+ through ATA mission
+Alliance Exocomp Active?	No
+Created by: @JulesVern, with data from STFC.space						Updated: 6/13/2023
+Ship's impulse w/ your research:	#NAME?	For the: 	Realta
+Crew Combinations	Your Tier	Max Tier		Notes
+Klaa, Kuron, SNW Una	#NAME?	#NAME?		Max Speed
+Pan + Synergy, Kuron	#NAME?	#NAME?		some combat
+Burnham, SNW Una, Kuron	#NAME?	#NAME?		meh
+Klaa + Synergy, Kuron	#NAME?	#NAME?		meh
+Pan + Synergy, SNW Una	#NAME?	#NAME?		some combat, no warm up needed
+Klaa + synergy, SNW Una	#NAME?	#NAME?		no warm up needed
+SNW Una, Kuron	#NAME?	#NAME?		hostile speed grinding
+Pan Full Synergy	#NAME?	#NAME?		2nd compliment to Max Speed
+Kuron	#NAME?	#NAME?		Mantis speed grind
+Klaa Full Synergy	#NAME?	#NAME?		meh
+SNW Una 	#NAME?	#NAME?		general hostile grind
+Burham Full Synergy	#NAME?	#NAME?		scraping the bottom of the barrel
+TOS Chekov Full Synergy	#NAME?	#NAME?		Explorers only
+Hugh (why?!)	#NAME?	#NAME?		A misuse of a BDO. please no.

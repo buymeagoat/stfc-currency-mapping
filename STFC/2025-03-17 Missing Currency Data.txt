@@ -1,0 +1,414 @@
+# Missing Currency Data
+Date: 2025-03-17
+
+USER: What files are currently missing information which I could at least provide a small baseline of information?
+
+ASSISTANT: The following files are currently empty and require at least a baseline of information to be useful:
+
+1. **`currency_relationships.json`** - No relationships have been defined between currencies.
+2. **`currency_modifiers.json`** - No modifiers affecting currencies are listed.
+3. **`currency_spending.json`** - No data on where currencies are spent.
+4. **`currency_sources.json`** - No data on how currencies are obtained.
+5. **`currency_conversions.json`** - No documented conversion rates between currencies.
+6. **`historical_changes.json`** - No historical economic changes have been recorded.
+
+Additionally:
+- **`currencies_core.json`** contains ship names rather than currency data, which might need correction.
+- **`currency_endpoints.json`** is populated with ships, which may need verification to ensure they are true economic endpoints.
+
+Would you like to start by defining some key relationships, sources, spending locations, or conversion rates? Or would you like assistance in classifying the ship names in `currencies_core.json` correctly?
+
+USER: I've verified these are where they are supposed to be. Some ships are currency and some aren't based on whether they can be scrapped. Let's start populating some of the empty files. Give me a question and I"ll answer it.
+
+ASSISTANT: Great! Let's start with **`currency_sources.json`**, since knowing where currencies come from will help structure the rest of the economy.
+
+### Question:  
+Can you provide some examples of how key currencies are acquired in **Star Trek Fleet Command**? For example:
+- What are the main ways to obtain **Faction Credits** (Federation, Klingon, Romulan)?
+- How do players acquire **Latinum**?
+- Where do **Borg Credits** come from?
+
+Feel free to answer with a list or general explanation!
+
+USER: Currencies from Battle Pass (currency source)
+
+Premium Mirror Dust
+6* Uncommon Interceptor Parts
+6* Uncommon Explorer Parts
+6* Uncommon Battleship Parts
+6* Uncommon Survey Parts
+Choice Reward Tokens
+Rachel Garrett Officer Shard
+Syndicate XP
+Forbidden Tech Tier-Up Catalyst
+S31 Georgiou Officer Shard
+Chaos Tech Tier-Up Catalyst
+Chaosmatter
+Unc. FC Credits (aka - Uncommon Fleet Commander Credits)
+Temporal Disruptors
+Independent Credits
+Engineering Badge
+Science Badge
+Command Badge
+
+
+
+ASSISTANT: Got it! I'll add these items to **`currency_sources.json`** under a new source category called `"Battle Pass"`.
+
+### Proposed JSON update for `currency_sources.json`:
+```json
+{
+  "sources": {
+    "Battle Pass": [
+      "Premium Mirror Dust",
+      "6* Uncommon Interceptor Parts",
+      "6* Uncommon Explorer Parts",
+      "6* Uncommon Battleship Parts",
+      "6* Uncommon Survey Parts",
+      "Choice Reward Tokens",
+      "Rachel Garrett Officer Shard",
+      "Syndicate XP",
+      "Forbidden Tech Tier-Up Catalyst",
+      "S31 Georgiou Officer Shard",
+      "Chaos Tech Tier-Up Catalyst",
+      "Chaosmatter",
+      "Unc. FC Credits",
+      "Temporal Disruptors",
+      "Independent Credits",
+      "Engineering Badge",
+      "Science Badge",
+      "Command Badge"
+    ]
+  }
+}
+```
+---
+### Next Question:  
+Let's expand on **Faction Credits** since they are widely used.  
+
+- What are the primary ways to earn **Federation Credits**, **Klingon Credits**, and **Romulan Credits**? (e.g., Daily Goals, Events, Refinery, etc.)
+
+USER: If the currencies I provide you, when providing a currency source, aren't listed in our currency_core list, then we also need to update that. If the instructions aren't clear about that, please provide me a list of instructions I can use to inform the GPT.
+
+ASSISTANT: That makes perfect sense! Your instructions should ensure that any new currency mentioned in a source is also added to `currencies_core.json` if it's not already listed. Here’s an updated set of structured instructions to follow:  
+
+---
+
+## **Instructions for Managing Currencies in JSON Files**  
+
+### **1. Adding Currencies to `currency_sources.json`**
+- When the user provides a list of currencies obtained from a specific source (e.g., Battle Pass, Events, Refinery, etc.), update `currency_sources.json` under the relevant source category.
+- If the source category does not exist, create a new one.
+
+### **2. Ensuring Currencies Exist in `currencies_core.json`**
+- Every currency listed in a source must also be present in `currencies_core.json`.
+- If a currency provided by the user is missing from `currencies_core.json`, add it to the `"currencies"` list.
+- If the user specifies that a currency should **not** be treated as a currency (e.g., officers, ships that can't be scrapped), exclude it from `currencies_core.json`.
+
+### **3. Validation Before Updates**
+- Before finalizing updates, check for duplicates to prevent redundant entries.
+- Confirm whether a newly added item is truly a currency and not an endpoint or a different economic element.
+- If an item might belong to `currency_endpoints.json` instead, prompt the user for confirmation.
+
+### **4. Change Confirmation Process**
+- Summarize the proposed changes (both to `currency_sources.json` and `currencies_core.json`).
+- Ask the user to confirm before providing the final JSON structure.
+
+---
+
+With these instructions in place, I’ll ensure proper tracking of all new currencies while keeping the files structured correctly.
+
+Would you like me to implement this logic for the **Battle Pass** currencies now by checking which ones are missing from `currencies_core.json` and adding them?
+
+USER: yes, provide me with outputs to update our files based on information I've provided in this chat.
+
+ASSISTANT: ### **Proposed Updates for Your JSON Files**  
+
+After checking your **`currencies_core.json`**, I found that the following currencies from the Battle Pass list **are missing and need to be added**:  
+
+#### **New Currencies to Add to `currencies_core.json`**  
+- Premium Mirror Dust  
+- 6* Uncommon Interceptor Parts  
+- 6* Uncommon Explorer Parts  
+- 6* Uncommon Battleship Parts  
+- 6* Uncommon Survey Parts  
+- Choice Reward Tokens  
+- Rachel Garrett Officer Shard  
+- Syndicate XP  
+- Forbidden Tech Tier-Up Catalyst  
+- S31 Georgiou Officer Shard  
+- Chaos Tech Tier-Up Catalyst  
+- Chaosmatter  
+- Unc. FC Credits (Uncommon Fleet Commander Credits)  
+- Temporal Disruptors  
+- Independent Credits  
+- Engineering Badge  
+- Science Badge  
+- Command Badge  
+
+---
+### **Updated `currencies_core.json`**
+```json
+{
+  "currencies": [
+    "Orion Corvette",
+    "ECS Fortunate",
+    "Phindra",
+    "Turas",
+    "Talla",
+    "Envoy",
+    "USS Franklin",
+    "Kehra",
+    "Vahlkas",
+    "Kumari",
+    "North Star",
+    "Ferengi D'Vor",
+    "ECS Horizon",
+    "Stella",
+    "D3 Class",
+    "Bortas",
+    "B'Rel",
+    "D4 Class",
+    "K'Vort",
+    "USS Mayflower",
+    "USS Saladin",
+    "USS Intrepid",
+    "USS Enterprise",
+    "USS Antares",
+    "Legionary",
+    "Centurion",
+    "Gladius",
+    "Augur",
+    "Valkis",
+    "ISS Jellyfish",
+    "SS Revenant",
+    "K'T'Inga",
+    "Korinar",
+    "Hegh'ta",
+    "B'Chor",
+    "USS Kelvin",
+    "USS Newton",
+    "USS Enterprise-A",
+    "USS Hydra",
+    "Valdore",
+    "Pilum",
+    "Tribune",
+    "Vorta Vor",
+    "Premium Mirror Dust",
+    "6* Uncommon Interceptor Parts",
+    "6* Uncommon Explorer Parts",
+    "6* Uncommon Battleship Parts",
+    "6* Uncommon Survey Parts",
+    "Choice Reward Tokens",
+    "Rachel Garrett Officer Shard",
+    "Syndicate XP",
+    "Forbidden Tech Tier-Up Catalyst",
+    "S31 Georgiou Officer Shard",
+    "Chaos Tech Tier-Up Catalyst",
+    "Chaosmatter",
+    "Unc. FC Credits",
+    "Temporal Disruptors",
+    "Independent Credits",
+    "Engineering Badge",
+    "Science Badge",
+    "Command Badge"
+  ]
+}
+```
+
+---
+
+### **Updated `currency_sources.json`**
+```json
+{
+  "sources": {
+    "Battle Pass": [
+      "Premium Mirror Dust",
+      "6* Uncommon Interceptor Parts",
+      "6* Uncommon Explorer Parts",
+      "6* Uncommon Battleship Parts",
+      "6* Uncommon Survey Parts",
+      "Choice Reward Tokens",
+      "Rachel Garrett Officer Shard",
+      "Syndicate XP",
+      "Forbidden Tech Tier-Up Catalyst",
+      "S31 Georgiou Officer Shard",
+      "Chaos Tech Tier-Up Catalyst",
+      "Chaosmatter",
+      "Unc. FC Credits",
+      "Temporal Disruptors",
+      "Independent Credits",
+      "Engineering Badge",
+      "Science Badge",
+      "Command Badge"
+    ]
+  }
+}
+```
+---
+
+These updates ensure that all **Battle Pass** currencies are accounted for in **both** `currencies_core.json` and `currency_sources.json`.  
+
+### **Next Step:**  
+Would you like to continue with **Faction Credits sources** or move to another aspect (Spending, Conversions, etc.)?
+
+USER: I notice you gave me a full output of currency_core.json rather than appending information. Your instructions should indicate that, if a file has existing information, only output information to append. What instructions do we need to update to ensure you do that?
+
+ASSISTANT: ### **Updated Instructions to Ensure Proper JSON Updates**  
+
+To ensure that updates to JSON files **only append new information instead of overwriting existing data**, we should modify **Instruction #4** in our guidelines.  
+
+---
+### **Revised Instruction Set**
+## **Instructions for Managing Currencies in JSON Files**
+  
+### **1. Adding Currencies to `currency_sources.json`**
+- When the user provides a list of currencies obtained from a specific source (e.g., Battle Pass, Events, Refinery, etc.), update `currency_sources.json` under the relevant source category.
+- If the source category does not exist, create a new one.
+
+### **2. Ensuring Currencies Exist in `currencies_core.json`**
+- Every currency listed in a source must also be present in `currencies_core.json`.
+- If a currency provided by the user is missing from `currencies_core.json`, add it to the `"currencies"` list.
+- If the user specifies that a currency should **not** be treated as a currency (e.g., officers, ships that can't be scrapped), exclude it from `currencies_core.json`.
+
+### **3. Validation Before Updates**
+- Before finalizing updates, check for duplicates to prevent redundant entries.
+- Confirm whether a newly added item is truly a currency and not an endpoint or a different economic element.
+- If an item might belong to `currency_endpoints.json` instead, prompt the user for confirmation.
+
+### **4. Change Confirmation & Output Format**
+- **Only provide JSON updates for the new data that must be appended**.  
+  - **DO NOT** output the entire JSON file if existing data is already present.
+  - Instead, provide only the **new keys/values** that should be added.
+- If a file is **completely empty**, provide a full structured replacement.
+- Summarize the proposed changes before outputting the final JSON structure.
+- Ask the user to confirm before proceeding.
+
+---
+
+### **Example of Proper Output Format for Appending (`currency_sources.json`)**
+#### ✅ **Correct Output for Appending New Currencies**
+```json
+{
+  "sources": {
+    "Battle Pass": [
+      "New Currency 1",
+      "New Currency 2"
+    ]
+  }
+}
+```
+*(Only includes what needs to be added, rather than the full file.)*
+
+---
+Would you like me to reformat my previous outputs to match this **append-only** approach?
+
+USER: Yes, provide new outputs based on this.
+
+ASSISTANT: Here are the **append-only JSON updates** based on your instructions. These updates will only add new data without replacing existing information.
+
+---
+
+### **Append to `currencies_core.json`**  
+```json
+{
+  "currencies": [
+    "Premium Mirror Dust",
+    "6* Uncommon Interceptor Parts",
+    "6* Uncommon Explorer Parts",
+    "6* Uncommon Battleship Parts",
+    "6* Uncommon Survey Parts",
+    "Choice Reward Tokens",
+    "Rachel Garrett Officer Shard",
+    "Syndicate XP",
+    "Forbidden Tech Tier-Up Catalyst",
+    "S31 Georgiou Officer Shard",
+    "Chaos Tech Tier-Up Catalyst",
+    "Chaosmatter",
+    "Unc. FC Credits",
+    "Temporal Disruptors",
+    "Independent Credits",
+    "Engineering Badge",
+    "Science Badge",
+    "Command Badge"
+  ]
+}
+```
+
+---
+### **Append to `currency_sources.json`**  
+```json
+{
+  "sources": {
+    "Battle Pass": [
+      "Premium Mirror Dust",
+      "6* Uncommon Interceptor Parts",
+      "6* Uncommon Explorer Parts",
+      "6* Uncommon Battleship Parts",
+      "6* Uncommon Survey Parts",
+      "Choice Reward Tokens",
+      "Rachel Garrett Officer Shard",
+      "Syndicate XP",
+      "Forbidden Tech Tier-Up Catalyst",
+      "S31 Georgiou Officer Shard",
+      "Chaos Tech Tier-Up Catalyst",
+      "Chaosmatter",
+      "Unc. FC Credits",
+      "Temporal Disruptors",
+      "Independent Credits",
+      "Engineering Badge",
+      "Science Badge",
+      "Command Badge"
+    ]
+  }
+}
+```
+
+---
+These are **append-only changes**, so you can integrate them without modifying existing data.
+
+### **Next Question:**  
+How are **Faction Credits (Federation, Klingon, Romulan)** primarily earned? (e.g., Daily Goals, Events, Refinery, etc.)
+
+USER: Does currency_sources.json have any data that needs to be retained? If not, then a full output of the file is fine.
+
+ASSISTANT: Your **`currency_sources.json`** file was completely empty when uploaded, so providing a **full output is acceptable** in this case.
+
+Here is the **full version of `currency_sources.json`** with the Battle Pass data included:
+
+---
+
+### **Full `currency_sources.json` Output**
+```json
+{
+  "sources": {
+    "Battle Pass": [
+      "Premium Mirror Dust",
+      "6* Uncommon Interceptor Parts",
+      "6* Uncommon Explorer Parts",
+      "6* Uncommon Battleship Parts",
+      "6* Uncommon Survey Parts",
+      "Choice Reward Tokens",
+      "Rachel Garrett Officer Shard",
+      "Syndicate XP",
+      "Forbidden Tech Tier-Up Catalyst",
+      "S31 Georgiou Officer Shard",
+      "Chaos Tech Tier-Up Catalyst",
+      "Chaosmatter",
+      "Unc. FC Credits",
+      "Temporal Disruptors",
+      "Independent Credits",
+      "Engineering Badge",
+      "Science Badge",
+      "Command Badge"
+    ]
+  }
+}
+```
+
+---
+
+### **Next Steps:**
+Would you like to continue adding sources, or move to spending/conversions?  
+If we continue sources, let's address **Faction Credits**:  
+- What are the main ways to acquire **Federation Credits**, **Klingon Credits**, and **Romulan Credits**?

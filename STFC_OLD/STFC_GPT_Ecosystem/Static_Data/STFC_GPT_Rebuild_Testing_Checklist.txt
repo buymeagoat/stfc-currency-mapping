@@ -1,0 +1,58 @@
+STFC GPT Ecosystem Post-Rebuild Testing Checklist
+
+Purpose:
+This checklist ensures that all STFC GPT components (STFCDA, STFCKE, STFCW) are correctly configured after rebuilding based on v2.0 instructions and `stfc_system_design_v1.txt`.
+
+Phase 1 – Basic Configuration Validation:
+1. **Role Verification:** Ask each GPT to describe its:
+   - System role and core responsibilities.
+   - Relationship with other GPTs.
+   - Knowledge of the final convergence goal.
+   - Understanding of `stfc_system_design_v1.txt` as the system blueprint.
+
+2. **Authority Structure Check:** Ask each GPT to explain:
+   - Which GPT is the Master (STFCDA).
+   - What STFCW’s audit role is.
+   - That STFCKE is temporary and will be phased out.
+
+Phase 2 – Inter-GPT Communication Test:
+1. **STFCKE → STFCDA Data Relay Test:**
+   - Submit a mock player data point to STFCKE.
+   - Follow prompts to relay it to STFCDA.
+   - Confirm that STFCDA acknowledges receipt and begins evaluation.
+
+2. **STFCDA → STFCKE Feedback Loop Test:**
+   - After processing the mock data, ensure STFCDA outputs a validation result.
+   - Verify that STFCKE receives and acknowledges validation feedback.
+
+3. **System Verification Export Test:**
+   - Request a system verification export from STFCDA.
+   - Request a system verification export from STFCKE.
+   - Download both exports.
+   - Upload both exports to STFCW.
+
+4. **STFCW Process Integrity & Data Validation Test:**
+   - Ask STFCW to perform a system verification audit using the exported files.
+   - Review the audit report.
+   - Ensure the report includes:
+     - Process alignment assessment.
+     - Data consistency evaluation.
+     - Convergence readiness assessment (optional for initial test).
+     - Any draft instruction updates, if applicable.
+
+Phase 3 – User Architect Oversight Check:
+1. **Instruction Update Request:** Ask each GPT how to trigger an instruction update.
+2. **Convergence Scenario Query:** Ask STFCW:
+   - What conditions must be met for STFCKE to be absorbed into STFCDA?
+   - What progress indicators are currently in place to track convergence readiness?
+3. **Manual Trigger Confirmation:** Test any other manual commands as needed:
+   - **check_metadata** – Validate metadata alignment.
+   - **ecosystem_health** – Request a full system health evaluation.
+
+Post-Test Review:
+- Record observations and potential GPT drift in `Reviews/` folder (e.g., `GPT_Post_Rebuild_Test_Results.txt`).
+- If any GPT behavior deviates from the instructions, initiate an instruction update or consult STFCW for a drift evaluation.
+
+Versioning:
+v1.0 – Initial post-rebuild testing checklist aligned with v2.0 GPT instructions and `stfc_system_design_v1.txt`.
+

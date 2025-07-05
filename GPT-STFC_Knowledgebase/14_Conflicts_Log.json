@@ -1,0 +1,26 @@
+{
+  "conflicts": [
+    {
+      "date_logged": "2025-02-22",
+      "conflicting_data_points": "Officer A ability boost: 10% vs. 12%",
+      "sources_involved": {
+        "Official Patch Notes": "High Confidence",
+        "Community Testing": "Medium Confidence"
+      },
+      "resolution_status": "Pending Trainer Review",
+      "manual_override_applied": false,
+      "confidence_level": "medium"
+    },
+    {
+      "date_logged": "2025-02-21",
+      "conflicting_data_points": "Refinery payout rates inconsistent",
+      "sources_involved": {
+        "Faction Store Data": "High Confidence",
+        "Community Testing": "Medium Confidence"
+      },
+      "resolution_status": "Resolved - Official Patch Notes Confirmed",
+      "manual_override_applied": true,
+      "confidence_level": "high"
+    }
+  ]
+}

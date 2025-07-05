@@ -1,0 +1,46 @@
+{
+  "officer_shard_tracking": [
+    {
+      "officer_name": "Khan",
+      "faction": "Independent",
+      "rarity": "Epic",
+      "shards_required": {
+        "T1": 10,
+        "T2": 20,
+        "T3": 50,
+        "T4": 100,
+        "T5": 150
+      },
+      "current_shards": 25,
+      "sources": [
+        {"method": "Faction Store", "yield_per_purchase": 5, "refresh_rate": "3 days"},
+        {"method": "Event Rewards", "average_monthly_payout": 30}
+      ],
+      "historical_shard_collection": {
+        "last_month": 60,
+        "average_acquisition_rate": "20 per week"
+      },
+      "status": "current"
+    },
+    {
+      "officer_name": "Old Officer",
+      "faction": "Federation",
+      "rarity": "Rare",
+      "shards_required": {
+        "T1": 5,
+        "T2": 15,
+        "T3": 40
+      },
+      "current_shards": 0,
+      "sources": [],
+      "historical_shard_collection": {
+        "last_month": 0,
+        "average_acquisition_rate": "0 per week"
+      },
+      "status": "deprecated",
+      "deprecated_reason": "Removed in Patch 2025.03",
+      "last_verified": "2025-02-18"
+    }
+  ],
+  "new_feature": "AI now automatically assigns 'deprecated' status to officers removed from active acquisition sources and logs them for historical reference. Trainers will be notified of deprecated officers requiring validation."
+}

@@ -1,0 +1,62 @@
+# Unimplemented Ideas Roadmap
+Date: 2025-02-23
+
+USER: I want to generate a roadmap for the project. Can you comb the attached files for all of the ideas I had, or suggestions you made, which weren't implemented but we were considering or at least discussed? Anything at all you find is helpful.
+
+ASSISTANT: Based on my review of your documents, here are the **unimplemented but discussed ideas, features, and improvements** that you or I suggested at some point. These could form the basis of your roadmap moving forward.
+
+---
+
+### **1. Ecosystem & GPT Convergence Plan**
+- **Final Unification of STFCDA and STFCKE**: STFCKE was always meant to be phased out, but no clear timeline or structured milestone approach has been implemented yet【21†source】【25†source】.
+- **STFCW as a more autonomous auditing system**: Currently, STFCW only verifies data and recommends updates but doesn’t autonomously adjust anything. There was some discussion about whether it should at least have some limited automatic reconciliation functions【33†source】.
+- **Self-updating metadata across GPTs**: There was concern that metadata updates should not require manual intervention, but no automation plan was fully implemented【34†source】.
+
+---
+
+### **2. Data Processing & Optimization**
+- **Confidence Escalation for Low-Confidence Data**: The idea was to allow "low-confidence" flagged data to be reviewed later and promoted if corroborating reports surfaced, but this workflow is not fully implemented【29†source】.
+- **Time-Based Reconciliation for Conflicting Data**: A process was discussed where newer data should replace older data unless specific conditions exist (e.g., game updates reverting changes), but the automation of this decision-making is not yet in place【29†source】.
+- **Automated Pattern Recognition for Efficiency Gains**: Suggested as a feature where repeated data inputs with similar outcomes would trigger efficiency refinements, but currently, efficiency is still manually assessed【31†source】.
+- **Scheduled Knowledgebase Audits**: A 60-90 day review of past data was planned to ensure outdated information didn’t persist beyond relevance, but this process isn’t fully operational【37†source】.
+
+---
+
+### **3. Refinery & Resource Flow Integration**
+- **Cooldown-Based Resource Optimization**: The system was supposed to take cooldowns into account when determining the best resource collection strategy, but current implementations focus more on static efficiency formulas【24†source】.
+- **User-Configurable Resource Pull Strategies**:
+  - Basic: Single pulls only
+  - Advanced: Cost-effective mixed pulls
+  - Expert: Maximum pulls
+  - Also discussed was **custom pull tuning per resource** (e.g., 2-chest pulls for one resource but max pulls for another), but this is not fully implemented【34†source】.
+- **Automated Optimal Claim Schedule Generator**: The long-term goal was to generate a schedule for optimal daily/weekly claims based on research, efficiency, and cooldowns, but this has not been implemented【24†source】.
+
+---
+
+### **4. System Integrity & Validation**
+- **STFCW Scheduled Audits & Anomaly Detection**: Instead of audits being triggered manually, the system was meant to have a self-check threshold where certain discrepancies automatically prompted an audit【33†source】.
+- **Metadata Validation Consistency Checks**: A proposed system-wide check to ensure that metadata across all GPTs remains in sync. The check exists but is still manually triggered instead of occurring at fixed intervals【32†source】.
+
+---
+
+### **5. User Architect & Workflow Optimization**
+- **Reducing User Architect File Management**: You initially wanted the GPTs to prompt you when files needed to be moved/attached, potentially in batches rather than requiring manual updates every time. This idea was discussed but isn’t fully implemented【34†source】.
+- **More Guidance on Effective Information Submission**: There was interest in creating a structured guide on how to provide optimal input for refining the GPT system, but no concrete document was produced【34†source】.
+
+---
+
+### **6. Game Economy & Research Enhancements**
+- **More Advanced Research Cost Predictors**: While scaling formulas exist, discussions were had about adding more detailed projections based on different efficiency profiles【22†source】.
+- **Historical Validation Pattern Recognition**: The ability to reference past efficiency reports to identify recurring discrepancies or trends over time【24†source】.
+- **Better Integration of PvP Metrics into Economic Models**: PvP data was recently included in calculations, but there was talk about refining efficiency models for PvP-specific upgrades and strategies【23†source】.
+
+---
+
+## **Suggested Next Steps**
+1. **Prioritize Convergence Planning**: Define clear milestones for merging STFCKE into STFCDA, including confidence thresholds and auto-validation mechanisms.
+2. **Automate Data Integrity & Verification**: Implement auto-scheduled audits instead of relying on manual triggers.
+3. **Refine Resource Pull Optimization**: Expand the economic model to include cooldown-based optimization and user-configurable resource pull strategies.
+4. **Enhance Pattern Recognition & Confidence Handling**: Implement confidence escalation for low-confidence data and schedule periodic knowledgebase audits.
+5. **Minimize Manual File Management for You**: Implement automatic metadata synchronization and batch attachment prompts.
+
+Would you like me to help format this into a structured roadmap document?

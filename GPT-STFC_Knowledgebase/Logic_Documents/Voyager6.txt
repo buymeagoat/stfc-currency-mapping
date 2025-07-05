@@ -1,0 +1,28 @@
+															
+	Voyager Warp Range by Player Level (and Kirk skill level)														
+	OPs/R+D level	Voyager Base	Anti-Matter Recycler	Enhanced Warp Cores Research	Base + Research	"Second Star to the Right"		Crewless Base Total	Max warp range crew: TOS Scotty (c), T5 Cadet Scotty, and Ghrush at tier:**						
+						Skill	Needs		T1 (6%)	T2 (8%)	T3 (10%)	T4 (12%)	T5 (15%)		
+	34	35	25		60			60	73	75	76	77	79		
+	37	35	75		110			110	126	129	131	133	137		
+	39	35	125		160			160	179	183	186	189	194		
+	40	70	175		245	2.8%	CC40	252	276	281	287	292	299		
+	Ops 42*	70	175	5	250	2.8%	CC40	257	282	287	292	297	305		
+	42	70	175	10	255	2.8%	CC40	262	287	293	298	303	311		
+	43	70	225	10	305	2.8%	CC40	314	342	348	354	360	370		
+	44	70	225	15	310	2.8%	CC40	319	347	353	360	366	376		
+	45	70	225	15	310	6.2%	CC45	329	358	364	371	377	387		
+	46	70	225	20	315	6.2%	CC45	335	364	370	376	383	393		
+	47	70	275	20	365	6.2%	CC45	388	420	427	435	442	453		
+	48	70	275	25	370	6.2%	CC45	393	425	433	440	448	459		
+	50	70	325	25	420	12.8%	CC50	474	510	518	527	535	548		
+	51	155	375	25	555	12.8%	CC50	626	670	681	693	704	721		
+	53	155	425	25	605	12.8%	CC50	682	729	742	754	766	785		
+	55	155	575	25	755	12.8%	CC50	852	908	923	938	953	976		
+	58	155	775	25	955	12.8%	CC50	1077	1145	1165	1184	1203	1232		
+	60	155	775	25	955	15.0%	CC60	1098	1166	1186	1205	1224	1253		
+	Voyager Base warp value is based on highest tier acheivable at that ops level. Locks are warp components MK4 and MK7														
+	*will show at R+D 40, but need a particle pre-req from a ops 42 mission														
+	**Colorcoded based on Anomaly Mining Systems (FSEP-505 [30], FSEP-3819 [225], FSEP-247 [470], FSEP-001 [900])														
+	"Second Star to the Right" skill - Requires FC Kirk rank 13, "Deflector Dish" level 1, and at least Command Center 40														
+	By: JulesVern and BlueMandalorian											Upd: 6/7/2023			
+															

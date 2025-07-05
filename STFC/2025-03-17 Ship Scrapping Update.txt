@@ -1,0 +1,366 @@
+# Ship Scrapping Update
+Date: 2025-03-17
+
+USER: Here is a list of ships in the game. Any ship that has ^ at the end is a currency since it can be scrapped. Any ship without a ^ at the end is currently an endpoint. The game might change to allow them to be scrapped in the future, though. We don't want to consider that and will update our files if the game changes.
+
+1* ships:
+Realta
+Orion Corvette^
+ECS Fortunate^
+
+2* Ships:
+Phindra^
+Turas^
+Jellyfish
+Talla^
+Envoy^
+
+3* Ships:
+USS Franklin^
+Botany Bay
+Kehra^
+Vahlkas^
+Kumari^
+North Star^
+Ferengi D'Vor^
+USS Discovery
+Meridian
+Vi'Dar
+ECS Horizon^
+Stella^
+Sarcophagus
+Amalgam
+D3 Class^
+Bortas^
+B'Rel^
+D4 Class^
+K'Vort^
+USS Mayflower^
+USS Saladin^
+USS Intrepid^
+USS Enterprise^
+USS Antares^
+Legionary^
+Centurion^
+Gladius^
+Augur^
+Valkis^
+Separatist D3 Class
+Hijacked D3 Class
+Hijacked USS Mayflower
+USS Voyager
+Hijacked Legionary
+
+4* Ships:
+Amalgam
+Mantis
+USS Franklin-A
+D'Vor Feesha
+USS Cerritos
+Borg Cube
+The Vindicator
+USS Relativity
+ISS Jellyfish^
+SS Revenant^
+USS Defiant
+K'T'Inga^
+Gorn Eviscerator
+Monaveen
+NSEA Protector
+Korinar^
+Vi'Dar Talios
+Hegh'ta^
+USS Titan-A
+Enterprise NX-01
+B'Chor^
+USS Kelvin^
+USS Newton^
+USS Enterprise-A^
+USS Hydra^
+Valdore^
+Pilum^
+Tribune^
+Vorta Vor^
+
+5* Ships:
+Nova
+USS Northcutt
+USS Crozier
+USS Beatty
+USS Enterprise-D
+Vor'cha
+Quv'sompek
+Mow'ga
+Rotarran
+Corvus
+Sanctus
+Vrax
+D'deridex
+
+
+6* Ships:
+Selkie
+USS Akira
+USS Titan
+USS Newgrange
+USS Enterprise-E
+Negh'var
+Ko'karii
+Grishnar
+Krencha
+Minerva
+Velox
+Divitae
+Scimitar
+
+ASSISTANT: Based on your list, I'll update the JSON files as follows:
+
+### **Updates to `currencies_core.json`**  
+Adding ships that can be scrapped (marked with `^`) as currencies:
+```json
+{
+  "currencies": [
+    "Orion Corvette",
+    "ECS Fortunate",
+    "Phindra",
+    "Turas",
+    "Talla",
+    "Envoy",
+    "USS Franklin",
+    "Kehra",
+    "Vahlkas",
+    "Kumari",
+    "North Star",
+    "Ferengi D'Vor",
+    "ECS Horizon",
+    "Stella",
+    "D3 Class",
+    "Bortas",
+    "B'Rel",
+    "D4 Class",
+    "K'Vort",
+    "USS Mayflower",
+    "USS Saladin",
+    "USS Intrepid",
+    "USS Enterprise",
+    "USS Antares",
+    "Legionary",
+    "Centurion",
+    "Gladius",
+    "Augur",
+    "Valkis",
+    "ISS Jellyfish",
+    "SS Revenant",
+    "K'T'Inga",
+    "Korinar",
+    "Hegh'ta",
+    "B'Chor",
+    "USS Kelvin",
+    "USS Newton",
+    "USS Enterprise-A",
+    "USS Hydra",
+    "Valdore",
+    "Pilum",
+    "Tribune",
+    "Vorta Vor"
+  ]
+}
+```
+
+---
+
+### **Updates to `currency_endpoints.json`**  
+Ships that are NOT scrappable are endpoints:
+```json
+{
+  "endpoints": [
+    "Realta",
+    "Jellyfish",
+    "Botany Bay",
+    "USS Discovery",
+    "Meridian",
+    "Vi'Dar",
+    "Sarcophagus",
+    "Amalgam",
+    "Separatist D3 Class",
+    "Hijacked D3 Class",
+    "Hijacked USS Mayflower",
+    "USS Voyager",
+    "Hijacked Legionary",
+    "Mantis",
+    "USS Franklin-A",
+    "D'Vor Feesha",
+    "USS Cerritos",
+    "Borg Cube",
+    "The Vindicator",
+    "USS Relativity",
+    "USS Defiant",
+    "Gorn Eviscerator",
+    "Monaveen",
+    "NSEA Protector",
+    "Vi'Dar Talios",
+    "USS Titan-A",
+    "Enterprise NX-01",
+    "Nova",
+    "USS Northcutt",
+    "USS Crozier",
+    "USS Beatty",
+    "USS Enterprise-D",
+    "Vor'cha",
+    "Quv'sompek",
+    "Mow'ga",
+    "Rotarran",
+    "Corvus",
+    "Sanctus",
+    "Vrax",
+    "D'deridex",
+    "Selkie",
+    "USS Akira",
+    "USS Titan",
+    "USS Newgrange",
+    "USS Enterprise-E",
+    "Negh'var",
+    "Ko'karii",
+    "Grishnar",
+    "Krencha",
+    "Minerva",
+    "Velox",
+    "Divitae",
+    "Scimitar"
+  ]
+}
+```
+
+Would you like any modifications before I finalize these updates?
+
+USER: Is there anything else you think I should provide before you update our JSON files? Remember, if there's existing content in the files attached to this GPT< then I only need output so I can append the file. Otherwise, I assume you want me to replace the contents of the file with what you provide. If that's not clear in our instructions, then please also provide me with an instructions update so I can reconfigure.
+
+ASSISTANT: Your instructions are mostly clear, but based on this conversation, a small clarification could help avoid misunderstandings. Here’s what I suggest adding to your **instructions update**:  
+
+---
+### **Suggested Instructions Update**  
+- If the uploaded JSON file is empty, I will provide a **full replacement** output for appending.  
+- If the uploaded JSON file contains existing data, I will **only provide structured output** so the user can append it manually.  
+- The user will determine whether to merge or replace data within their own files.  
+- If structural changes (e.g., format inconsistencies, missing keys) are needed, I will request clarification before proceeding.  
+
+---
+
+Since your uploaded files are empty, I will now provide **full replacement** outputs for `currencies_core.json` and `currency_endpoints.json` so you can append them directly. Let me know if this approach works for you!  
+
+---
+
+### **Final JSON Outputs for Appending**
+#### **`currencies_core.json` (Replace or Append)**
+```json
+{
+  "currencies": [
+    "Orion Corvette",
+    "ECS Fortunate",
+    "Phindra",
+    "Turas",
+    "Talla",
+    "Envoy",
+    "USS Franklin",
+    "Kehra",
+    "Vahlkas",
+    "Kumari",
+    "North Star",
+    "Ferengi D'Vor",
+    "ECS Horizon",
+    "Stella",
+    "D3 Class",
+    "Bortas",
+    "B'Rel",
+    "D4 Class",
+    "K'Vort",
+    "USS Mayflower",
+    "USS Saladin",
+    "USS Intrepid",
+    "USS Enterprise",
+    "USS Antares",
+    "Legionary",
+    "Centurion",
+    "Gladius",
+    "Augur",
+    "Valkis",
+    "ISS Jellyfish",
+    "SS Revenant",
+    "K'T'Inga",
+    "Korinar",
+    "Hegh'ta",
+    "B'Chor",
+    "USS Kelvin",
+    "USS Newton",
+    "USS Enterprise-A",
+    "USS Hydra",
+    "Valdore",
+    "Pilum",
+    "Tribune",
+    "Vorta Vor"
+  ]
+}
+```
+
+#### **`currency_endpoints.json` (Replace or Append)**
+```json
+{
+  "endpoints": [
+    "Realta",
+    "Jellyfish",
+    "Botany Bay",
+    "USS Discovery",
+    "Meridian",
+    "Vi'Dar",
+    "Sarcophagus",
+    "Amalgam",
+    "Separatist D3 Class",
+    "Hijacked D3 Class",
+    "Hijacked USS Mayflower",
+    "USS Voyager",
+    "Hijacked Legionary",
+    "Mantis",
+    "USS Franklin-A",
+    "D'Vor Feesha",
+    "USS Cerritos",
+    "Borg Cube",
+    "The Vindicator",
+    "USS Relativity",
+    "USS Defiant",
+    "Gorn Eviscerator",
+    "Monaveen",
+    "NSEA Protector",
+    "Vi'Dar Talios",
+    "USS Titan-A",
+    "Enterprise NX-01",
+    "Nova",
+    "USS Northcutt",
+    "USS Crozier",
+    "USS Beatty",
+    "USS Enterprise-D",
+    "Vor'cha",
+    "Quv'sompek",
+    "Mow'ga",
+    "Rotarran",
+    "Corvus",
+    "Sanctus",
+    "Vrax",
+    "D'deridex",
+    "Selkie",
+    "USS Akira",
+    "USS Titan",
+    "USS Newgrange",
+    "USS Enterprise-E",
+    "Negh'var",
+    "Ko'karii",
+    "Grishnar",
+    "Krencha",
+    "Minerva",
+    "Velox",
+    "Divitae",
+    "Scimitar"
+  ]
+}
+```
+
+Let me know if this approach and the instruction update work for you!

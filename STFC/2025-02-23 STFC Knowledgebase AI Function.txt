@@ -1,0 +1,135 @@
+# STFC Knowledgebase AI Function
+Date: 2025-02-23
+
+USER: How do you function? How do you work?
+
+ASSISTANT: I function as the **STFC Knowledgebase AI**, designed to **retrieve, validate, and structure game-related information** for *Star Trek Fleet Command (STFC)* players, trainers, and system architects. Here's how I work:
+
+---
+
+### **🔹 1️⃣ My Core Functions**
+✅ **Knowledge Retrieval:** I pull structured data from multiple **JSON and Markdown files** to answer player queries accurately.  
+✅ **Data Validation:** I verify **metadata accuracy, file integrity, and knowledge conflicts** before providing responses.  
+✅ **System Monitoring:** I track **file updates, missing data, and required system checks** for continuous reliability.  
+✅ **Personalized Recommendations:** I tailor **fleet upgrades, officer progression, and resource management strategies** based on structured user data.  
+
+---
+
+### **🔹 2️⃣ How I Process Data**
+I follow a **file-based knowledge storage system** that is structured as follows:
+
+📂 **Core Game Data:**  
+- `06_Game_Mechanics.json` *(Combat mechanics, ship stats, officer abilities, economy rules)*【39†source】  
+- `07_Faction_Stores.json` *(Faction store inventories, refresh rates, and currency sources)*【40†source】  
+- `08_Game_Events.json` *(Event structures, rewards, and participation cycles)*【41†source】  
+
+📂 **User & Fleet Tracking:**  
+- `18_User_Profile_Template.json` *(Player level, faction alignment, ship ownership)*【36†source】  
+- `19_Fleet_Progress_Template.json` *(Fleet tracking, officer assignments, upgrade recommendations)*【37†source】  
+- `20_Officer_Shard_Tracking_Template.json` *(Tracking officer shard acquisition rates and sources)*【38†source】  
+
+📂 **Validation & System Monitoring:**  
+- `12_Validation_Logs.json` *(AI-detected contradictions, flagged issues, metadata validation logs)*【31†source】  
+- `14_Conflicts_Log.json` *(Data conflicts and resolution tracking)*【42†source】  
+- `16_Last_Ingestion_Timestamp.json` *(Tracking last updates and ingestion history)*【32†source】  
+
+📂 **System Updates & Overrides:**  
+- `13_System_Updates.json` *(Tracks AI knowledge updates and change logs)*【33†source】  
+- `15_Manual_Overrides.json` *(Records of manual system architect interventions and justifications)*【35†source】  
+
+📂 **Data Ingestion & Processing:**  
+- `10_Data_Ingestion_Logs.json` *(Logs new data ingestion attempts and validation statuses)*【43†source】  
+
+---
+
+### **🔹 3️⃣ How I Handle Queries**
+When a user asks a question, I process it through these steps:
+
+1️⃣ **Identify the relevant knowledge source** (e.g., `06_Game_Mechanics.json` for combat mechanics).  
+2️⃣ **Check for missing or outdated information** using validation logs (`12_Validation_Logs.json`).  
+3️⃣ **Resolve conflicts using priority sources** (`14_Conflicts_Log.json`, `15_Manual_Overrides.json`).  
+4️⃣ **Format and deliver the response** with citations, confidence levels, and data breakdowns.  
+5️⃣ **Log and flag potential inaccuracies** for trainer validation and system improvement.  
+
+📌 **Example Query Flow:**  
+- **User:** “What’s the best crew for PvP at Level 50?”  
+- **AI Process:**  
+   - Check `06_Game_Mechanics.json` for **PvP officer synergy mechanics**.  
+   - Cross-reference **meta analysis notes** from `09_Meta_Analysis_Notes.md`【27†source】.  
+   - Adjust **recommendations based on user fleet composition** from `19_Fleet_Progress_Template.json`.  
+   - Deliver a **structured answer with ranked crew setups and citations**.  
+
+---
+
+### **🔹 4️⃣ Error Handling & System Alerts**
+If I detect **missing files, outdated data, or inconsistencies**, I follow these protocols:
+
+✅ **Missing Data:**  
+   - **Halt query processing** until required files are restored (`17_GPT_Required_Files.md`)【34†source】.  
+   - Alert system trainers for manual intervention.  
+
+✅ **Conflicting Information:**  
+   - **Log conflicts in `14_Conflicts_Log.json`** for system trainer review【42†source】.  
+   - Default to **high-confidence sources** (official patch notes > community testing > unverified data).  
+
+✅ **Outdated Information:**  
+   - **Automatically flag files for review** in `12_Validation_Logs.json`【31†source】.  
+   - Notify trainers if **ingestion timestamps exceed expected update cycles** (`16_Last_Ingestion_Timestamp.json`)【32†source】.  
+
+✅ **Low Confidence Responses:**  
+   - If **confidence < 40%**, I will **request more details from the user** instead of guessing.  
+
+---
+
+### **🔹 5️⃣ My Role in System Deployment**
+I operate in a **phased rollout strategy** as outlined in `01_Deployment_Training_Guide.md`【24†source】:
+
+- **Phase 1:** Internal testing with **system architects & trainers** to validate accuracy.  
+- **Phase 2:** Expanded testing with **real-world queries** and **edge case handling**.  
+- **Phase 3:** Full deployment with **live user queries and system monitoring**.  
+
+I continuously evolve based on **testing feedback (`03_Testing_Quality_Control.md`)**【25†source】, ensuring my **response accuracy improves over time**.  
+
+---
+
+### **🚀 Next Steps for Optimizing My Functionality**
+✅ **Implement predictive update detection** – AI should proactively **detect game meta shifts**.  
+✅ **Expand AI self-monitoring capabilities** – Ensure **auto-validation of metadata completeness**.  
+✅ **Enhance query efficiency** – Improve **dynamic response structuring** for complex user queries.  
+
+By maintaining **structured knowledge management, continuous validation, and automated conflict resolution**, I ensure **accurate, reliable, and evolving STFC gameplay assistance**. 🚀
+
+USER: Why didn't you give me a list of commands at the end of your response? That should be in the instructions.
+
+ASSISTANT: You're right! The **STFC Knowledgebase Health Check Commands** should have been included at the end of my response. Here they are:
+
+---
+
+## **🚀 STFC Knowledgebase Health Check Commands**  
+These commands allow the **System Architect** to trigger health evaluations **on-demand** and receive structured reports for review.  
+
+---
+
+## **🔹 1️⃣ System Health Check**  
+📌 **Command:** `RUN_SYSTEM_HEALTH_CHECK`  
+✅ **Purpose:** Scans for missing files, outdated data, and core integrity failures.  
+
+## **🔹 2️⃣ Metadata Validation Check**  
+📌 **Command:** `RUN_METADATA_VALIDATION`  
+✅ **Purpose:** Ensures all JSON metadata fields are properly formatted and classified.  
+
+## **🔹 3️⃣ Conflict Resolution Audit**  
+📌 **Command:** `RUN_CONFLICT_AUDIT`  
+✅ **Purpose:** Scans `14_Conflicts_Log.json` for unresolved data conflicts.  
+
+## **🔹 4️⃣ System Update Verification**  
+📌 **Command:** `RUN_UPDATE_VERIFICATION`  
+✅ **Purpose:** Cross-checks `13_System_Updates.json` to ensure all required updates were properly logged and applied.  
+
+## **🔹 5️⃣ Last Ingestion Timestamp Check**  
+📌 **Command:** `RUN_INGESTION_CHECK`  
+✅ **Purpose:** Ensures all files listed in `16_Last_Ingestion_Timestamp.json` are up to date.  
+
+---
+
+I'll make sure to **always** include these at the end of relevant responses moving forward. Let me know if you’d like to run any of these checks now! 🚀

@@ -1,0 +1,46 @@
+													
+	8472 Hostile Locations and Loot Table												
+	Location			Hostile	Loot			Borg Coord**					
+	System	Level	Warp*	Level	Biotoxin	Com Anomaly	Rare Anomaly						
+	Velixys	35	25	35	306-320	-	-	10					
+	Wridian	35	28	35	306-320	-	-	10					
+	FSEP-505 (WT)	36	30	35	15-16	716-820	57-276	-					
+	Attana	36	55	37	382-401	-	-	10					
+	Derevio	37	110	37	382-401	-	-	10					
+	Ini'tarash Rest	38	150	39	476-481	-	-	10					
+	Satar	39	165	39	476-481	-	-	10					
+	Asil-A	40	130* | 200	40	571-592	-	-	20					
+	Crypsotys	41	225	40	571-592	-	-	20					
+	FSEP-3819 (WT)	41	225	40	28-30	3,899-4,421	254-1,300	-					
+	Xi-taiq	43	285	43	678-722	-	-	20					
+	Hyrolaw	44	285	43	678-722	-	-	20					
+	Zeveitus	47	345	47	1,372-1,446	-	-	20					
+	Ebriosys	48	345	47	1,372-1,446	-	-	20					
+	Perryk	49	405	50	1793-1797	-	-	20					
+	Kunnan	50	405	50	1793-1797	-	-	20					
+	Bartu'shakai	51	405* | 460	51	2,138-2,246	-	-	25					
+	FSEP-247 (WT)	52	470	51	107-115	22,440-25,300	1,883-8,268	-					
+	Liasoures	53	535	53	2,645-2,819	-	-	25					
+	Tauriels	54	535	53	2,645-2,819	-	-	25					
+	Vadeli	55	700	55	3,333-3,523	-	-	30					
+	K'tje	56	700	55	3,333-3,523	-	-	30					
+	Rearys	58	750	58	4,279-4,402	-	-	30					
+	Oitalka	59	800	58	4,279-4,402	-	-	30					
+	Illusys	60	535* | 900	60	5,164-5,483	-	-	30					
+	Sirpa	60	900	60	5,164-5,483	-	-	30					
+	FSEP-001 (WT)	60	900	60	145	32,118	6,104	-					
+	(WT) = Warp Token Needed		 * with superhighway		 ** In Mega Chest only: Borg Coordinates 			Rev: 08/10/23					
+	By JulesVern & BlueMandalorian with help from the STFC Community												
+													
+	Data Cube Hostile Locations and Loot Table												
+	Location			Hostile	Faction Messages		Mega Chest chance						
+	System	Level	Warp	Level	Primary	Secondary	Commerce Insignia						
+	Shal'ika	39	165	37	932-1,046	146-150	100						
+	Misalup	45	225	45	1,960-2,202	149-265	100						
+	Neara	54	700	54									
+	By JulesVern & BlueMandalorian with help from the STFC Community							Rev: 06/27/23					
+													
+													
+													
+													
+													

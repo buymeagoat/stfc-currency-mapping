@@ -1,0 +1,545 @@
+0:11
+fancy intro music yeah
+0:15
+woohoo last night in the dark of the
+0:18
+night the game did a big update and it's
+0:20
+going to hopefully give you some bug
+0:21
+fixes you've been looking for as well as
+0:23
+announcing a big slew of updates to PvP
+0:26
+Arenas which I did last night and as
+0:28
+many are also experienced
+0:30
+yeah maybe the lag is slightly better
+0:32
+the matches are still kind of rough I'm
+0:34
+very curious to see what your thoughts
+0:35
+are going to be with the proposed
+0:36
+changes and I got to have some good ones
+0:38
+you see here with this 57 I went back
+0:41
+and forth with which was quite Fun by
+0:42
+the way shout out to them they had some
+0:44
+really big ships like beefy I managed to
+0:47
+get some good ones in too don't worry I
+0:50
+got some good punches in but how does
+0:52
+that apply to everybody else what is
+0:54
+this going to look like and is it better
+0:56
+or is it worse well to determine that
+0:58
+let's start with the
+1:00
+themselves for the patch so this is
+1:02
+mostly just covering bug fixes we will
+1:04
+talk about the arena updates and what
+1:06
+that looks like here in a bit but let's
+1:08
+talk about the different changes coming
+1:10
+up starting with allons tournaments
+1:11
+they're fixing on things particularly
+1:13
+working on a lot of the UI issues that
+1:15
+the game has had which have caused a lot
+1:17
+of lag and a lot of annoyances for
+1:19
+various players so stuck on loading
+1:21
+screen and access Alliance level one
+1:23
+that one I don't really feel like it's
+1:25
+going to affect 99.99% of y'all but it's
+1:28
+in the list so there it is and then this
+1:30
+one though the timeout error was
+1:32
+definitely an issue that I'm sure a lot
+1:33
+of you experienced if you did feel free
+1:35
+to chime in but that should should be
+1:38
+fixed remember I'm not you know
+1:40
+verifying this I'm just giving you the
+1:41
+notes and talking about what they said
+1:44
+Alliance star bases surprisingly that's
+1:47
+important I think I guess sure that
+1:49
+happens we actually have a star base on
+1:51
+server 710 yep it exist okay fix an
+1:56
+issue with the build Li Starbase screen
+1:58
+displayed even after Starbase was
+1:59
+already con instructed I'll be honest I
+2:01
+don't look at that screen enough to know
+2:03
+incorrect Battle Log
+2:05
+exports I will tell you as someone who
+2:07
+works a lot with SPO club and other
+2:09
+tools I do really really like anything
+2:12
+that improves the exportable files let
+2:14
+me go and tell you those CSV files are
+2:17
+not perfect in fact not everything that
+2:19
+gets displayed in your game can be
+2:21
+correct so uh it's it's a headache if
+2:24
+you're ever curious talk to the SPO club
+2:26
+guys they do a lot of good work but
+2:28
+fixing some bugs and Arenas empty object
+2:30
+viewer HUD and ship management view
+2:32
+defect so as in when you're there and
+2:34
+like your whole ship
+2:36
+disappears yeah that was a bummer
+2:39
+supposedly that's fixed curtain
+2:40
+animations sticking and Arena rank icons
+2:43
+getting worked on artifacts power
+2:45
+display there was an issue that I
+2:46
+noticed and I'm sure many of you did a
+2:48
+lot of people brought it up to me where
+2:50
+you would have incorrect amounts uh for
+2:53
+the display power on them so that's
+2:54
+gotten adjusted the Kum time weapon and
+2:57
+the DTI device and the Lura now you'll
+3:00
+notice a couple of those are pay only
+3:02
+items but did get brought up then
+3:05
+missing Remnant bundles fix an issue or
+3:07
+some artifact Remnant bundles like the
+3:08
+pocket watch and the time weapon did not
+3:10
+appear in the refinery after your
+3:11
+requirements are met that is a good fix
+3:14
+for those of you out there who have the
+3:15
+rank and Etc to go after that all right
+3:18
+DTI and faction store chaos Tech bundle
+3:20
+where it is getting a little bit of a
+3:22
+boof in terms of fixing an error a
+3:26
+charge for the pocket watch and Crum
+3:28
+that is where the purchase one of heart
+3:30
+could give shards intended for the other
+3:32
+that obviously would be frustrating for
+3:33
+most people if you want something you
+3:35
+want that thing not some stupid RNG for
+3:38
+another thing and then we have the
+3:39
+untriggered building material bundles
+3:41
+and systems labels independent so these
+3:43
+are mostly like I said UI and node fixes
+3:47
+the real beef of this is in what they've
+3:48
+changed the Arenas but feels
+3:50
+disingenuous to not thank them for fixes
+3:54
+so here we are all right fix an issue
+3:56
+antich charge alignment anti- stack
+3:57
+alignment Nam were inconsistent in
+3:58
+different interfaces I'm
+4:00
+really I don't know about that one
+4:03
+honestly I feel like that was just
+4:04
+people needing to read better but anyway
+4:06
+refits and grade five ships low
+4:08
+resolution textures this one is
+4:11
+interesting because I've been talking
+4:14
+about that for years and when I say
+4:16
+years I mean years I'm not saying that
+4:18
+in like a exaggeration I mean years
+4:21
+we've been like hey when of those
+4:23
+textures going to be better when the
+4:26
+answer is supposedly now but not now how
+4:29
+do I know not
+4:31
+now because not now right right there
+4:34
+that's
+4:37
+hideous
+4:39
+yeah can't tell me that's fixed right
+4:42
+like I'm not trying to be that G scopely
+4:44
+but nope oh that's that's still ugly all
+4:48
+right inst repair and waves officer
+4:49
+Suitor short description cut off
+4:51
+resolved a UI problem what truncated his
+4:53
+ability so again same kind of things
+4:55
+that we looked at before and then more
+4:57
+HUD artifact Gallery pip EXO comp name
+5:00
+and missing art full icon on empty docks
+5:04
+all of these getting fixed and adjusted
+5:06
+there are a couple that have affected me
+5:07
+for example this away team one did
+5:09
+affect me and I do appreciate it getting
+5:10
+fixed which is not being able to collect
+5:13
+after we did uh speedups now let's go
+5:16
+over to the arena side of things this is
+5:18
+where a lot of Chang are being
+5:19
+introduced some big ones here in
+5:22
+particular we got a test coming for the
+5:24
+19th on the EU side but if that test
+5:26
+rolls out well you're going to see
+5:28
+public squads see Ops levels changing
+5:31
+and you all see this the 24th of
+5:35
+February so right around the corner this
+5:37
+upcoming Monday but be able to Squad
+5:39
+with commanders from any Alliance on
+5:41
+your server opening up new ways to play
+5:43
+Ops levels are being adjusted from plus
+5:45
+and- 7 to plus and minus 4 so almost
+5:48
+cutting it in half that means if you are
+5:52
+a level 56 like one of my accounts that
+5:54
+means the most I can invite in is a 52
+5:57
+and a 60 so that's a much closer range
+6:02
+which would limit what your opponent are
+6:03
+going to be now for higher levels who
+6:04
+are going to say hey this limits who I
+6:06
+can play with that is where the public
+6:10
+Squad comes in hopefully you can pair up
+6:11
+with more people in your server to allow
+6:13
+you to play for those of you who are
+6:15
+lower level this is hopefully going to
+6:17
+make matchmaking closer so that you are
+6:19
+able to play less higher levels like for
+6:22
+me I run into a lot of sigmas when I am
+6:23
+playing with other 56s this makes that
+6:26
+far less likely to happen now it could
+6:29
+still happen if I paired with a 60 and a
+6:31
+64 for example but again the ability to
+6:34
+manipulate Ops has been shrunk but at
+6:36
+the same time that is going to hopefully
+6:39
+benefit most players now one quick thing
+6:43
+and I want to know yall's thoughts do
+6:44
+you think these are good one negative
+6:46
+does not change the speed cap which I do
+6:49
+feel while well- intended has made this
+6:52
+an unplayable feature for so many
+6:54
+players and we've seen participation
+6:57
+rates drop significantly using FC
+7:00
+statistics we've looked and seen over
+7:01
+half the number that we're playing in
+7:03
+month one as in how many we're actively
+7:05
+doing it less than half we doing that
+7:07
+now so we'll see if it's enough to get
+7:10
+players back but I still think the speed
+7:12
+cap is a huge killer so our public
+7:15
+squads cross server there's a nice
+7:17
+little Q&A here with Liam that y'all can
+7:18
+read as we look over it no they are not
+7:21
+cross server public squads you're going
+7:23
+to have to join people from your server
+7:24
+on server 20 that' be IA epic feds Etc
+7:28
+joining together right why testing the
+7:31
+EU only first we want to confirm
+7:33
+performance and stability on a smaller
+7:34
+scale so they're going with one region
+7:38
+the EU doing the testing does the new
+7:40
+Ops level range apply to Alliance squads
+7:42
+yep it's plus four minus 4 for everybody
+7:46
+what if I'm in an alliance and face my
+7:48
+own Alliance mates in the arena everyone
+7:50
+is fair game which I will say I like
+7:53
+this
+7:54
+I'm get mad at me I don't know I
+7:56
+actually think this is nice I think it's
+7:57
+a nice change the ability to potentially
+7:59
+end up going against your own teammates
+8:01
+because they're opening up to public
+8:03
+squads that sounds really neat and I'm
+8:05
+actually looking forward to playing with
+8:06
+some of my friends and other
+8:08
+alliances and then maybe running into my
+8:11
+own guys that actually sounds really
+8:13
+neat I'm not going to lie it does I call
+8:15
+me whatever you want I think that sounds
+8:17
+neat sadly the speed cap is still in
+8:20
+effect public squads won't fix that
+8:22
+underlying issue but these updates help
+8:24
+us gather more data my personal hope is
+8:26
+that they lift it somewhat 275 is just
+8:29
+so below will the day of the week change
+8:31
+we have no immediate plans to move sadly
+8:33
+that's still the case yes I've been
+8:35
+bringing that up and I will continue to
+8:36
+say that most players want at least a
+8:38
+rotating schedule hopefully when they
+8:40
+get everything fixed maybe that happens
+8:42
+how are the teams colors names handle on
+8:44
+public squads the name is based on the
+8:46
+squad leaders Alliance allies appear
+8:48
+purple want appear blue they be from
+8:51
+your alliance or not and last but not
+8:53
+least is there any chat feature no still
+8:56
+no chat feature so with this in mind do
+8:59
+you all feel like these are steps in the
+9:01
+right direction do you feel like these
+9:02
+are actually better or do you feel like
+9:04
+this is more of the same right and I try
+9:08
+to always do op you know manipulation
+9:11
+that got me closer to guaranteeing I was
+9:14
+around like level players and sometimes
+9:15
+I'd face higher levels like this 59 and
+9:18
+60s from yesterday and sometimes I could
+9:20
+win sometimes I would lose actually
+9:22
+believe we lost this match by the way
+9:24
+shout out to um havoc and Company I'm
+9:26
+pretty sure we lost that one even though
+9:28
+I got some good wins in
+9:29
+uh definitely lost against Mis shout out
+9:31
+to Mis good cruise but hopefully the
+9:35
+plus4 minus four gives players more of
+9:37
+what they're hoping for which is you
+9:38
+know balanced matchmaking especially now
+9:41
+with a lot of the strategy being removed
+9:43
+with the speed cap so if you're going to
+9:45
+have that you absolutely need to limit
+9:47
+who you can end up being against as an
+9:50
+opponent but still there's a lot of
+9:52
+issues with Arenas we'll see what these
+9:54
+test runs look like I am curious your
+9:55
+thoughts this has been today's slot for
+9:57
+you but hopefully it's informative and
+10:00
+what you want to see live long in
+10:01
+plunder stay safe of the Space Cowboys
+10:03
+Deuces that's me catch you on the next
+10:04
+AR my video I'm out an even better outro
+10:07
+than the intro for the Empire and glory
+10:10
+to your house
+

@@ -1,0 +1,133 @@
+STFC Economic Formulas Reference Document
+Version: v1.0
+
+Purpose:
+This document serves as a comprehensive reference for known economic formulas in Star Trek Fleet Command (STFC), focusing on upgrade costs, research efficiencies, and scaling mechanics. It is intended for internal validation, efficiency profile calculations, and formula adjustments within the STFC GPT Ecosystem.
+
+---
+
+1. Upgrade Cost Scaling (Buildings & Ships):
+
+Base Cost Formula:
+Cost_Level_N = Cost_Level_1 * (Multiplier ^ (Level_N - 1))
+Where:
+- Cost_Level_N = Resource cost at level N
+- Cost_Level_1 = Base resource cost at level 1
+- Multiplier = Scaling coefficient (varies per building/ship)
+
+Common Multiplier Ranges:
+- Buildings: Typically 1.3 to 1.8
+- Ships: Typically 1.4 to 2.0
+
+Cost Categories:
+- Tritanium
+- Dilithium
+- Parsteel
+- Ship Parts
+
+Example:
+Tritanium_Cost_Level_10 = Tritanium_Cost_Level_1 * (1.5^(10-1))
+
+---
+
+2. Research Cost Scaling:
+
+Base Research Cost Formula:
+Research_Cost_Level_N = Base_Cost * (Multiplier ^ (Level_N - 1))
+Where:
+- Base_Cost = Cost for level 1 research
+- Multiplier = Scaling factor (varies by research tree)
+
+Common Multiplier Ranges:
+- Standard Research: 1.4 to 1.7
+- Advanced Research: 1.6 to 2.2
+
+Efficiency Reductions:
+Research_Efficiency_Modifier = (1 - (Sum_of_Research_Efficiency_Bonuses / 100))
+Effective_Research_Cost = Research_Cost_Level_N * Research_Efficiency_Modifier
+
+---
+
+3. Efficiency Profiles:
+
+Research Efficiency Modifiers:
+- Territory Bonuses
+- Research Efficiency Nodes (e.g., Ship Construction Efficiency, Building Efficiency)
+- Event or Special Buffs
+
+Example:
+- Ship Construction Efficiency Bonus: 10%
+- Territory Efficiency Bonus: 5%
+
+Effective Ship Build Cost:
+Ship_Cost = Base_Ship_Cost * (1 - (Efficiency_Bonus / 100))
+
+Multiple Efficiency Stacks:
+Efficiency_Stack_Modifier = (1 - Efficiency_1/100) * (1 - Efficiency_2/100) * ...
+Final_Effective_Cost = Base_Cost * Efficiency_Stack_Modifier
+
+---
+
+4. Ship Repair Costs:
+
+Base Repair Cost Formula:
+Repair_Cost = Max_Health * Repair_Cost_Factor
+Where:
+- Max_Health = Maximum ship hull health
+- Repair_Cost_Factor = Repair coefficient specific to ship class/tier
+
+Repair Efficiency:
+Effective_Repair_Cost = Repair_Cost * (1 - (Repair_Efficiency_Bonus / 100))
+
+---
+
+5. Ship Upgrade Costs:
+
+Component Upgrade Cost Formula:
+Upgrade_Cost_Level_N = Base_Cost * (Multiplier ^ (Level_N - 1))
+
+Ship Part Efficiency:
+Effective_Upgrade_Cost = Upgrade_Cost_Level_N * (1 - (Ship_Part_Efficiency_Bonus / 100))
+
+---
+
+6. Station Module Costs:
+
+Module Upgrade Formula:
+Module_Cost_Level_N = Base_Cost * (Multiplier ^ (Level_N - 1))
+Efficiency Modifiers apply as per general Building Efficiency.
+
+---
+
+7. Territory Capture Upkeep:
+
+Upkeep Cost Formula:
+Upkeep_Cost = Base_Upkeep * (1 + (Territory_Level * Upkeep_Multiplier))
+Where:
+- Territory_Level = Level of captured zone
+- Upkeep_Multiplier = Defined per territory
+
+---
+
+8. Daily Refinery Pulls:
+
+Refinery Payout Formula (Approximation):
+Refinery_Outcome = Base_Payout * (1 + (Refinery_Tier * Output_Multiplier))
+
+---
+
+9. Isogen Mining Efficiency:
+
+Mining Rate Formula:
+Mining_Rate = Base_Mining_Rate * (1 + (Mining_Bonus / 100))
+
+---
+
+Note:
+These formulas represent the current understanding based on validated data and community observations. Exact coefficients may differ across specific buildings, ships, and research nodes. Validation and player data are critical to refining these models.
+
+Version History:
+v1.0 – Initial Compilation
+
+End of Document
+

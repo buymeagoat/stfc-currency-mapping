@@ -1,0 +1,104 @@
+
+### STFC Combat Mechanics Overview
+
+This document serves as a reference for various mechanics in Star Trek Fleet Command (STFC), covering core combat rules, officer abilities, effect stacking, ship components, and combat calculations.
+
+#### **Glossary**
+- **HHP** - Hull Hit Points
+- **SHP** - Shield Hit Points
+
+#### **Officer Abilities**
+1. **Captain Maneuver**:
+   - Active only when the officer is in the captain's seat.
+   - Affected by synergy, but not by officer tier or level.
+   - Some abilities can be boosted by certain officers (e.g., Jellyfish, Leonard McCoy, Next Gen Crusher).
+   - Example Calculation: (Base + Synergy) * (1 + Boost)
+   
+2. **Officer Ability**:
+   - Active if the officer is on any bridge seat.
+   - Affected by officer tier, but not by officer level or synergy.
+   - Some abilities receive boosts from other officers (e.g., Christopher Pike, Jean-Luc Picard).
+   - Example Calculation: Base * (1 + Boost)
+
+3. **Below Deck Ability**:
+   - Only active if the officer is assigned below deck.
+   - Not affected by level, synergy, or tier.
+   - Cannot be boosted.
+
+#### **Effect Stacking**
+- When multiple effects provide the same type of bonus, they stack as:
+  **Total = (A) * (1 + B) + (C)**
+  - A: Base bonuses (ship components, officer effects, some research).
+  - B: Modifier bonuses (research, most officer abilities).
+  - C: Flat bonuses (weapon damage increases, ship abilities).
+
+#### **Ship Components**
+Each ship has different upgradeable components affecting its performance:
+- **Warp Drive**: Affects warp range and speed.
+- **Impulse Drive**: Affects impulse speed and dodge stats.
+- **Shield**: Improves shield hit points and shield deflection.
+- **Armor**: Enhances hull hit points and armor defense.
+- **Cargo Bay**: Increases cargo capacity and protected cargo.
+- **Weapons**: Determines firing patterns in subrounds.
+- **Mining Tool**: Enhances mining speed.
+
+#### **Combat Order**
+- Defending station guns fire first.
+- PvP attackers shoot before defenders.
+- NPC ships act before player ships.
+- Armada leaders attack before allies.
+- Ships fire in order based on ship power.
+
+#### **Duplicate Officer Mechanics**
+- The officer ability from the first ship in an armada is applied to all identical officers in the battle.
+- If multiple officers exist in an armada, only the stats from the first instance are used.
+- Officer synergy and tier do **not** transfer between ships.
+
+#### **Combat Round Structure**
+- Combat occurs in **rounds**, each round is divided into **sub-rounds**.
+- Order of events:
+  1. **Officer abilities apply effects.**
+  2. **Forbidden Tech effects apply.**
+  3. **Ships fire their weapons (based on sub-rounds).**
+  4. **End-of-round effects activate (e.g., Burning damage, Buff removal).**
+
+#### **Damage Calculation**
+1. **Damage Mitigation**:
+   - Damage mitigation reduces incoming damage using armor, shield deflection, and dodge.
+   - **Formula**: 
+     ```
+     Mitigation = 1 - (1 - cA * f(dA / pA)) * (1 - cS * f(dS / pS)) * (1 - cD * f(dD / pD))
+     ```
+     where `f(x) = 1 / (1 + 4^(1.1 - x))`
+
+2. **Isolitic Damage Mitigation**:
+   - Formula: `Isolitic Mitigation = 1 / (1 + Isolitic Defense)`
+
+3. **Shield Mitigation**:
+   - Determines how much damage is absorbed by shields before reaching hull hit points.
+   - **Formula**:
+     ```
+     SHP_Damage = S * Total_Unmitigated_Damage
+     HHP_Damage = (1 - S) * Total_Unmitigated_Damage
+     ```
+
+#### **Weapon Reloading**
+- Load Time: Determines when the weapon first fires.
+- Reload Time: Determines how often the weapon fires after the first attack.
+- Changes to reload time only affect future attacks, not already scheduled ones.
+
+#### **Ship Power Rating**
+- Formula:
+  ```
+  Ship Power = Attack Rating + Defense Rating + Health Rating
+  ```
+  - **Attack Rating** = Total Damage Per Round + (0.5 * (Armor Piercing + Shield Piercing + Accuracy))
+  - **Defense Rating** = 5 * (Armor + Shield Deflection + Dodge)
+  - **Health Rating** = 0.5 * HHP + 0.5 * SHP
+
+#### **Final Notes**
+- All calculations occur **client-side**, meaning in-game numbers may not always be accurate.
+- Status effects like **Burning**, **Hull Breach**, and **Morale** have a significant impact on battle outcomes.
+- Shields and hull hit points are affected by **various officer abilities and research upgrades**.
+
+This optimized guide provides an in-depth, structured reference to STFC combat mechanics for efficient gameplay analysis.

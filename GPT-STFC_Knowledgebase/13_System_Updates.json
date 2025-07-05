@@ -1,0 +1,97 @@
+### **STFC Knowledgebase System Updates & Version Control - Updated**
+
+---
+
+## **1️⃣ Purpose of this Document**
+This document tracks all **system updates, changes, and version history** for the STFC Knowledgebase. It ensures that all modifications are **logged, reviewed, and validated** before deployment.
+
+---
+
+## **2️⃣ Update Logging Protocol**
+
+✅ **When an Update is Implemented:**
+1️⃣ AI **logs the update** and assigns a version number.
+2️⃣ AI generates a **summary of changes**.
+3️⃣ The update is flagged as **pending validation**.
+4️⃣ **System Trainers** review and approve changes before finalizing.
+5️⃣ **AI checks for outdated game mechanics, event schedules, or faction store data and sends alerts if necessary.**
+
+✅ **Essential Update Metadata:**
+- **Date Logged:** *(YYYY-MM-DD)*
+- **Update Version:** *(e.g., v1.2.0)*
+- **Changes Implemented:** *(Describe updates made)*
+- **Reason for Update:** *(Bug fix, data improvement, new feature, etc.)*
+- **Validation Status:** *(Pending, Approved, Rolled Back)*
+- **System Trainer Approval:** *(Yes/No)*
+- **Trigger for Data Refresh Alerts:** *(Yes/No, with reference to outdated files if applicable)*
+
+---
+
+## **3️⃣ Version Control & Update Priorities**
+
+Updates are categorized based on priority to ensure stability and accuracy:
+
+🔹 **Priority 1 – Critical Updates**  
+✅ **Bug Fixes (Incorrect AI responses, broken queries)**  
+✅ **Security Patches**  
+✅ **Major Knowledgebase Corrections**  
+✅ **Auto-check for outdated game mechanics, faction stores, and event data**
+
+🔹 **Priority 2 – Standard Updates**  
+✅ **Data Expansions (New officers, ships, game mechanics)**  
+✅ **Refinement of AI Query Handling**  
+✅ **Response Format Improvements**  
+✅ **Enhancements to alert mechanisms for outdated knowledge files**
+
+🔹 **Priority 3 – Low Impact Updates**  
+✅ **Minor UI/Text Adjustments**  
+✅ **Internal Documentation Updates**  
+✅ **Performance Enhancements**
+
+📌 **Priority 1 updates require immediate deployment and review.**  
+📌 **Priority 2 and 3 updates follow a scheduled rollout plan.**
+
+---
+
+## **4️⃣ AI-Triggered Data Refresh Alerts**
+
+To ensure knowledgebase integrity, AI monitors the last ingestion timestamp of key files (`16_Last_Ingestion_Timestamp.json`) and checks if updates are overdue.
+
+✅ **If a critical file (e.g., `06_Game_Mechanics.json`, `07_Faction_Stores.json`, `08_Game_Events.json`) has not been updated within its expected refresh cycle, AI sends an alert to System Trainers.**
+
+✅ **Example AI Alert:**
+- *"The game events file (`08_Game_Events.json`) has not been updated in 30 days. Please verify the latest event cycle."*
+
+✅ **Triggers for Data Validation:**
+- If game mechanics, faction stores, or event schedules are outdated, AI **automatically flags them for review.**
+- Trainers must approve or reject outdated data before AI continues using it.
+
+---
+
+## **5️⃣ Example System Update Log Entry**
+
+📅 **Date Logged:** 2025-02-22  
+📌 **Update Version:** v2.4.1  
+🔎 **Changes Implemented:** Added automatic refresh alerts for outdated game mechanics and event data.  
+📢 **Reason for Update:** Ensure AI does not use outdated knowledge.  
+🛠 **Validation Status:** Approved  
+📂 **System Trainer Approval:** ✅ Yes  
+📌 **Trigger for Data Refresh Alerts:** ✅ Yes (Triggered for `08_Game_Events.json`)
+
+---
+
+## **6️⃣ Continuous Monitoring & Improvement**
+✅ System Trainers **review update logs weekly** to ensure proper implementation.  
+✅ AI generates **monthly reports** summarizing the impact of recent updates.  
+✅ Major updates are **scheduled with validation phases** to avoid errors.  
+✅ AI now **auto-detects and flags outdated knowledge for System Trainer review.**
+
+---
+
+## **🚀 Next Steps: AI Self-Monitoring & Predictive Updates**
+✅ AI should flag outdated responses for **automatic correction**.  
+✅ AI should predict **when knowledgebase updates are needed** based on game trends.  
+✅ AI should notify trainers **if conflicting update data is detected**.  
+
+By following this structured update protocol, the STFC Knowledgebase remains **accurate, efficient, and adaptable** to game changes. 🚀
+

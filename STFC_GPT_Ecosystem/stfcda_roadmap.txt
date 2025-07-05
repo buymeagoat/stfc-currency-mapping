@@ -1,0 +1,50 @@
+STFC Ecosystem Roadmap Document – Draft
+Purpose:
+This document outlines planned enhancements and long-term development goals for the STFC GPT Ecosystem. It serves as a living reference to ensure GPT development aligns with system needs and user priorities.
+
+Current Focus (Active Development – Incorporated in v2.2)
+Cooldown Time Integration:
+
+Evaluate cooldowns for refinery pulls, faction store claims, daily tasks, and other economic actions.
+Optimize player resource flow based on cooldown cycles.
+Full Economy Evaluation Scope Expansion:
+
+Incorporate the following systems into economic evaluations:
+Refinery: Isogen, Ore, Gas, Crystal, Armada Directives.
+Faction Stores: Credits, Ship Parts, Officer Tokens.
+Daily Claims: Parsteel, Tritanium, Dilithium.
+Away Teams: Assignment frequency, critical success rates.
+Syndicate: XP, resource claims.
+Independent Archives: Territory and Exchange resource claims.
+Events: Milestone and leaderboard rewards.
+Planned Features (Near-Term Roadmap – Post v2.2)
+Resource Harvesting Play Style Profiles:
+
+Basic: Single pulls only.
+Advanced: Cost-effective, balanced approach (lowest/medium pulls).
+Expert: Maximum pulls for efficiency.
+Goal: Users select a profile for quick configuration of resource gathering strategy.
+Custom Pull Configuration (User-Defined Per-Resource Preferences):
+
+Allow custom pull settings for each resource type.
+Example: “2-chest pull for 2* Isogen, max pull for 3* Isogen.”
+Goal: Fine-tune refinery and claim preferences to align with personal strategy.
+Long-Term Vision
+Efficiency Profile Overhaul (Resource Flow Integration):
+
+Expand efficiency profiles to dynamically reflect harvesting strategies.
+Integrate user-configured play styles (Basic, Advanced, Expert) or custom pull plans into profile calculations.
+Memory Indexing (Historical Validation Pattern Recognition):
+
+Retain past validation reports and player data for pattern detection.
+Enable cross-referencing prior discrepancies and efficiency evaluations.
+Automated Resource Flow Optimization (Ultimate Goal):
+
+Given player research, efficiency profile, cooldowns, and play style:
+Automate the generation of an optimal daily/weekly claim schedule.
+Recommend adjustments based on formula changes, patch updates, or user progression.
+Governance
+This roadmap is maintained by User Architect and should be reviewed before each version update.
+Roadmap adjustments require alignment with STFC System Design Document (v1.0) and approval from User Architect.
+Versioning:
+v1.0 – Initial Draft (February 2025)

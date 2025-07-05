@@ -1,0 +1,78 @@
+Costs to Obtain																ATA Store																	
+					Event Store					Faction Credits		Cosmic Clean up				cost/bp																	
+Ships	Ops	Grade	Type	Bps needed	cost/bp	bp limit	% of bps	Loot/Cred	total loot	cost/bp	total credits	cost/bp	bp limit	total loot	days to acquire	1 chest	Total cost	days to acquire	ATA/Cred	2 chest	Total cost	days to acquire	ATA/Cred	3 chest	Total cost	days to acquire	ATA/Cred						
+Jellyfish	12	2	Specialty	75	400	75	100%		30,000		0																						
+USS Franklin	17	3	Specialty	90	700	90	100%		63,000		0	11	90	1000	70																		
+Botany Bay	18	3	Specialty	60	1,200	60	100%		72,000		0																						
+North Star	18	3	Specialty	90	300	90	100%		27,000		0																						
+Discovery	21	3	Specialty	100	760	100	100%		76,000		0	10	100	1000	70																		
+D'vor	23	3	Specialty	120	300	120	100%		36,000		0																						
+Vi'dar	25	3	Specialty	100	760	100	100%		76,000		0	10	100	1000	70																		
+Meridian	25	3	Specialty	100	1,500	200	200%		300,000		0																						
+Hijacked D3	26	3	Specialty	80			0%		0		0																						
+Separatist D3	26	3	Specialty	80	3,800	80	100%		304,000		0																						
+Hijacked Mayflower	26	3	Specialty	80			0%		0		0																						
+Hijacked Legionary	26	3	Specialty	80			0%		0		0																						
+Stella	27	3	Specialty	100	760	100	100%		76,000		0																						
+Sarcophagus	30	3	Specialty	80	3,750	40	50%		150,000		0	25	80	2000	140																		
+Mantis	33	4	Specialty	100	1,500	100	100%		150,000		0																						
+USS Voyager	34	4	Specialty	100							0																						
+Vidar Talios	35	4	Specialty	100			0%		0		0																						
+D'vor Feesha	35	4	Specialty	120	1,250	60	50%		75,000		0																						
+USS Franklin-A	35	4	Specialty	100			0%		0		0																						
+Defiant	35	4	Specialty	100			0%		0		0																						
+Cerritos	36	4	Specialty	100	1,500	50	50%		75,000		0																						
+USS Titan-A	37	4	Specialty	100							0																						
+ISS Jellyfish	39	4	Specialty	120			0%		0		0																						
+Amalgam	31	3	Specialty	100	1,500	50	50%		75,000		0	13	104	1300	91																		
+D3	26	3	Faction	80	1,100	80	100%	9	88,000	125	10,000					1000	80000	80	8	3000	240000	40	24	5000	400000	27	40						
+Mayflower	26	3	Faction	80	1,100	80	100%	9	88,000	125	10,000					1000	80000	80	8	3000	240000	40	24	5000	400000	27	40						
+Legionary	26	3	Faction	80	1,100	80	100%	9	88,000	125	10,000					1000	80000	80	8	3000	240000	40	24	5000	400000	27	40						
+Saladin	28	3	Faction	100	1,750	40	40%	9	70,000	200	20,000					1150	115000	100	6	3450	345000	50	17	5750	575000	34	29						
+Centurion	28	3	Faction	100	1,750	40	40%	9	70,000	200	20,000					1150	115000	100	6	3450	345000	50	17	5750	575000	34	29						
+Bortas	28	3	Faction	100	1,750	40	40%	9	70,000	200	20,000					1150	115000	100	6	3450	345000	50	17	5750	575000	34	29						
+Antarres	30	3	Faction	100	1,300	100	100%	9	130,000	150	15,000					1500	150000	100	10	4500	450000	50	30	7500	750000	34	50						
+Valkis	30	3	Faction	100	1,300	100	100%	9	130,000	150	15,000					1500	150000	100	10	4500	450000	50	30	7500	750000	34	50						
+K'vort	30	3	Faction	100	1,300	100	100%	9	130,000	150	15,000					1500	150000	100	10	4500	450000	50	30	7500	750000	34	50						
+Gladius	32	3	Faction	120	8,800	40	33%	18	352,000	500	60,000					3000	360000	120	6	9000	1080000	60	18	15000	1800000	40	30						
+B'rel	32	3	Faction	120	8,800	40	33%	18	352,000	500	60,000					3000	360000	120	6	9000	1080000	60	18	15000	1800000	40	30						
+Intrepid	32	3	Faction	120	8,800	40	33%	18	352,000	500	60,000					3000	360000	120	6	9000	1080000	60	18	15000	1800000	40	30						
+D4	34	3	Faction	150	10,600	40	27%	9	424,000	1,200	180,000					3650	547500	150	3	10950	1642500	75	9	18250	2737500	50	15						
+Enterprise	34	3	Faction	150	10,600	40	27%	9	424,000	1,200	180,000					3650	547500	150	3	10950	1642500	75	9	18250	2737500	50	15						
+Augur	34	3	Faction	150	10,600	40	27%	9	424,000	1,200	180,000					3650	547500	150	3	10950	1642500	75	9	18250	2737500	50	15						
+Hydra	41	4	Faction	150			0%	0	0	1,200	180,000					3650	547500	150	3	10950	1642500	75	9	18250	2737500	50	15						
+Vorta Vor	41	4	Faction	150			0%	0	0	1,200	180,000					3650	547500	150	3	10950	1642500	75	9	18250	2737500	50	15						
+B'chor	41	4	Faction	150			0%	0	0	1,200	180,000					3650	547500	150	3	10950	1642500	75	9	18250	2737500	50	15						
+Kelvin	42	4	Faction	150	6,000	15	10%	5	90,000	1,320	198,000					3950	592500	150	3	11850	1777500	75	9	19750	2962500	50	15						
+Valdore	42	4	Faction	150	6,000	15	10%	5	90,000	1,320	198,000					3950	592500	150	3	11850	1777500	75	9	19750	2962500	50	15						
+K'tinga	42	4	Faction	150	6,000	15	10%	5	90,000	1,320	198,000					3950	592500	150	3	11850	1777500	75	9	19750	2962500	50	15						
+Pilum	46	4	Faction	350	6,700	35	10%	5	234,500	1,450	507,500					4150	1452500	350	3	12450	4357500	175	9	20750	7262500	117	14						
+Korinar	46	4	Faction	350	6,700	35	10%	5	234,500	1,450	507,500					4150	1452500	350	3	12450	4357500	175	9	20750	7262500	117	14						
+Newton	46	4	Faction	350	6,700	35	10%	5	234,500	1,450	507,500					4150	1452500	350	3	12450	4357500	175	9	20750	7262500	117	14						
+Hegh'ta	50	4	Faction	650	7,200	65	10%	5	468,000	1,600	1,040,000					4450	2892500	650	3	13350	8677500	325	8	22250	14462500	217	14						
+Ent-A	50	4	Faction	650	7,200	65	10%	5	468,000	1,600	1,040,000					4450	2892500	650	3	13350	8677500	325	8	22250	14462500	217	14						
+Tribune	50	4	Faction	650	7,200	65	10%	5	468,000	1,600	1,040,000					4450	2892500	650	3	13350	8677500	325	8	22250	14462500	217	14						
+Northcutt	53	5	Faction	150	9,500	15	10%	3	142,500	3,000	450,000																						
+Corvus	53	5	Faction	150	9,500	15	10%	3	142,500	3,000	450,000																						
+Vor'cha	53	5	Faction	150	9,500	15	10%	3	142,500	3,000	450,000																						
+Sanctus	56	5	Faction	350	9,000	35	10%	3	315,000	3,000	1,050,000																						
+Quv Sompek	56	5	Faction	350	9,000	35	10%	3	315,000	3,000	1,050,000																						
+Crozier	56	5	Faction	350	9,000	35	10%	3	315,000	3,000	1,050,000																						
+Beatty	58	5	Faction	350				0		3,000	1,050,000																						
+Vrax	58	5	Faction	350				0		3,000	1,050,000																						
+Mow'ga	58	5	Faction	350				0		3,000	1,050,000																						
+Rotarran	60	5	Faction	650				0		3,000	1,950,000																						
+Ent-D	60	5	Faction	650				0		3,000	1,950,000																						
+D'deridex	60	5	Faction	650				0		3,000	1,950,000																						
+Realta	1	1	Common	10							0																						
+Corvette	5	1	Common	15							0																						
+Fortunate	7	1	Common	10							0																						
+Phindra	10	2	Common	30							0																						
+Turas	12	2	Common	35							0																						
+Talla	14	2	Common	40							0																						
+Envoy	16	2	Common	30							0																						
+Kehra	20	3	Common	40							0																						
+Vahklas	22	3	Common	50							0																						
+Kumari	24	3	Common	60							0																						
+Horizon	26	3	Common	40							0																						
+Nova	52	5	Common	150						3,000	450,000																						

@@ -1,0 +1,223 @@
+# Heroic SMS Shard Analysis
+Date: 2025-04-26
+
+USER: {'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-PSeMXdrwZTEbu8HdAcnG7q', 'size_bytes': 634709, 'width': 1170, 'height': 903, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None}}
+
+ASSISTANT: {"name": "heroic_sms_analysis", "type": "document", "content": "**Objective**: Determine if you can reach the 100 shard milestone (2474.9M points) in the 'Recruit S31 Quasi T3 (Heroic) - SMS' event.\n\n---\n\n**Event Details (from screenshots)**:\n- **Points Needed for 100 shards**: 2474.9M\n- **Current Points**: 125.07M\n- **Remaining Points Needed**: 2474.9M - 125.07M = 2349.83M\n\n**Scoring Rules for Materials**:\n- G3 Uncommon Material (U): 20 points each\n- G3 Rare Material (R): 30 points each\n- G4 Uncommon Material (U): 40 points each\n- G4 Rare Material (R): 60 points each\n- G4 Epic Material (E): 240 points each\n- G5 Uncommon Material (U): 90 points each\n- G5 Rare Material (R): 180 points each\n- G5 Epic Material (E): 600 points each\n- G6 Uncommon Material (U): 600 points each\n- G6 Rare Material (R): 1200 points each\n\n---\n\n**Next Step**:\n- You will need to provide the quantity of each material type you have available (G3 U, G3 R, G4 U, etc.).\n- Based on that input, we will calculate the maximum number of points you can generate.\n\nOnce you provide your material inventory, we will:\n1. Calculate total possible points.\n2. Compare it against the remaining 2349.83M points.\n3. Advise if you can reach 100 shards and suggest the optimal material usage strategy.\n\n---\n\n**Please provide the following information**:\n- G3 Uncommon Material count\n- G3 Rare Material count\n- G4 Uncommon Material count\n- G4 Rare Material count\n- G4 Epic Material count\n- G5 Uncommon Material count\n- G5 Rare Material count\n- G5 Epic Material count\n- G6 Uncommon Material count\n- G6 Rare Material count\n\n---\n\nLet's do this step-by-step to be accurate!"}
+
+ASSISTANT: Alright, the canvas is ready! Please provide the quantities of each material you have so we can proceed with calculating your maximum possible score.
+
+USER: Correction, points needed for 100 shards = 247490000
+Current points = 125070000
+Points to reward = 122410000
+
+ASSISTANT: {"updates": [{"pattern": ".*", "replacement": "**Objective**: Determine if you can reach the 100 shard milestone (247.49M points) in the 'Recruit S31 Quasi T3 (Heroic) - SMS' event.\n\n---\n\n**Event Details (from screenshots)**:\n- **Points Needed for 100 shards**: 247.49M\n- **Current Points**: 125.07M\n- **Remaining Points Needed**: 122.41M\n\n**Scoring Rules for Materials**:\n- G3 Uncommon Material (U): 20 points each\n- G3 Rare Material (R): 30 points each\n- G4 Uncommon Material (U): 40 points each\n- G4 Rare Material (R): 60 points each\n- G4 Epic Material (E): 240 points each\n- G5 Uncommon Material (U): 90 points each\n- G5 Rare Material (R): 180 points each\n- G5 Epic Material (E): 600 points each\n- G6 Uncommon Material (U): 600 points each\n- G6 Rare Material (R): 1200 points each\n\n---\n\n**Next Step**:\n- You will need to provide the quantity of each material type you have available (G3 U, G3 R, G4 U, etc.).\n- Based on that input, we will calculate the maximum number of points you can generate.\n\nOnce you provide your material inventory, we will:\n1. Calculate total possible points.\n2. Compare it against the remaining 122.41M points.\n3. Advise if you can reach 100 shards and suggest the optimal material usage strategy.\n\n---\n\n**Please provide the following information**:\n- G3 Uncommon Material count\n- G3 Rare Material count\n- G4 Uncommon Material count\n- G4 Rare Material count\n- G4 Epic Material count\n- G5 Uncommon Material count\n- G5 Rare Material count\n- G5 Epic Material count\n- G6 Uncommon Material count\n- G6 Rare Material count\n\n---\n\nLet's do this step-by-step to be accurate!"}]}
+
+ASSISTANT: I've updated the canvas with your corrected event points! Please send me your materials inventory now so we can continue the analysis.
+
+USER: {'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-1jwwUQMydYrpicrSDDoVxN', 'size_bytes': 519777, 'width': 1340, 'height': 550, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None}}
+
+ASSISTANT: Awesome, I see the images you uploaded — thank you! I’ll now extract the material counts you have based on what I see:
+
+### G3 Materials:
+- G3 Uncommon (Uncommon Refined Ore + Uncommon Refined Gas + Uncommon Refined Crystal):
+  - Ore: 398.4K
+  - Gas: 306.8K
+  - Crystal: 359K
+  - **Total G3 Uncommon = 1,064,200**
+
+- G3 Rare (Rare Refined Ore + Rare Refined Gas + Rare Refined Crystal):
+  - Ore: 207.5K
+  - Gas: 173.2K
+  - Crystal: 241.7K
+  - **Total G3 Rare = 622,400**
+
+---
+
+### G4 Materials:
+- G4 Uncommon (Uncommon Refined Ore + Uncommon Refined Gas + Uncommon Refined Crystal):
+  - Ore: 4.2M
+  - Gas: 4.6M
+  - Crystal: 4.3M
+  - **Total G4 Uncommon = 13,100,000**
+
+- G4 Rare (Rare Refined Ore + Rare Refined Gas + Rare Refined Crystal):
+  - Ore: 864.6K
+  - Gas: 815.3K
+  - Crystal: 1M
+  - **Total G4 Rare = 2,679,900**
+
+- G4 Epic (Epic Refined Ore + Epic Refined Gas + Epic Refined Crystal):
+  - Ore: 199K
+  - Gas: 160.7K
+  - Crystal: 180.3K
+  - **Total G4 Epic = 540,000**
+
+---
+
+### G5 Materials:
+- G5 Uncommon (Uncommon Refined Ore + Uncommon Refined Gas + Uncommon Refined Crystal):
+  - Ore: 1.7M
+  - Gas: 1.4M
+  - Crystal: 1.5M
+  - **Total G5 Uncommon = 4,600,000**
+
+- G5 Rare (Rare Refined Ore + Rare Refined Gas + Rare Refined Crystal):
+  - Ore: 215.1K
+  - Gas: 95.2K
+  - Crystal: 168.4K
+  - **Total G5 Rare = 478,700**
+
+- G5 Epic (Epic Refined Ore + Epic Refined Gas + Epic Refined Crystal):
+  - Ore: 32.6K
+  - Gas: 4,179
+  - Crystal: 30.4K
+  - **Total G5 Epic = 67,179**
+
+---
+
+### G6 Materials:
+- G6 Uncommon (Uncommon Refined Ore + Uncommon Refined Gas + Uncommon Refined Crystal):
+  - Ore: 257
+  - Gas: 48.5K
+  - Crystal: 1,081
+  - **Total G6 Uncommon = 49,838**
+
+- G6 Rare (Rare Refined Ore + Rare Refined Gas + Rare Refined Crystal):
+  - Ore: 6,733
+  - Gas: 13.6K
+  - Crystal: 14.6K
+  - **Total G6 Rare = 34,933**
+
+---
+
+✅ Now that I have these numbers organized, do you want me to proceed to calculate your **total points available** next?  
+(Should only take a moment!) 🚀
+
+USER: Populate my material counts in our canvas document.
+
+ASSISTANT: {"updates": [{"pattern": ".*", "replacement": "**Objective**: Determine if you can reach the 100 shard milestone (247.49M points) in the 'Recruit S31 Quasi T3 (Heroic) - SMS' event.\n\n---\n\n**Event Details (from screenshots)**:\n- **Points Needed for 100 shards**: 247.49M\n- **Current Points**: 125.07M\n- **Remaining Points Needed**: 122.41M\n\n**Scoring Rules for Materials**:\n- G3 Uncommon Material (U): 20 points each\n- G3 Rare Material (R): 30 points each\n- G4 Uncommon Material (U): 40 points each\n- G4 Rare Material (R): 60 points each\n- G4 Epic Material (E): 240 points each\n- G5 Uncommon Material (U): 90 points each\n- G5 Rare Material (R): 180 points each\n- G5 Epic Material (E): 600 points each\n- G6 Uncommon Material (U): 600 points each\n- G6 Rare Material (R): 1200 points each\n\n---\n\n**Material Inventory**:\n- G3 Uncommon Material: 1,064,200\n- G3 Rare Material: 622,400\n- G4 Uncommon Material: 13,100,000\n- G4 Rare Material: 2,679,900\n- G4 Epic Material: 540,000\n- G5 Uncommon Material: 4,600,000\n- G5 Rare Material: 478,700\n- G5 Epic Material: 67,179\n- G6 Uncommon Material: 49,838\n- G6 Rare Material: 34,933\n\n---\n\n**Next Step**:\nBased on the inventory, we will:\n1. Calculate total possible points.\n2. Compare it against the remaining 122.41M points.\n3. Advise if you can reach 100 shards and suggest the optimal material usage strategy.\n\n---\n\nLet's do this step-by-step to be accurate!"}]}
+
+ASSISTANT: I’ve populated your material counts into the canvas document! Ready for me to calculate your total points next? 🚀
+
+USER: Pretty good. I think we need to break up the materials counts by:
+
+<Grade> <Rarity> <Type>
+
+Grade = 3,4,5,6
+Rarity = Uncommon, Rare, Epic
+Type = Crystal, Ore, Gas
+
+ASSISTANT: {"updates": [{"pattern": ".*", "replacement": "**Objective**: Determine if you can reach the 100 shard milestone (247.49M points) in the 'Recruit S31 Quasi T3 (Heroic) - SMS' event.\n\n---\n\n**Event Details (from screenshots)**:\n- **Points Needed for 100 shards**: 247.49M\n- **Current Points**: 125.07M\n- **Remaining Points Needed**: 122.41M\n\n**Scoring Rules for Materials**:\n- G3 Uncommon Material (U): 20 points each\n- G3 Rare Material (R): 30 points each\n- G4 Uncommon Material (U): 40 points each\n- G4 Rare Material (R): 60 points each\n- G4 Epic Material (E): 240 points each\n- G5 Uncommon Material (U): 90 points each\n- G5 Rare Material (R): 180 points each\n- G5 Epic Material (E): 600 points each\n- G6 Uncommon Material (U): 600 points each\n- G6 Rare Material (R): 1200 points each\n\n---\n\n**Material Inventory**:\n\n**Grade 3**:\n- Uncommon Crystal: 359K\n- Uncommon Ore: 398.4K\n- Uncommon Gas: 306.8K\n- Rare Crystal: 241.7K\n- Rare Ore: 207.5K\n- Rare Gas: 173.2K\n\n**Grade 4**:\n- Uncommon Crystal: 4.3M\n- Uncommon Ore: 4.2M\n- Uncommon Gas: 4.6M\n- Rare Crystal: 1M\n- Rare Ore: 864.6K\n- Rare Gas: 815.3K\n- Epic Crystal: 180.3K\n- Epic Ore: 199K\n- Epic Gas: 160.7K\n\n**Grade 5**:\n- Uncommon Crystal: 1.5M\n- Uncommon Ore: 1.7M\n- Uncommon Gas: 1.4M\n- Rare Crystal: 168.4K\n- Rare Ore: 215.1K\n- Rare Gas: 95.2K\n- Epic Crystal: 30.4K\n- Epic Ore: 32.6K\n- Epic Gas: 4,179\n\n**Grade 6**:\n- Uncommon Crystal: 1,081\n- Uncommon Ore: 257\n- Uncommon Gas: 48.5K\n- Rare Crystal: 14.6K\n- Rare Ore: 6,733\n- Rare Gas: 13.6K\n\n---\n\n**Next Step**:\nBased on the inventory, we will:\n1. Calculate total possible points.\n2. Compare it against the remaining 122.41M points.\n3. Advise if you can reach 100 shards and suggest the optimal material usage strategy.\n\n---\n\nLet's do this step-by-step to be accurate!"}]}
+
+ASSISTANT: I’ve broken out your materials by **Grade**, **Rarity**, and **Type** exactly as you asked! Ready to move on to the full point calculation? 🚀
+
+USER: Great, Now, what if we put my material counts in a table instead and also included a column called "Points" that multiplies the material count by the points per type of material spent? For instance, 257 G6 Uncommon Ore  = 257*600 = <total_points_achievable>
+
+ASSISTANT: {"updates": [{"pattern": ".*", "replacement": "**Objective**: Determine if you can reach the 100 shard milestone (247.49M points) in the 'Recruit S31 Quasi T3 (Heroic) - SMS' event.\n\n---\n\n**Event Details (from screenshots)**:\n- **Points Needed for 100 shards**: 247.49M\n- **Current Points**: 125.07M\n- **Remaining Points Needed**: 122.41M\n\n**Scoring Rules for Materials**:\n- G3 Uncommon Material (U): 20 points each\n- G3 Rare Material (R): 30 points each\n- G4 Uncommon Material (U): 40 points each\n- G4 Rare Material (R): 60 points each\n- G4 Epic Material (E): 240 points each\n- G5 Uncommon Material (U): 90 points each\n- G5 Rare Material (R): 180 points each\n- G5 Epic Material (E): 600 points each\n- G6 Uncommon Material (U): 600 points each\n- G6 Rare Material (R): 1200 points each\n\n---\n\n**Material Inventory**:\n\n| Grade | Rarity    | Type    | Quantity | Points per Unit | Total Points |\n|-------|-----------|---------|----------|-----------------|--------------|\n| 3     | Uncommon  | Crystal | 359K     | 20              | 7.18M        |\n| 3     | Uncommon  | Ore     | 398.4K   | 20              | 7.968M       |\n| 3     | Uncommon  | Gas     | 306.8K   | 20              | 6.136M       |\n| 3     | Rare      | Crystal | 241.7K   | 30              | 7.251M       |\n| 3     | Rare      | Ore     | 207.5K   | 30              | 6.225M       |\n| 3     | Rare      | Gas     | 173.2K   | 30              | 5.196M       |\n| 4     | Uncommon  | Crystal | 4.3M     | 40              | 172M         |\n| 4     | Uncommon  | Ore     | 4.2M     | 40              | 168M         |\n| 4     | Uncommon  | Gas     | 4.6M     | 40              | 184M         |\n| 4     | Rare      | Crystal | 1M       | 60              | 60M          |\n| 4     | Rare      | Ore     | 864.6K   | 60              | 51.876M      |\n| 4     | Rare      | Gas     | 815.3K   | 60              | 48.918M      |\n| 4     | Epic      | Crystal | 180.3K   | 240             | 43.272M      |\n| 4     | Epic      | Ore     | 199K     | 240             | 47.76M       |\n| 4     | Epic      | Gas     | 160.7K   | 240             | 38.568M      |\n| 5     | Uncommon  | Crystal | 1.5M     | 90              | 135M         |\n| 5     | Uncommon  | Ore     | 1.7M     | 90              | 153M         |\n| 5     | Uncommon  | Gas     | 1.4M     | 90              | 126M         |\n| 5     | Rare      | Crystal | 168.4K   | 180             | 30.312M      |\n| 5     | Rare      | Ore     | 215.1K   | 180             | 38.718M      |\n| 5     | Rare      | Gas     | 95.2K    | 180             | 17.136M      |\n| 5     | Epic      | Crystal | 30.4K    | 600             | 18.24M       |\n| 5     | Epic      | Ore     | 32.6K    | 600             | 19.56M       |\n| 5     | Epic      | Gas     | 4,179    | 600             | 2.5074M      |\n| 6     | Uncommon  | Crystal | 1,081    | 600             | 648.6K       |\n| 6     | Uncommon  | Ore     | 257      | 600             | 154.2K       |\n| 6     | Uncommon  | Gas     | 48.5K    | 600             | 29.1M        |\n| 6     | Rare      | Crystal | 14.6K    | 1200            | 17.52M       |\n| 6     | Rare      | Ore     | 6,733    | 1200            | 8.0796M      |\n| 6     | Rare      | Gas     | 13.6K    | 1200            | 16.32M       |\n\n---\n\n**Next Step**:\nBased on the inventory, we will:\n1. Calculate total possible points.\n2. Compare it against the remaining 122.41M points.\n3. Advise if you can reach 100 shards and suggest the optimal material usage strategy.\n\n---\n\nLet's do this step-by-step to be accurate!"}]}
+
+ASSISTANT: I've restructured your material counts into a table with "Grade", "Rarity", "Type", "Quantity", "Points per Unit", and "Total Points" columns! Let me know if you'd like me to now sum up the **Total Points** and verify if you can hit your event target! 🚀
+
+USER: The most likely paths to success are through spending G5 and G6 materials. What combinations of spending do you see that could help me get that last ~123M points?
+
+ASSISTANT: Alright, focusing specifically on **Grade 5** and **Grade 6** materials, here’s what I see:
+
+---
+
+### Total Available Points (G5 and G6 Only):
+
+| Grade | Rarity | Total Points |
+|:------|:-------|-------------:|
+| 5     | Uncommon | 414M (135M + 153M + 126M) |
+| 5     | Rare     | 86.166M (30.312M + 38.718M + 17.136M) |
+| 5     | Epic     | 40.3074M (18.24M + 19.56M + 2.5074M) |
+| 6     | Uncommon | 29.9028M (648.6K + 154.2K + 29.1M) |
+| 6     | Rare     | 41.9196M (17.52M + 8.0796M + 16.32M) |
+
+---
+
+### Key Observations:
+- **G5 Uncommon alone (414M points)** already massively covers the ~122M points you need.
+- **G5 Rare alone (86.166M points)** almost covers it by itself.
+- **G5 Epic (40.3074M points)** would cover about a third of what you need.
+- **G6 Rare (41.9196M points)** is another strong option.
+- **G6 Uncommon (29.9028M points)** could also meaningfully contribute.
+
+---
+
+### Potential Winning Combinations:
+Here are some example paths:
+
+**Option 1 (G5 Uncommon only)**:
+- Spend ~1/3 of your G5 Uncommon stash (~1360K materials at 90 points each = 122.4M points).
+
+**Option 2 (Mixed G5 Rare and Epic)**:
+- Spend all G5 Rare (86.166M points) + around half of G5 Epic (need ~36M more points).
+
+**Option 3 (G6 Rare heavy)**:
+- Spend all G6 Rare (41.9196M points) + balance with G5 Rare or G5 Uncommon.
+  - 122.41M - 41.9196M = 80.4904M left to cover
+  - Easily achievable with partial G5 Uncommon or G5 Rare.
+
+**Option 4 (G5 Epic and G6 Uncommon/Rare hybrid)**:
+- Spend all G5 Epic (40.3074M points) + all G6 Uncommon (29.9028M points) + part of G6 Rare (about 52M points more needed).
+
+---
+
+### Strategic Recommendation:
+- **Start with G5 Epic and G6 materials** if you want to minimize spending lower rarity (Uncommon) mats.
+- If you prefer a simpler route: **spending a portion of your G5 Uncommon materials alone** will guarantee you cross the milestone comfortably.
+
+---
+
+Would you like me to simulate exact material *quantities* to spend for one or two of these options? 📈  
+(Example: how many G5 Uncommon Crystals to spend to hit exactly 122.41M points)
+
+USER: {'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-X2ayLmwpjSfkTyoVpsUU9N', 'size_bytes': 186301, 'width': 367, 'height': 440, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None}}
+
+ASSISTANT: Perfect — I can see your new options now from the screenshots.  
+Here's what I'm interpreting from what you uploaded:
+
+- **Research Options** (Base Particle Acceleration, Orbital Investigation, Starbase Sustainability, Material Concerns) use **G5 refined gas** and **G5 refined ore**.
+- **Station Upgrade** (level 61 upgrade) uses **G6 Uncommon Ore and Gas** plus some Broken Parts.
+
+---
+
+### Matching your upgrade options to your material strategy:
+
+✅ **Researches (Base Particle Acceleration / Orbital Investigation)**:  
+  - Heavy on **G5 Gas** (Uncommon, Rare, and Epic).
+  - These could burn significant G5 Uncommon Gas (90 points each) and Rare Gas (180 points each).
+
+✅ **Station Upgrade to 61**:  
+  - Heavy on **G6 Uncommon Ore and Gas** (600 points each).
+
+---
+
+### Quick Potential Paths:
+
+| Upgrade | Material Focus | Materials Spent | Rough Points Gained | Comment |
+|:--------|:---------------|:----------------|:--------------------|:--------|
+| Starbase Sustainability or Material Concerns | G5 Ore | 1.7M G5 Common Ore, 215K G5 Rare Ore | ~122M+ | **Easily clears milestone** |
+| Base Particle Acceleration or Orbital Investigation | G5 Gas | 1.4M G5 Common Gas, 95K G5 Rare Gas | ~120M+ | **Near full milestone** |
+| Station Level 61 Upgrade | G6 Uncommon Ore + Gas | 699.1K Ore + 48.5K Gas | ~29.25M | **Partial milestone coverage** |
+
+---
+
+### Analysis:
+
+- **Station Upgrade** (Level 61) by itself **only gives ~29M points** — so it **won't** get you to 122M points by itself.
+- **Researches** would consume a lot of your **G5 Gas** materials (which you have in abundance) and could get you extremely close.
+- **G5 Ore researches** like **Starbase Sustainability** and **Material Concerns** would allow you to burn tons of G5 Ore (and Rare Ore) — easily surpassing the 122.41M points.
+
+---
+
+### Suggested path:
+
+1. **Complete Material Concerns or Starbase Sustainability Research** (G5 Ore-heavy).
+2. If you want bonus points and efficiency, **also upgrade Station Level 61** after to pad your score.
+
+---
+
+Would you like me to **build a point-by-point plan** of exactly *how many* G5 Ore / Gas you would spend with each research? 📜  
+(We can even list how much extra you'd overshoot if you want efficiency!)

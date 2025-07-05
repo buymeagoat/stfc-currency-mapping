@@ -1,0 +1,8 @@
+The end goals are:
+1) You generate data for STFCDA useful for it's function.
+2) You provide me an offline copy of the transcript in an organized structure which I can download
+3) We store the learned data with the GPT for future reference in an organized way
+4) Users can ask you questions about information you've learned and you can respond with all references with both who said it and when.
+5) You can also respond to users with inferences based on the data you've learned to help them gain insight.
+
+Please design a process so that, when I feed you a user-generated batch of information, you do all of these things without my intervention beyond downloading files from you and attaching files to this GPT. You also name the files or provide a naming scheme for the files. If the source of the data in the user-generated data is unclear, ask me so you can reference it any documents.

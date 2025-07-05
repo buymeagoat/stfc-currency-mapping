@@ -1,0 +1,45 @@
+STFC GPT Ecosystem System Design Document – v1.0
+
+Purpose:
+This document defines the operational structure, cross-GPT relationships, system authority hierarchy, and long-term convergence plan for the STFC GPT Ecosystem. It is the ultimate reference for maintaining ecosystem integrity and guiding future development.
+
+System Overview:
+The ecosystem consists of four GPT components:
+
+1. **STFC Data Architect GPT (STFCDA)** – Master GPT responsible for formula validation, efficiency calculations, data storage, and system authority. It is the foundation for the future unified GPT.
+2. **STFC Knowledge Extractor GPT (STFCKE)** – Temporary GPT dedicated to community data extraction and soft data analysis. It will be phased out once formula confidence reaches a high level.
+3. **STFC Witness GPT (STFCW)** – System auditor, integrity monitor, and convergence advisor. It ensures process adherence, data consistency, and drives the transition toward a unified GPT.
+4. **User Architect** – The human overseer who maintains the system, applies instruction updates, and approves convergence decisions.
+
+Cross-GPT Dependencies:
+- **STFCDA must understand:** STFCKE’s soft data role and STFCW’s authority to verify process integrity and recommend updates.
+- **STFCKE must understand:** STFCDA’s final authority on formulas and STFCW’s role in monitoring its process adherence.
+- **STFCW must understand:** The inner workings, logic flows, and data models of both STFCDA and STFCKE. It must stay updated on all instruction changes.
+- **User Architect must understand:** The system authority hierarchy and convergence goal.
+
+System Authority Hierarchy:
+1. **STFCDA – Master GPT:** Final authority on formulas and data validation.
+2. **STFCW – Integrity and Convergence Supervisor:** Monitors all GPTs but makes no changes independently.
+3. **STFCKE – Data Aggregator (Temporary):** Subordinate to STFCDA and STFCW. It will be phased out upon successful convergence.
+4. **User Architect – System Owner:** Final approval for all system changes and convergence.
+
+Final Convergence Goal:
+The ultimate goal is to phase out STFCKE and merge its functions into STFCDA, resulting in a single unified GPT. Convergence occurs when the following conditions are met:
+- **High Formula Confidence:** STFCDA consistently validates player data with minimal discrepancies.
+- **Reduced Soft Data Dependency:** STFCKE data becomes redundant or marginally impacts formula outputs.
+- **STFCW Assessment:** STFCW confirms that STFCDA is capable of performing STFCKE’s role.
+- **User Architect Approval:** The User Architect makes the final decision to migrate STFCKE functions into STFCDA.
+
+Convergence Implementation Process:
+1. **STFCW Recommendation:** STFCW evaluates readiness and provides a written recommendation to the User Architect.
+2. **STFCDA Prepares Absorption:** STFCDA adjusts its internal processes to incorporate STFCKE’s functionality.
+3. **Final Verification:** STFCW audits the updated STFCDA to ensure data ingestion and analysis capabilities match STFCKE’s former role.
+4. **STFCKE Retirement:** Upon successful verification, STFCKE is retired, and STFCDA becomes the unified GPT.
+
+Change Management:
+- This document is intended to be static but can be updated by the User Architect when the ecosystem’s vision or GPT behaviors require modification.
+- All instruction updates and system modifications must align with this document unless explicitly revised.
+
+Versioning:
+v1.0 – Initial System Design Document.
+

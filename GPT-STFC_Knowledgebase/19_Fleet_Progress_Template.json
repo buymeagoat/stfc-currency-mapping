@@ -1,0 +1,83 @@
+### **STFC Knowledgebase Fleet Progress Tracking**
+
+---
+
+## **1️⃣ Purpose of this Document**
+This document outlines **how fleet progress is tracked, structured, and used** to assist players with fleet development, upgrade prioritization, and battle readiness in Star Trek Fleet Command (STFC).
+
+---
+
+## **2️⃣ Fleet Progress Data Structure**
+Fleet tracking includes **ship progression, upgrade status, combat performance, and efficiency metrics**.
+
+✅ **Essential Fleet Fields:**
+- **Fleet Composition** (Ships owned, tier, level, and class)
+- **Upgrade Status** (Completed & pending upgrades, material requirements)
+- **Battle Efficiency** (PvP & PvE effectiveness, combat history)
+- **Research Impact** (Fleet-wide bonuses from research investments)
+- **Officer Assignments** (Crew configurations and synergy bonuses)
+
+📌 **Example Fleet Submission:**
+```json
+{
+  "fleet": [
+    {"ship": "USS Enterprise", "tier": 5, "level": 30, "class": "Explorer"},
+    {"ship": "D4 Class", "tier": 4, "level": 25, "class": "Interceptor"}
+  ],
+  "upgrades": {
+    "USS Enterprise": {"warp_drive": "Level 3", "weapons": "Level 5"},
+    "D4 Class": {"shields": "Level 4", "phasers": "Level 3"}
+  },
+  "officers": [
+    {"name": "Gorkon", "assigned_ship": "D4 Class"},
+    {"name": "Kirk", "assigned_ship": "USS Enterprise"}
+  ]
+}
+```
+
+---
+
+## **3️⃣ AI Query Handling & Fleet Optimization**
+
+✅ **How AI Uses Fleet Data:**
+1️⃣ Identifies **strongest and weakest ships** based on upgrade progress.
+2️⃣ Suggests **priority upgrades** based on available resources.
+3️⃣ Recommends **optimal officer assignments** for fleet synergy.
+4️⃣ Advises on **PvP and PvE strategies** tailored to fleet composition.
+
+📌 **Example User Query & AI Response:**
+- **User:** "What should I upgrade next in my fleet?"
+- **AI Response:**
+  - *"Based on your fleet data, I recommend:*"
+    - Upgrading **USS Enterprise warp drive to Level 4** for better PvE range.
+    - Enhancing **D4 Class shields to Level 5** for improved PvP survivability.
+    - Assigning **Gorkon as captain** to increase critical hit chance in battles.
+  - *"Would you like an efficiency breakdown for material costs?"*
+
+---
+
+## **4️⃣ Handling Missing or Incomplete Data**
+If the user does not provide full fleet details, the AI must:
+✅ **Prompt for missing ship tiers or officer assignments.**
+✅ **Provide general upgrade advice** based on known ship performance.
+✅ **Offer multiple upgrade paths** based on resource availability.
+
+📌 **Example AI Prompt:**
+- *"Can you provide your ship levels and upgrade progress? This will improve accuracy."*
+
+---
+
+## **5️⃣ Fleet Tracking & Update Frequency**
+✅ **Real-Time Adjustments:** AI recommends upgrades based on latest fleet status.
+✅ **Monthly Strategy Updates:** AI suggests fleet restructuring based on game meta shifts.
+✅ **Event-Based Adjustments:** AI adapts recommendations for ship-based game events.
+
+---
+
+## **🚀 Next Steps: Enhancing Fleet Strategy Capabilities**
+✅ Improve AI **battle readiness predictions** based on fleet power.
+✅ Implement **fleet vs. fleet analysis** for PvP scenario optimization.
+✅ Develop **resource forecasting tools** for upgrade planning.
+
+By maintaining structured fleet progress tracking, the STFC Knowledgebase ensures **players receive optimal fleet development strategies** to dominate in both PvP and PvE. 🚀
+

@@ -1,0 +1,613 @@
+sigma general speedup 1 minute
+general speed up 1 minute
+sigma general speed up 5 minutes
+general speed up 5 minutes
+general speed up 10 minutes
+general speed up 15 minutes
+general speed up 1 hour
+general speed up 3 hours
+general speed up 5 hours
+general speed up 8 hours
+general speed up 1 day
+sigma general speedup 10 minutes
+sigma general speedup 15 minutes
+sigma general speedup 1 hour
+sigma general speedup 3 hours
+sigma general speedup 8 hours
+repair general speed up 1 minute
+repair general speed up 3 minutes
+repair general speed up 5 minutes
+repair general speed up 10 minutes
+repair general speed up 15 minutes
+repair general speed up 30 minutes
+repair general speed up 1 hour
+repair general speed up 3 hours
+repair general speed up 5 hours
+repair general speed up 8 hours
+repair general speed up 12 hours
+repair general speed up 15 hours
+repair general speed up 1 day
+repair general speed up 2 days
+Repair Sigma Speed up 15 minutes
+Repair Sigma Speed up 1 hour
+Repair Sigma Speed up 3 hours
+Repair Sigma Speed up 5 hours
+Repair Sigma Speed up 8 hours
+Repair Sigma Speed up 12 hours
+Repair Sigma Speed up 15 hours
+Away Team Assignment Speed up 1 minute
+Away Team Assignment Speed up 5 minutes
+Away Team Assignment Speed up 15 minutes
+Away Team Assignment Speed up 1 hour
+Away Team Assignment Speed up 4 hours
+Away Team Assignment Speed up 12 hours
+Away Team Assignment Speed up 1 day
+Swarm Biominerals
+Swarm Advanced Biotics
+Corrupted Data
+Decoded Data
+Common Plutonium
+Uncommon Plutonium
+Rare Plutonium
+Raw Latinum
+Concentrated Latinum
+Armada Tactical Core
+Rare Armada Tactical Core
+Inert Nanoprobe
+Pattern Disruptor
+Active Nanoprobe
+Charged Nanoprobe
+Uncommon Uranium
+Rare Uranium
+Epic Uranium
+Stella Particle
+Diplomacy Token
+Outlaw Research Credits
+Bajoran Badge
+Gamma Particle
+Apex Research Medal
+Mycelium Spore
+Cultivated Mycelium
+Spore Drive Component
+Duranium
+Uncommon Black Fleet Memorial
+Rare Black Fleet Memorial
+Epic Black Fleet Memorial
+Fortified Baakonite
+Service Award
+Merit of Honor
+Away Teams Particle
+Iso-Resin
+Centurion Cloaking Shard
+Tetryons
+Orb Splinters
+Tetryon Radiation
+Axionic Chip
+Axionic Servo
+Multiphasic Credits
+S31 Intelligence
+K.S.G. Intelligence
+R.I. Intelligence
+Raw Intelligence
+Amalgam Parts
+Optical Diode
+Rare Optical Diode
+Cerritos Parts
+Culver Particle
+Rare Culver Particle
+Ablative Amplifiers
+Irvinite
+Broken Desealing Rod
+Rodinium Particle
+Subspace Relay Upgrade
+Incursion Conduit
+Quantum Communicators
+Commander XP
+Uncommon Skill Points (Uncommon SP)
+Rare Skill Points (Rare SP)
+Spock Skill Points (Spock SP)
+Kirk Skill Points (Kirk SP)
+Locutus Skill Points (Locutus SP)
+Uncommon Fleet Commander Credits (Unc. FC Credits)
+Rare Fleet Commander Credits (Rare FC Credits)
+Epic Fleet Commander Credits (Epic FC Credits)
+Fleet Commander Dust (FC Dust)
+Actian Venom
+Synthetic Nitrium
+Synthetic Ion
+Condensed Venom
+Hull Fragments
+Assembly Medals
+Faction Event Particle
+Ablative Armor Parts
+Plasma Conduits
+Subspace Tranceivers
+Nadion
+USS Defiant Cloaking Shard
+Transwarp Coil - T2
+Transwarp Coil - T3
+Transwarp Coil - T4
+Transwarp Coil - T5
+Transwarp Coil - T6
+Transwarp Coil - T7
+Transwarp Coil - T8
+Transwarp Coil - T9
+Transwarp Coil - T10
+Transwarp Coil - T11
+Transwarp Coil - T12
+Elite Recruit Particle
+Ex-Borg Credits
+Replicator Rations
+Repair Prime Particle
+Weapon Prime Particle
+Prime Particle Key
+Transwarp Manifold
+Radioactive Titanite
+USS Titan-A Parts
+Section 31 Transmitter
+Emblem of Assessment
+Seven Skill Points (Seven SP)
+Janeway Skill Points
+Veridium Isotope
+Beryllium
+Christalline Beryllium
+Prime Cosmic Particle
+Prime Dolamide Particle
+ChatGPT said:
+Omega Particle
+Voyager Travel Token
+Delphic Expanse Token
+Artifact Gallery Schematics
+Artifact Remnant
+Complex Nanotech
+Picard's Ammonite Fossil (Artifact Shard)
+Orb of Prosperity (Artifact Shard)
+Optolythic Data Rod (Artifact Shard)
+Uhura's Vokaya Necklace (Artifact Shard)
+Temporal Remnant (Artifact Shard)
+Aamaarazan Breathing Mask (Artifact Shard)
+USS Discovery Scale Replica (Artifact Shard)
+Kulan Naiskos (Artifact Shard)
+Mukull Time-Piece (Artifact Shard)
+Shield of Pericles (Artifact Shard)
+Worf's D'k Tagh (Artifact Shard)
+Stamets' Original Mycellium Sample (Artifact Shard)
+Janeway's Coffee Mug (Artifact Shard)
+Mudd's Andorian Helmet (Artifact Shard)
+Horga'hn (Artifact Shard)
+Spock's Engagement Pendant (Artifact Shard)
+McCoy's Hypospray (Artifact Shard)
+Earth Science Institute Scanner (Artifact Shard)
+Quark's Scanner (Artifact Shard)
+Andorian Scanner (Artifact Shard)
+Chapel's Hypospray (Artifact Shard)
+Crusher's Hypospray (Artifact Shard)
+D'Arsay Archive Scale Replica (Artifact Shard)
+Scepter of the Grand Nagus (Artifact Shard)
+K't'inga Scale Replica (Artifact Shard)
+Scotty's Trident Scanner (Artifact Shard)
+Bat'leth of House Martok (Artifact Shard)
+Kirk's Phaser Rifle (Artifact Shard)
+Boreth Time Crystal (Artifact Shard)
+Book of the Kosst Amojan (Artifact Shard)
+Temporal Observatory (Artifact Shard)
+La'an's 21st Century Watch (Artifact Shard)
+Chroniton Sample (Artifact Shard)
+Nero's Trident (Artifact Shard)
+Jaheelah (Artifact Shard)
+The Great Eye of Ara (Artifact Shard)
+Emperor Georgiou's Crown Shard (Artifact Shard)
+Classic Tricorder (Artifact Shard)
+Glavin (Artifact Shard)
+Kir'shara (Artifact Shard)
+Guinan's Magus III Weapon (Artifact Shard)
+Section 31 Beacon Shard (Artifact Shard)
+Cephalocasque (Artifact Shard)
+Forbidden Tech Fusion Rods
+Forbidden Tech Refinery Credits
+Voyager Ship Parts
+Forbidden Tech Tier-up Catalyst
+Circuitry Fragments
+Forbidden Tech Protomatter
+Forbidden Tech Reactor
+Forbidden Tech Credit Pieces
+Common Anomaly Sample
+Common Forbidden Fragments
+Rare Anomaly Sample
+Uncommon Forbidden Fragments
+NX-Isolinear Array
+Rare Forbidden Fragments
+Deuterium Canister
+Cosmic Particles
+O'Brien's Dartboard (Artifact Shard)
+Captain Proton's Blaster (Artifact Shard)
+Blade of Tkon (Artifact Shard)
+Vidiian Honatta Organ Harvester (Artifact Shard)
+Narada Tendril Fragment (Artifact Shard)
+Picard's Ressikin Flute (Artifact Shard)
+Taurean Spear (Artifact Shard)
+Sisko's Baseball (Artifact Shard)
+Majalan Oath Coin (Artifact Shard)
+Riker's Trombone (Artifact Shard)
+Kataan Telescope (Artifact Shard)
+King M'Benga's Crown (Artifact Shard)
+Malkothian Spirits (Artifact Shard)
+Dual Generators (Artifact Shard)
+Borg Queen's Remains (Artifact Shard)
+Monaveen Parts
+Regal Geode
+Axion Engine Tier 10
+Emblem of Honor
+Raw Trellium-A
+Raw Trellium-D
+Axion Plasma
+Chronometric Particle
+Common Mirror Dust
+Uncommon Mirror Dust
+Rare Mirror Dust
+Epic Mirror Dust
+Premium Mirror Dust
+Sloan Skill Points
+Lorca Skill Points
+Uncommon Ex-Borg Credits
+Rare Ex-Borg Credits
+Epic Ex-Borg Credits
+Prime Orbit Medallion
+Welding Hardware
+Mirror Fragments
+Ceramic Composite
+Rare Choice Opportunity Chip
+Choice Opportunity Chip
+Omega-13 Matter
+Raw Omega-Trellium
+Omega Mirror Dust
+Fatu-Krey Scrap
+Liquid Omega-Trellium
+Quantum Flux Engine T6
+Quantum Flux Engine T12
+Quantum Flux Engine T14
+Independent Archives Schematics
+Archive Data Shard
+Chaos Tech Fusion Rods
+Chaos Tech Tier-up Catalyst
+Chaosmatter
+Chaos Tech Reactor
+Chaos Tech Fragments
+Nexus Particle
+Augment Points
+Augment Credits
+Independent Credits
+Hijacked D3 Class (ship blueprint)
+Hijacked Legionary (ship blueprint)
+Hijacked USS Mayflower (ship blueprint)
+Kati (officer shard)
+Otto (officer shard)
+Joaquin (officer shard)
+Marla (officer shard)
+Joachim (officer shard)
+Khan (officer shard)
+Navi (officer shard)
+Pan (officer shard)
+Rima (officer shard)
+Peace Shield 1 hour
+Peace Shield 2 hour
+Peace Shield 4 hour
+Peace Shield 8 hour
+Peace Shield 12 hour
+Peace Shield 1 day
+Peace Shield 3 day
+Peace Shield 7 day
+Peace Shield 30 day
+Ship XP
+Officer XP
+Trait XP
+Transporter Patterns
+Section 31 Private Cipher
+Arena Repair Token
+Bonus Converter Token
+Loyalty Badge
+Recruit Token
+Premium Recruit Token
+Federation Recruit Token
+Klingon Recruit Token
+Romulan Recruit Token
+Ultra Recruit Token
+Allegiance Token
+Alliance Credits
+Galaxy Token - Epic
+Borg War Funds
+Borg Directive
+Borg Mega Cube Directive
+Federation Credits
+Klingon Credits
+Romulan Credits
+Independent Credits
+Augment Credits
+Relocation Token
+Novice Transfer Token
+Bajoran Credits
+Rogue Credits
+Federation Message
+Klingon Message
+Deep Space Datapad
+Romulan Message
+System Scan Data
+Command Badge
+Science Badge
+Engineering Badge
+Minor Commendation
+Commendation Rank 2
+Commendation Rank 3
+Commendation Rank 4
+Commendation Rank 5
+Commendation Rank 6
+Rigellian Datapad
+Orion Manifest
+Encryption Key
+Tricorder
+Cargo Crate
+Cargo Container
+Energy Manifold
+Tribble
+Damaged Datapad
+Dark Matter
+Cyberpathic Interface
+Section 31 Datapad
+KSG Datapad
+Immortal Datapad
+S31 Devotion Token
+Nova Squadron Particles
+Starfleet Honors
+Armada Directives
+Rare Armada Directives
+Epic Armada Directives
+Eclipse Security Codes
+Antimatter Units
+Uncommon G6 Solo Armada Credits
+Uncommon Exchange Loot
+Uncommon Armada Credit
+Rare Exchange Loot
+Rare Armada Credit
+Rare G6 Solo Armada Credits
+Epic Exchange Loot
+Epic G6 Solo Armada Credit
+Epic Armada Credit
+Transwarp Cell
+Uncommon Eclipse Directive
+Dominion Solo Armada Directive Uncommon
+Dominion Solo Armada Directive Rare
+Rare Eclipse Directive
+Epic Eclipse Directive
+Dominion Solo Armada Directive Epic
+Uncommon Latinum Cell
+Rogue Event Trophy
+Epic Latinum Cell
+Lucrative 3* Transwarp Cell
+G5 Dominion Transwarp Cell
+Rogue Transwarp Cell
+G4 Dominion Transwarp Cell
+Eclipse Heist Token
+Contraband Chips
+Discovery Recruit Token
+Discovery Refinery Token
+Ship Skin Shard Tracker
+Borg Recruit Token
+Rare Star Chart
+Epic Star Chart
+Away Teams Credits
+Plundered Cargo
+Amalgam Refinery Token
+Cerritos Refinery Token
+Matrix Diode
+Faction Allegiance Key
+Pattern Buffer
+Dominion Solo Armada Credit Uncommon
+Dominion Solo Armada Credit Rare
+Dominion Solo Armada Edict
+Dominion Solo Armada Credit Epic
+Incursion Coin
+Incursion Coin 2
+Ancient Beacon
+Tactical Mandates
+Cardassian Loot
+Superior Caradassian Loot
+Intel Brief - Miles
+Elite Federation Recruit Token
+Elite Romulan Recruit Token
+Elite Klingon Recruit Token
+Borg Solo Armada Credit Uncommon
+Borg Solo Armada Credit Rare
+Borg Solo Armada Credit Epic
+Borg Solo Armada Directive Uncommon
+Borg Solo Armada Directive Rare
+Ketracel
+Borg Solo Armada Directive Epic
+Vinculum Fragments
+Expansion Cube Directives
+Formation Armada Directive (Rare)
+Formation Armada Directive (Uncommon)
+Favor of the Borg Queen
+Horga'hn Carved Currency
+Lucky Shamrock
+Trial Bell
+Chateau Picard Coin
+WD Battle Pass Unlock
+WD Battle Pass Points
+***** Seal Battleship
+***** Seal Interceptors
+***** Seal Explorers
+Rare Skill Point Fragments
+Generic Token R3
+Captain Freeman's Trophy
+Risa Officer Flash Pass Elite
+010 Override Scoring Token
+Hazard Particle
+Voyager Combadge
+Delta Flyer
+Mobile Emitter
+Silent Nebula Token
+Artifact Token
+Premium Artifact Token
+Temporal Disruptor
+4* Temporal Disruptor Parts
+5* Temporal Disruptor Parts
+5* Temporal Disruptor Parts
+6* Temporal Disruptor Parts
+6* Temporal Disruptor Parts
+Clover Coin
+Enterprise Coin
+Biological Samples
+Medical Test Results
+17180
+38036
+WD Battle Pass Unlock
+Pyrithian Bat
+Immunocytic Gel Worm
+Lyssarian Desert Larvae
+Merry Worth Token
+Hirogen Relics
+Exotic Biotoxins
+Delta Quadrant Borg Coordinates
+Commerce Insignia
+Delta Quadrant Warp Cell
+Isolytic Artifact Token
+Hirogen Bounty Credits
+Astral Prime Particle
+Officer Flash Pass Elite
+Neural Net Chip
+December Elite Pass
+Active Net Chip
+Shipyard Directives
+Shipyard Credit
+Contained Thalaron
+Queen's Favor
+Rare Hazard Particle
+Dragonsblood Vial
+Chaotic Space Token
+Volatile Isomatter
+Apex Isomatter
+TC Season Pass Unlock
+Apex Ship Parts
+WD Battle Pass Unlock
+Seal of Ko'tal
+Lucky Relics
+Opelian Keystone
+Trill Emblems
+Apex Recruits
+Gorn Eviscerator Parts
+Liquid Trellium-D
+Mirror Voucher
+Common Rift Key
+Uncommon Rift Key
+Premium Rift Key
+Grand Banquet Coin
+Replicator Token
+Senior Medical Recruit Token
+Dr. T'ana Unlock Token
+Token RS
+Terran Empire Insignia
+Valentine's Day Bonus Battle Pass
+Holiday's Event Token
+Officer Flash Pass Elite
+TC Season Pass Unlock
+Armada Countdown Speed Up
+WD Battle Pass Unlock
+Frontier Event Store Token
+Section 31 Credits
+Common Terran Credits
+Section 31 Cipher
+Uncommon Terran Credits
+Arena Emblems
+Resistance Chits
+Neutrino
+Commodore's Event Ticket
+Section 31 Mirror Credits
+Admiral's Event Ticket
+Section 31 Mirror Cipher
+Xindi Scdraps
+Xindi Bounty
+Galactic Recruit Token
+November Elite Battle Pass
+Emergency Field Rations
+WD Battle Pass Unlock
+Tech Module
+Holo-field Amplifier
+Xindi Directives
+Rare Xindi Directives
+Refined Kemocite
+Superior Kemocite
+Beryllium Sphere
+Galactic Acclaim
+Technological Distinctiveness
+Advanced Cybernetics
+Charged Capacitors
+Static Capacitors
+The Vindicator Parts
+Shape Memory Alloy
+Borg Data Node Tier 2
+Borg Data Node Tier 3
+Galactic Solo Directive Uncommon
+Choice Reward
+Galactic Solo Directive Rare
+Borg Data Node Tier 4
+Section 31 Access Key
+Borg Data Node Tier 5
+Galactic Solo Directive Epic
+Borg Data Node Tier 6
+Borg Data Node Tier 7
+Sarris Dominion Salvage
+Relativity Safety Bypass T11
+Relativity Safety Bypass T6
+Borg Data Node Tier 8
+Borg Data Node Tier 9
+Blue Particle Accelerators
+Borg Data Node Tier 10
+Borg Data Node Tier 11
+Spacework Circuit
+Interdimensional Data
+Beryllium Sample
+Digital Conveyor Sequence
+Galaxy Quest VHS
+Fatu-Krey Eye Patch
+Alliance Tournament Qualifier Credits
+Alliance Tournament Credits
+Alliance Tournament Refresh Credits
+Chaos Module
+Static Krenim Assignment
+Fabricator Chip
+borg Type 03 Solo Armada Directive
+borg Type 03 Solo Armada Credits
+Borg Polygon Group Armada Directive
+Borg POlygon Group Armada Credits
+SS Revenant Mark II - Gift Bundle Key
+Krenim Formation Directive
+Temporal Incursion Directives
+Krenim Temporal Wreckage
+Krenim Quantum Tech
+Static DTI Credits
+Charge DTI Credits
+DTI Requisition Form 13-A
+Projectile Shard
+Infinitus
+Opus Grande
+Plasma Blast Shard
+Section 31 Refit Shard
+Antares Auto Defense Shard
+Valkis Auto Defense Shard
+K'vort Auto Defense Shard
+Hydra Auto Defense Shard
+Vorta Auto Defense Shard
+B'chor Auto Defense Shard
+Armored Voyager Refit Shard
+K'ragk-vort't Shard
+Clandestine Refit Shard
+Binary Cutter Refit Shard
+Columbia NX-02 Shard
+Slay Bells Projectile Shard
+Countdown Cannon Projective Shard
+Dilithium
+Tritanium
+Parsteel
+Sigma Dilithium
+Sigma Tritanium
+Sigma Parsteel

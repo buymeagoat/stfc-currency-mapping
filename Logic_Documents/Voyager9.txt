@@ -1,0 +1,36 @@
+		Titan - A	Cerritos	Voyager		Defiant	Talios	Frank-A		Mantis
+Tier		12	12	12		12	12	12		12
+Available at shipyard:		37	36	34		35	35	35		33
+Specialty Parts		5.79M	2.21M	0.11M		7.55M	32.60M	147.00M		17.80M
+Base RSS	Trit	6.26T	210.00B	44.20T	Trit	3.20T	3.40T	71.90B	Trit	22.90B
+	Dilithium	80.70B	7.60B	55.70B	Dilithium	58.40B	65.00B	1.18B	Dilithium	1.34B
+Common 3*	Gas	7,140	8,265		Crystal	17,960	17,255	8,422	Ore	25,015
+	Ore	1,775	7,040		Gas	4,250	4,085	864	Crystal	5,795
+Uncommon 3*	Gas	490	1,645	5,141	Crystal	1,125	1,050	208	Ore	1,745
+	Ore	170	785		Gas	385	370	234	Crystal	1,135
+Rare 3*	Gas		390		Crystal			239	Ore	595
+	Ore		111		Gas			357	Crystal	305
+Ship Parts	3* Com	495	1,430	27,839	3* Com	450	430		3* Com	1,535
+3* Summation		10,070	19,666	32,980		24,170	23,190	10,324		36,125
+Common 4*	Gas	7,140	135,000		Crystal	17,960	200,000	169,000	Ore	43,375
+	Ore	95,200	60,920		Gas	67,370	60,690	24,400	Crystal	12,195
+Uncommon 4*	Gas	125,000	135,000	100,000	Crystal	87,980	75,015	2,520	Ore	35,240
+	Ore	33,110	79,810		Gas	23,280	19,925	18,440	Crystal	8,800
+Rare 4*	Gas	24,240	25,865	31,835	Crystal	17,475	14,685	3,663	Ore	8,325
+	Ore	4,390	10,194		Gas	3,195	2,505	6,740	Crystal	1,785
+Epic 4*	Gas		2,810	2,268						
+Ship Parts	4* com	134,000	161,000	169,000	4* com	62,105	60,360		4* com	11,210
+	4* unc	58,370	81,990	220,000	4* unc	26,270	23,090		4* unc	25,280
+	4*rare	3,195	5,510	25,336	4*rare	2,000	1,570		4*rare	3,575
+4* Summation		484,645	698,099	548,439		307,635	457,840	224,763		149,785
+Common 5*	Gas	82,035			Crystal	142,000	115,000		Ore	
+	Ore	24,725			Gas	42,735	34,775		Crystal	
+Uncommon 5*	Gas	87,085		101,000	Crystal	60,420	47,555		Ore	
+	Ore	36,245			Gas	18,205	14,340		Crystal	
+Rare 5*	Gas	13,240		14,106	Crystal	8,840	6,900		Ore	
+	Ore	3990			Gas	2,665	2,080		Crystal	
+Epic 5*				4,304						
+Ship Parts	5*com	16,755		125,000	5*com	33,090	26,855		5*com	
+	5* unc	29,955		205,000	5* unc	14,910	11,555		5* unc	
+5* Summation		294,030	0	449,410	0	322,865	259,060		0	0
+Total of all materials and parts		788,745	717,765	1,030,829	0	654,670	740,090	235,087	0	185,910

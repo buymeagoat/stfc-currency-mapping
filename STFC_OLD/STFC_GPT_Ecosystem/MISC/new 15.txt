@@ -1,0 +1,3 @@
+Write GPT instructions in plain, functional text optimized solely for GPT interpretation. Remove all formatting characters such as bullets, asterisks, headers, or decorative symbols. Use simple sentences with no visual styling. Retain only operational content required for GPT behavior. Every word should serve a functional purpose.
+
+I just want to ensure you are using your expertise to guide me and find places where I'm not fully considering options or ideas. I need you to assume you are smarter than I am at this whole process and challenge me. So, if there's anything you have to add or suggest, I'm counting on you to advise me.

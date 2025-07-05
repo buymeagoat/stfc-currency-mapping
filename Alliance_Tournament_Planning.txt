@@ -1,0 +1,53 @@
+GALAXY
+Prime Cosmic Particle 150
+Prime Junking Speed 0/1500
+
+COMBAT
+Omega Particle 136
+Prime Critical Strike 0/750
+
+GALAXY
+Astral Prime Particle 180
+Shield Health Boost (L2) UNK
+
+COMBAT
+Weapon Prime Particle 100
+Prime Weapon Damage 0/1000
+
+COMBAT
+Prime Particle Key 100
+Prime Interceptor Wrecking 0/1000
+Prime Explorer Wrecking 0/1000
+Prime Battleship Wrecking 0/1000
+
+GALAXY
+Syndicate Prime Particle 100
+Prime Syndicate XP 600/1000
+
+EXBORG
+Ship Parts Prime Particle 100
+G5 Prime Parts Cost 500/1000
+G4 Prime Parts Cost 500/1000
+
+Kir'Shara x15 @ 2150
+L1 4/35
+Quark's Scanner 39 @ 2580
+L10 62/73
+McCoy's Hypospray 39 @ 2580
+L12 15/94
+EarthScience 39 @ 2580
+L9 56/73
+Mudd's Andorian 39 @ 2580
+L13 13/105
+Spock's Engagement 39 @ 2580
+L12 56/94
+Guinan's Magus 7 @ 1010
+L12 14/48
+Kirk's Phaser 7 @ 1010
+L2 29/48
+Andorian Scanner 39 @ 2580
+L11 21/83
+Chapel's Hypospray 39 @ 2580
+L10 19/73
+Crusher's Hypospray 39 @ 2580
+L10 49/73

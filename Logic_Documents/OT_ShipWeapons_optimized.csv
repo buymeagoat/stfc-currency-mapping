@@ -1,0 +1,237 @@
+Ship,Weapon Name,Weapon Type,1,2,3,4,5,6,7,8,9,10,11,12
+Amalgam1,PULSED PHASER,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Augur1,OBLITERATOR,Kinetic,,1.0,,,1.0,,,1.0,,,1.0,
+Augur2,PHASER TURRET,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Augur3,PHASER TURRET,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+B'Chor1,LIGHT DISRUPTOR,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Borg Cube1,HIGH-ENERGY DISRUPTOR BEAM,Energy,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0
+Borg Cube2,MAGNETOMETRIC GUIDED CHARGE,Energy,3.0,,3.0,,3.0,,3.0,,3.0,,3.0,
+Borg Cube3,GRAVIMETRIC TORPEDO,Kinetic,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0
+Borg Cube4,BORG MISSILE,Kinetic,3.0,,3.0,,3.0,,3.0,,3.0,,3.0,
+Bortas1,PHASER CANNON,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Bortas2,PHOTON TORPEDOES,Kinetic,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Bortas3,PHOTON TORPEDOES,Kinetic,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Botany Bay1,PHOTON TORPEDOES,Kinetic,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+B'rel1,PHASER TURRETS,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+B'rel2,PHASER TURRETS,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+B'rel3,PHOTON TORPEDOES,Kinetic,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Centurion1,PULSED PHASE CANNONS,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Centurion2,PULSED PHASE CANNONS,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Centurion3,HIGH CHARGE PHASER BANK,Energy,,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Corvus1,PULSED PHASER,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Corvus2,PULSED PHASER,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Corvus3,PULSED PHASER,Energy,,3.0,,3.0,,3.0,,3.0,,3.0,,3.0
+D3 Class1,LEFT KINETIC CANNON,Kinetic,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+D3 Class2,RIGHT KINETIC CANNON,Kinetic,,2.0,,2.0,,2.0,,2.0,,2.0,,2.0
+D4 Class1,LEFT KINETIC CANNON,Kinetic,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+D4 Class2,RIGHT KINETIC CANNON,Kinetic,,2.0,,2.0,,2.0,,2.0,,2.0,,2.0
+D'Deridex1,PULSED PHASER,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+D'Deridex2,PULSED PHASER,Energy,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+D'Deridex3,PHOTONIC TORPEDOES,Kinetic,,2.0,,,2.0,,,2.0,,,2.0,
+D'Vor Feesha1,HEAVY PHASER CANNON,Kinetic,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Divitae1,PULSED PHASER,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+ECS Fortunate1,WEAPON,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+ECS Horizon1,PHASER TURRET,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Enterprise NX-011,PULSED PHASER,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Enterprise NX-012,PULSED PHASER,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Enterprise NX-013,PHOTONIC TORPEDOES,Kinetic,,4.0,,4.0,,4.0,,4.0,,4.0,,4.0
+Enterprise NX-014,PHOTONIC TORPEDOES,Kinetic,,4.0,,4.0,,4.0,,4.0,,4.0,,4.0
+Envoy1,PHASER EMITTER,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Ferengi D'Vor1,PHOTON TORPEDOES,Kinetic,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Gladius1,RIGHT KINETIC CANNON,Kinetic,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Gladius2,RIGHT KINETIC CANNON,Kinetic,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Gladius3,PHASER LASER,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Gorn Eviscerator1,PHASER TURRETS,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Gorn Eviscerator2,RAILGUN,Kinetic,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0,1.0,1.0
+Gorn Eviscerator3,RAILGUN,Kinetic,,2.0,,2.0,,2.0,,2.0,,2.0,,2.0
+Grishnar1,PHOTONIC TORPEDOES,Kinetic,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Hegh'ta1,LEFT KINETIC CANNON,Kinetic,3.0,,3.0,,3.0,,3.0,,3.0,,3.0,
+Hegh'ta2,RIGHT KINETIC CANNON,Kinetic,,3.0,,3.0,,3.0,,3.0,,3.0,,3.0
+Hegh'ta3,UPPER-LEFT KINETIC,Kinetic,,5.0,,,5.0,,,5.0,,,5.0,
+Hegh'ta4,UPPER-RIGHT KINETIC CANNON,Kinetic,,,5.0,,,5.0,,,5.0,,,5.0
+Hijacked D31,LEFT KINETIC CANNON,Kinetic,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+Hijacked D32,RIGHT KINETIC CANNON,Kinetic,,2.0,,2.0,,2.0,,2.0,,2.0,,2.0
+Hijacked Legionary1,PHASER TURRETS,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Hijacked Legionary2,PHASER TURRETS,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Hijacked Legionary3,Weapon 3,Kinetic,,,1.0,,,1.0,,,1.0,,,1.0
+Hijacked USS Mayflower1,PHASER BANK,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Hijacked USS Mayflower2,PHASER BANK,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Hijacked USS Mayflower3,PROTOTYPE PHASER ARRAY,Energy,,2.0,,2.0,,2.0,,2.0,,2.0,,2.0
+ISS Jellyfish1,PHASER CANNON,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+ISS Jellyfish2,PHASER CANNON,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+ISS Jellyfish3,RED MATTER TORPEDO,Kinetic,,1.0,,1.0,,1.0,,1.0,,1.0,,1.0
+Jellyfish1,PHASER CANNONS,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Jellyfish2,PHASER CANNONS,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Kehra1,PHOTON TORPEDOES,Kinetic,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Kehra2,PHOTON TORPEDOES,Kinetic,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Kehra3,PHASER BANK,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Korinar1,PHASER TURRETS,Energy,3.0,,,3.0,,,3.0,,,3.0,,
+Korinar2,PHASER TURRETS,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Korinar3,HIGH-IMPACT TORPEDO,Kinetic,,2.0,,2.0,,2.0,,2.0,,2.0,,2.0
+Kos'Karii1,PULSED PHASER,Energy,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+Kos'Karii2,PULSED PHASER,Energy,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+Kos'Karii3,PHOTONIC TORPEDOES,Kinetic,2.0,,,2.0,,,2.0,,,2.0,,
+Krencha1,PHOTONIC TORPEDOES,Kinetic,,,,,,2.0,,,2.0,,,2.0
+Krencha2,PHOTONIC TORPEDOES,Kinetic,,,,,2.0,,,,2.0,,,
+Krencha3,PHOTONIC TORPEDOES,Kinetic,,1.0,,1.0,,1.0,,1.0,,1.0,,1.0
+Krencha4,DISINTEGRATOR,Energy,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Krencha5,PHOTONIC TORPEDOES,Kinetic,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+K'Tinga1,PHASER TURRETS,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+K'Tinga2,PHASER TURRETS,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+K'Tinga3,HIGH-CHARGE TORPEDO,Kinetic,,4.0,,,4.0,,,4.0,,,4.0,
+Kumari1,PHASER CANNON,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Kumari2,PHASER CANNON,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Kumari3,PHOTON TORPEDOES,Kinetic,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+K'Vort1,PHOTON TORPEDOES,Kinetic,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Legionary1,PHASER TURRETS,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Legionary2,PHASER TURRETS,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Legionary3,Weapon 3,Kinetic,,,1.0,,,1.0,,,1.0,,,1.0
+Mantis1,PHOTONIC TORPEDOES,Kinetic,,,2.0,,,2.0,,,2.0,,,2.0
+Mantis2,PHASER TURRETS,Energy,1.0,,,1.0,,,1.0,,,1.0,,
+Mantis3,PHASER TURRETS,Energy,,1.0,,,1.0,,,1.0,,,1.0,
+Meridian1,PULSED PHASER,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Minerva1,PULSED PHASER,Energy,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+Minerva2,PULSED PHASER,Energy,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+Minerva3,PULSED PHASER,Energy,2.0,,,2.0,,,2.0,,,2.0,,
+Monaveen1,LIGHTNING SCEPTER,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Monaveen2,DISINTEGRATION BEAM,Kinetic,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Monaveen3,LIGHTNING SCEPTER,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Mow'Ga1,PHOTONIC TORPEDOES,Kinetic,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Negh'Var1,PULSED PHARER,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Negh'Var2,PULSED PHARER,Energy,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Negh'Var3,PHOTONIC TORPEDOES,Kinetic,,2.0,,,2.0,,,2.0,,,2.0,
+North Star1,PHASER TURRET,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nova1,PULSED PHARER,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+NSEA Protector1,BLUE PARTICLE CANNON,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+NSEA Protector2,GANNET MAGNETS,Kinetic,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+NSEA Protector3,QUANTUM ROCKET LAUNCHER,Kinetic,,2.0,,2.0,,2.0,,2.0,,2.0,,2.0
+NSEA Protector4,PULSE CATAPULTS,Energy,,2.0,,2.0,,2.0,,2.0,,2.0,,2.0
+Orion Corvette1,PLASMA CANNON,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Orion Corvette2,PLASMA CANNON,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Phindra1,PHOTONIC TORPEDOES,Kinetic,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Phindra2,PHOTONIC TORPEDOES,Kinetic,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Pilum1,PHOTON TORPEDO,Kinetic,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+Pilum2,PHOTON TORPEDO,Kinetic,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+Pilum3,DISRUPTOR CANNON,Energy,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0
+Quv'Sompek1,PULSED PHASER,Energy,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+Quv'Sompek2,PULSED PHASER,Energy,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+Quv'Sompek3,PHOTONIC TORPEDOES,Kinetic,,2.0,,2.0,,2.0,,2.0,,2.0,,2.0
+Realta1,PULSED PHASER,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Realta2,PULSED PHASER,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Rotarran1,PHOTONIC TORPEDOES,Kinetic,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Rotarran2,PHOTONIC TORPEDOES,Kinetic,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Rotarran3,PHOTONIC TORPEDOES,Kinetic,,5.0,,,5.0,,,5.0,,,5.0,
+Rotarran4,PHOTONIC TORPEDOES,Kinetic,,,5.0,,,5.0,,,5.0,,,5.0
+Sanctus1,PHOTONIC TORPEDOES,Kinetic,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+Sanctus2,PHOTONIC TORPEDOES,Kinetic,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+Sanctus3,PULSED PHASER,Energy,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0
+Sarcophagus1,BLACK FLEET TORPEDO,Kinetic,4.0,,,4.0,,,4.0,,,4.0,,
+Sarcophagus2,BLACK FLEET TORPEDO,Kinetic,4.0,,,4.0,,,4.0,,,4.0,,
+Sarcophagus3,ISOGENIC CANNON,Energy,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Sarcophagus4,ISOGENIC CANNON,Energy,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Scimitar1,PULSED PHASER,Energy,,,,,,1.0,,,1.0,,,1.0
+Scimitar2,PULSED PHASER,Energy,,,,,1.0,,,,1.0,,,
+Scimitar3,PULSED PHASER,Energy,,1.0,,1.0,,1.0,,1.0,,1.0,,1.0
+Scimitar4,INCINERATOR,Kinetic,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Scimitar5,PULSED PHASER,Energy,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Selkie1,PULSED PHASER,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Separatist D3 Class1,LEFT KINETIC CANNON,Kinetic,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+Separatist D3 Class2,RIGHT KINETIC CANNON,Kinetic,,2.0,,2.0,,2.0,,2.0,,2.0,,2.0
+Stella1,PHOTONIC TORPEDOES,Kinetic,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+Stella2,PULSED PHASER,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Stella3,PULSED PHASER,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Talla1,PHASE CANNON,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Talla2,PHASE CANNON,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Tribune1,HEAVY PHASER CANNON,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Tribune2,TYPE-5 DISRUPTOR CANNON,Energy,,6.0,,,6.0,,,6.0,,,6.0,
+Tribune3,PHOTON TORPEDOES,Kinetic,,2.0,,2.0,,2.0,,2.0,,2.0,,2.0
+Turas1,PHASER TURRET,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Turas2,PHASER TURRET,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Akira1,PULSED PHASER,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+USS Akira2,PHOTONIC TORPEDOES,Kinetic,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+USS Akira3,PHOTONIC TORPEDOES,Kinetic,,2.0,,,2.0,,,2.0,,,2.0,
+USS Antares1,PHASER TURRETS,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Beatty1,PULSER PHASER,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+USS Cerritos1,PULSED PHASER,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Cerritos2,PULSED PHASER,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Cerritos3,PHOTONIC TORPEDOES,Kinetic,,2.0,,2.0,,2.0,,2.0,,2.0,,2.0
+USS Crozier1,PULSED PHASER,Energy,,3.0,,3.0,,3.0,,3.0,,3.0,,3.0
+USS Crozier2,PHOTONIC TORPEDOES,Kinetic,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+USS Crozier3,PHOTONIC TORPEDOES,Kinetic,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+USS Defiant1,PHASER CANNONS,Energy,4.0,,4.0,,4.0,,4.0,,4.0,,4.0,
+USS Defiant2,PHASER BEAM EMITTER,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Defiant3,TORPEDO LAUNCHER,Kinetic,,,,1.0,,,,1.0,,,,1.0
+USS Discovery1,PULSED PHASER,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Discovery2,PULSED PHASER,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Discovery3,PHOTONIC TORPEDOES,Kinetic,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+USS Enterprise1,PHASER BANK,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Enterprise2,PHASER BANK,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Enterprise3,DISRUPTOR BANK,Energy,,2.0,,2.0,,2.0,,2.0,,2.0,,2.0
+USS Enterprise A1,HEAVY PULSED PHASER,Energy,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0
+USS Enterprise A2,HEAVY PULSED PHASER,Energy,,,3.0,,,3.0,,,3.0,,,3.0
+USS Enterprise A3,MEDIUM CHARGE CANNON,Kinetic,,4.0,,4.0,,4.0,,4.0,,4.0,,4.0
+USS Enterprise D1,PULSED PHASER,Energy,6.0,,6.0,,6.0,,6.0,,6.0,,6.0,
+USS Enterprise D2,PULSED PHASER,Energy,,6.0,,6.0,,6.0,,6.0,,6.0,,6.0
+USS Enterprise D3,PHOTONIC TORPEDOES,Kinetic,,2.0,,,2.0,,,2.0,,,2.0,
+USS Enterprise E1,PULSED PHASER,Energy,,,,,,1.0,,,1.0,,,1.0
+USS Enterprise E2,PULSED PHASER,Energy,,,,,1.0,,,,1.0,,,
+USS Enterprise E3,PULSED PHASER,Energy,,1.0,,1.0,,1.0,,1.0,,1.0,,1.0
+USS Enterprise E4,DECIMATOR,Kinetic,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Enterprise E5,PULSED PHASER,Energy,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+USS Franklin1,PHASER BEAM,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Franklin2,PHASER BEAM,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Franklin3,PHASER BEAM,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Franklin A1,PHASER BEAM,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+USS Franklin A2,HIGH-IMPACT TORPEDO,Kinetic,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+USS Franklin A3,HIGH-IMPACT TORPEDO,Kinetic,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+USS Hydra1,PHASER STRIP,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Intrepid1,DISRUPTOR CANNON,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Intrepid2,DOUBLE CANNON,Energy,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Intrepid3,HIGH CHARGE CANNON,Energy,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Kelvin1,PHOTON TORPEDO,Kinetic,,3.0,,3.0,,3.0,,3.0,,3.0,,3.0
+USS Kelvin2,PHOTON TORPEDO,Kinetic,,3.0,,3.0,,3.0,,3.0,,3.0,,3.0
+USS Kelvin3,PHASER TURRETS,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+USS Mayflower1,PHASER BANK,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Mayflower2,PHASER BANK,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Mayflower3,PROTOTYPE PHASER ARRAY,Energy,,2.0,,2.0,,2.0,,2.0,,2.0,,2.0
+USS Newgrange1,PULSED PHASER,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Newton1,PHASER TURRETS,Energy,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+USS Newton2,PHASER TURRETS,Energy,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+USS Newton3,PHASER TURRETS,Energy,2.0,,2.0,,2.0,,2.0,,2.0,,2.0,
+USS Newton4,CONCUSSIVE CHARGE,Kinetic,,3.0,,3.0,,3.0,,3.0,,3.0,,3.0
+USS Northcutt1,PULSED PHASER,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+USS Northcutt2,PHOTONIC TORPEDOES,Kinetic,,3.0,,3.0,,3.0,,3.0,,3.0,,3.0
+USS Northcutt3,PHOTONIC TORPEDOES,Kinetic,,3.0,,3.0,,3.0,,3.0,,3.0,,3.0
+USS Saladin1,HIGH-IMPACT TORPEDO,Kinetic,1.0,,,1.0,,,1.0,,,1.0,,
+USS Saladin2,PHASER BANK,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Titan1,PULSED PHASER,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+USS Titan2,PULSED PHASER,Energy,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+USS Titan3,PHOTONIC TORPEDOES,Kinetic,,2.0,,,2.0,,,2.0,,,2.0,
+USS Titan-A1,PHASER BEAM EMITTER,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+USS Titan-A2,PHASER CANNONS,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+USS Titan-A3,QUANTUM TORPEDOES,Kinetic,,,2.0,,,2.0,,,2.0,,,2.0
+USS Voyager1,PHOTON TORPEDOES,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+USS Voyager2,PHOTON TORPEDOES,Energy,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0
+USS Voyager3,QUANTUM TORPEDOES,Kinetic,,,4.0,,,4.0,,,4.0,,,4.0
+Vahklas1,PHASER BEAM,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Vahklas2,PHASER BEAM,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Vahklas3,PHASER BEAM,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Valdore1,PHASER TURRETS,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Valdore2,PHASER TURRETS,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Valdore3,DISRUPTOR ARRAY,Energy,,3.0,,3.0,,3.0,,3.0,,3.0,,3.0
+Valkis1,PHASER TURRETS,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Velox1,PULSED PHASER,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Velox2,PHOTONIC TORPEDOES,Kinetic,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Velox3,PHOTONIC TORPEDOES,Kinetic,,2.0,,,2.0,,,2.0,,,2.0,
+Vi'Dar1,PHASER TURRETS,Energy,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Vi'Dar2,PHOTON TORPEDOES,Kinetic,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Vi'Dar3,RAILGUN,Kinetic,,,1.0,,,1.0,,,1.0,,,1.0
+Vi'Dar Talios1,PHASER TURRETS,Energy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Vi'Dar Talios2,RAILGUN,Kinetic,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Vi'Dar Talios3,RAILGUN,Kinetic,,,2.0,,,2.0,,,2.0,,,2.0
+Vor'Cha1,PULSED PHASER,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Vor'Cha2,PULSED PHASER,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Vor'Cha3,PHOTONIC TORPEDOES,Kinetic,,4.0,,,4.0,,,4.0,,,4.0,
+Vorta Vor1,MICROTORPEDO,Kinetic,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Vrax1,PULSED PHASER,Energy,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+,,,,,,,,,,,,,,

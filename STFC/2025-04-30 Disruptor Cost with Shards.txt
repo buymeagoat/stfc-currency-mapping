@@ -1,0 +1,52 @@
+# Disruptor Cost with Shards
+Date: 2025-04-30
+
+USER: {'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-YaXufDAxKAto6KzGw5EMVe', 'size_bytes': 239177, 'width': 2048, 'height': 1102, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None}}
+
+ASSISTANT: 
+
+ASSISTANT: Yes — we can adjust your existing formula to factor in **Shards On Hand**, using the appropriate **Disruptor Cost per Artifact Shard** based on **Rarity**, and subtract that from the total disruptor cost.
+
+---
+
+### 🔧 Update to the formula:
+
+We'll define a cost-per-shard multiplier based on the artifact's rarity and then subtract:
+```excel
+E5 * IF(C5="Uncommon", 100, IF(C5="Rare", 150, IF(C5="Epic", 200, 0)))
+```
+
+---
+
+### ✅ Full updated formula:
+```excel
+=IF(D5=12, 0,
+    (IF(D5<8,
+        IF(C5="Uncommon", SUM(OFFSET($B$22,D5,0,8-D5,1))*100,
+           IF(C5="Rare", SUM(OFFSET($C$22,D5,0,8-D5,1))*150,
+              IF(C5="Epic", SUM(OFFSET($D$22,D5,0,8-D5,1))*200, 0))),
+        0))
+    +
+    (IF(C5="Uncommon", CEILING(SUM(OFFSET($I$30,MAX(0,D5-8),0,4-MAX(0,D5-8),1))/90,1)*600,
+       IF(C5="Rare", CEILING(SUM(OFFSET($J$30,MAX(0,D5-8),0,4-MAX(0,D5-8),1))/90,1)*600,
+          IF(C5="Epic", CEILING(SUM(OFFSET($K$30,MAX(0,D5-8),0,4-MAX(0,D5-8),1))/90,1)*600, 0))))
+)
+-
+(E5 * IF(C5="Uncommon", 100, IF(C5="Rare", 150, IF(C5="Epic", 200, 0))))
+```
+
+---
+
+### ✅ What’s Changed:
+- At the end, we subtract the **shards on hand** multiplied by the cost per shard (based on rarity).
+- This subtracts the offset cost you're already covered with shards, bringing your disruptor total down.
+
+---
+
+### 🧠 Summary:
+You now have a single formula that:
+- Calculates total disruptor cost to get from current level to level 8.
+- Adds remnant cost for levels 9–12 if needed.
+- Subtracts the value of shards already on hand using the correct multiplier.
+
+Would you like this formula generalized into a named function or script (e.g., in VBA or Google Sheets Apps Script) to simplify reuse?

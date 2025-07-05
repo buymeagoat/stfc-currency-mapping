@@ -1,0 +1,66 @@
+{
+  "faction_stores": [
+    {
+      "faction": "Federation",
+      "refresh_rates": {
+        "standard_items": "24 Hours",
+        "premium_items": "48-72 Hours",
+        "event_specific_offers": "Varies per event"
+      },
+      "currency_sources": [
+        "Daily Reputation Claims",
+        "Faction Missions & Events",
+        "Refinery & Token Exchanges"
+      ],
+      "store_inventory": {
+        "high_priority": [
+          "Federation Ship Blueprints",
+          "Rare & Epic Officer Shards",
+          "Uncommon & Rare Materials"
+        ],
+        "medium_priority": [
+          "Consumables & Buffs",
+          "Reputation Boosters",
+          "Refinery Tokens"
+        ],
+        "low_priority": [
+          "Common Materials",
+          "XP Tokens",
+          "Trade XP Items"
+        ]
+      },
+      "confidence_level": "high"
+    },
+    {
+      "faction": "Klingon",
+      "refresh_rates": {
+        "standard_items": "24 Hours",
+        "premium_items": "48-72 Hours",
+        "event_specific_offers": "Varies per event"
+      },
+      "currency_sources": [
+        "Daily Reputation Claims",
+        "Faction Missions & Events",
+        "Refinery & Token Exchanges"
+      ],
+      "store_inventory": {
+        "high_priority": [
+          "Klingon Ship Blueprints",
+          "Rare & Epic Officer Shards",
+          "Uncommon & Rare Materials"
+        ],
+        "medium_priority": [
+          "Consumables & Buffs",
+          "Reputation Boosters",
+          "Refinery Tokens"
+        ],
+        "low_priority": [
+          "Common Materials",
+          "XP Tokens",
+          "Trade XP Items"
+        ]
+      },
+      "confidence_level": "high"
+    }
+  ]
+}

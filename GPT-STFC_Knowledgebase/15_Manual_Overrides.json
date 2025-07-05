@@ -1,0 +1,25 @@
+{
+  "manual_overrides": [
+    {
+      "date_logged": "2025-02-22",
+      "override_reason": "New metadata field 'event_classification' detected and requires urgent integration.",
+      "affected_data_points": [
+        "08_Game_Events.json"
+      ],
+      "justification": "New event category introduced in patch 2025.03, requiring AI adaptation.",
+      "system_architect_approval": true,
+      "status": "Implemented"
+    },
+    {
+      "date_logged": "2025-02-21",
+      "override_reason": "Refinery payout rate discrepancy requiring urgent correction.",
+      "affected_data_points": [
+        "06_Game_Mechanics.json"
+      ],
+      "justification": "Official patch confirmed refinery rates, overriding prior community reports.",
+      "system_architect_approval": true,
+      "status": "Resolved"
+    }
+  ],
+  "new_feature": "AI now detects unexpected metadata changes and suggests manual overrides before final integration. Trainers will receive alerts when new metadata is flagged."
+}

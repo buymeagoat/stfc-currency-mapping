@@ -1,0 +1,24 @@
+
+Damage mitigation has 3 components: armor, shield deflection, and dodge.
+For each component:
+1. Divide the corresponding defense value by the corresponding piercing value.
+2. Look up the mitigation in the provided chart.
+3. Weight each individual mitigation value based on ship type:
+   - Surveys: 0.3
+   - Battleships: 0.55 (armor), 0.2 (shield deflection, dodge)
+   - Explorers: 0.2 (armor, dodge), 0.55 (shield deflection)
+   - Interceptors: 0.2 (armor, shield deflection), 0.55 (dodge)
+4. Compute final mitigation using the function:
+
+   Mitigation = 1 - (1 - cA * f(dA / pA)) * (1 - cS * f(dS / pS)) * (1 - cD * f(dD / pD))
+
+   where:
+   - dA, dS, dD are defender's armor, shield deflection, and dodge.
+   - pA, pS, pD are attacker's armor piercing, shield piercing, and accuracy.
+   - cA, cS, cD are weighting coefficients based on ship type.
+
+5. The function f follows a logistic curve:
+
+   f(x) = 1 / (1 + 4^(1.1 - x))
+
+This formula provides an accurate approximation (0.1% error margin) for damage mitigation calculations.

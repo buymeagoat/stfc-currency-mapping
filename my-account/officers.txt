@@ -1,0 +1,2096 @@
+Logo Spock's Club
+Home
+Profile 
+Calculators 
+Combat Tools 
+Account Progress 
+Logout
+OFFICERS
+Type to search
+Find an officer
+Sort Officers
+Name
+Type to search
+Search for abilities
+
+Officer 0718
+Federation
+AUXILIARY CONTROLS
+Level:
+30
+Rank:
+CMDR V
+
+Ahvix
+Neutral
+MUDD'S COMPANY
+Level:
+30
+Rank:
+CMDR V
+
+Airiam
+Federation
+DISCOVERY CREW
+Level:
+30
+Rank:
+CMDR V
+
+Alok Sahar
+Section 31
+SECTION 31
+Level:
+5
+Rank:
+ENSIGN I
+
+Alonzo Freeman
+Federation
+LOWER DECKS CREW
+Level:
+15
+Rank:
+LT. III
+
+Andy Billups
+Federation
+INTERCEPTOR STRIKE TEAM
+Level:
+10
+Rank:
+LT. JG II
+
+Annorax
+Neutral
+VOYAGER 30TH ANNIVERSARY
+Level:
+5
+Rank:
+ENSIGN I
+
+Arix
+Romulan
+NERO'S CREW
+Level:
+30
+Rank:
+CMDR V
+
+Arkady Ivanov
+Federation
+ENTERPRISE CREW
+Level:
+30
+Rank:
+CMDR V
+
+Arrock
+Neutral
+FERENGI CONGLOMERATE
+Level:
+15
+Rank:
+LT. III
+
+Azetbur
+Klingon
+KLINGON PATRIOTS
+Level:
+23
+Rank:
+CMDR V
+
+Badgey
+Federation
+LOWER DECKS CREW
+Level:
+20
+Rank:
+LT. CMDR IV
+
+Ba'el
+Klingon
+KHITOMER'S REVENGE
+Level:
+15
+Rank:
+LT. III
+
+Barot
+Klingon
+SURVEYORS & MINERS
+Level:
+30
+Rank:
+CMDR V
+
+Beckett Mariner
+Federation
+LOWER DECKS CREW
+Level:
+30
+Rank:
+CMDR V
+
+B'Elanna Torres
+Federation
+VOYAGER
+Level:
+30
+Rank:
+CMDR V
+
+Benjamin Sisko
+Federation
+DEEP SPACE NINE
+Level:
+30
+Rank:
+CMDR V
+
+B'Etor
+Romulan
+PRIDE OF ROMULUS
+Level:
+20
+Rank:
+LT. CMDR IV
+
+Beverly Crusher
+Federation
+TNG CREW
+Level:
+20
+Rank:
+LT. CMDR IV
+
+Leonard McCoy
+Federation
+ENTERPRISE CREW
+Level:
+30
+Rank:
+CMDR V
+
+Borg Queen
+Borg
+UNIMATRIX TWELVE
+Level:
+20
+Rank:
+LT. CMDR IV
+
+Brad Boimler
+Federation
+LOWER DECKS CREW
+Level:
+15
+Rank:
+LT. III
+
+Byr Ch'Kelrer
+Neutral
+SYMBIOSIS
+Level:
+15
+Rank:
+LT. III
+
+Cadet James T. Kirk
+Federation
+ANOTHER TIME
+Level:
+30
+Rank:
+CMDR V
+
+Cadet Leonard McCoy
+Federation
+ANOTHER TIME
+Level:
+30
+Rank:
+CMDR V
+
+Cadet Montgomery Scott
+Federation
+ANOTHER TIME
+Level:
+30
+Rank:
+CMDR V
+
+Cadet Hikaru Sulu
+Federation
+ANOTHER TIME
+Level:
+30
+Rank:
+CMDR V
+
+Cadet Nyota Uhura
+Federation
+ANOTHER TIME
+Level:
+30
+Rank:
+CMDR V
+
+Captain Tilly
+Neutral
+TERRAN EMPIRE
+Level:
+20
+Rank:
+LT. CMDR IV
+
+Carol Marcus
+Federation
+AUXILIARY CONTROLS
+Level:
+20
+Rank:
+CMDR V
+
+Carol Freeman
+Federation
+LOWER DECKS CREW
+Level:
+10
+Rank:
+LT. JG II
+
+Cath
+Neutral
+FERENGI CONGLOMERATE
+Level:
+15
+Rank:
+LT. III
+
+Chakotay
+Federation
+VOYAGER
+Level:
+20
+Rank:
+LT. CMDR IV
+
+Chang
+Klingon
+KLINGON PATRIOTS
+Level:
+30
+Rank:
+CMDR V
+
+Changeling Kira
+Federation
+DEEP SPACE NINE
+Level:
+30
+Rank:
+CMDR V
+
+Liviana Charvanek
+Romulan
+ROMULAN PATRIOTS
+Level:
+21
+Rank:
+CMDR V
+
+Grace Chen
+Federation
+STARFLEET ACADEMY
+Level:
+30
+Rank:
+CMDR V
+
+Hugh Culber
+Federation
+DISCOVERY CREW
+Level:
+30
+Rank:
+CMDR V
+
+Dajash Tolra
+Neutral
+SYMBIOSIS
+Level:
+10
+Rank:
+LT. JG II
+
+Damar
+Neutral
+INTERCEPTOR STRIKE TEAM
+Level:
+10
+Rank:
+LT. JG II
+
+Sir Alexander Dane
+Neutral
+Galaxy Quest
+Level:
+20
+Rank:
+LT. CMDR IV
+
+Mae Darwin
+Federation
+SHAKEDOWN CRUISE
+Level:
+15
+Rank:
+LT. III
+
+Data
+Federation
+TNG CREW
+Level:
+15
+Rank:
+LT. III
+
+Deanna Troi
+Federation
+TNG CREW
+Level:
+30
+Rank:
+CMDR V
+
+Decius
+Romulan
+ROMULAN PATRIOTS
+Level:
+23
+Rank:
+CMDR V
+
+Gwen DeMarco
+Neutral
+Galaxy Quest
+Level:
+5
+Rank:
+ENSIGN I
+
+Dezoc
+Borg
+UNIMATRIX TWELVE
+Level:
+27
+Rank:
+CMDR V
+
+Dixon Hill
+Federation
+HOLODECK
+Level:
+10
+Rank:
+LT. JG II
+
+D'jaoki
+Romulan
+ROMULAN PATRIOTS
+Level:
+30
+Rank:
+CMDR V
+
+Doctor T'Ana
+Federation
+LOWER DECKS CREW
+Level:
+10
+Rank:
+LT. JG II
+
+Domitia
+Romulan
+SURVEYORS & MINERS
+Level:
+30
+Rank:
+CMDR V
+
+Raphaël DuPont
+Federation
+SURVEYORS & MINERS
+Level:
+15
+Rank:
+LT. III
+
+D'Vana Tendi
+Federation
+LOWER DECKS CREW
+Level:
+30
+Rank:
+CMDR V
+
+Eight of Eleven
+Borg
+UNIMATRIX TWELVE
+Level:
+30
+Rank:
+CMDR V
+
+Eleven of Eleven
+Borg
+UNIMATRIX TWELVE
+Level:
+20
+Rank:
+CMDR V
+
+Emperor Georgiou
+Neutral
+TERRAN EMPIRE
+Level:
+23
+Rank:
+CMDR V
+
+Enterprise-E Data
+Federation
+ENTERPRISE-E
+Level:
+30
+Rank:
+CMDR V
+
+Enterprise-E Picard
+Federation
+ENTERPRISE-E
+Level:
+15
+Rank:
+LT. III
+
+Enterprise-E Riker
+Federation
+ENTERPRISE-E
+Level:
+15
+Rank:
+LT. III
+
+Enterprise-E Troi
+Federation
+ENTERPRISE-E
+Level:
+20
+Rank:
+LT. CMDR IV
+
+Eurydice
+Neutral
+MUDD'S COMPANY
+Level:
+30
+Rank:
+CMDR V
+
+Fess
+Neutral
+FERENGI CONGLOMERATE
+Level:
+15
+Rank:
+LT. III
+
+Five of Eleven
+Borg
+UNIMATRIX TWELVE
+Level:
+30
+Rank:
+CMDR V
+
+Four of Eleven
+Borg
+UNIMATRIX TWELVE
+Level:
+20
+Rank:
+CMDR V
+
+French Marshal Q
+Neutral
+INTERCEPTOR RETALIATION SQUAD
+Level:
+10
+Rank:
+LT. JG II
+
+Gaila
+Federation
+STARFLEET ACADEMY
+Level:
+30
+Rank:
+CMDR V
+
+Garak
+Neutral
+INTERCEPTOR STRIKE TEAM
+Level:
+15
+Rank:
+LT. III
+
+Geordi La Forge
+Federation
+TNG CREW
+Level:
+20
+Rank:
+CMDR V
+
+Georgiou
+Federation
+DISCOVERY CREW
+Level:
+30
+Rank:
+CMDR V
+
+Ghalenar
+Borg
+UNIMATRIX TWELVE
+Level:
+30
+Rank:
+CMDR V
+
+Ghrush
+Neutral
+Syndicate
+Level:
+30
+Rank:
+CMDR V
+
+Lucia Gonzales
+Federation
+STARFLEET ACADEMY
+Level:
+30
+Rank:
+CMDR V
+
+Goon
+Neutral
+MUDD'S COMPANY
+Level:
+30
+Rank:
+CMDR V
+
+Gorkon
+Klingon
+KLINGON PATRIOTS
+Level:
+30
+Rank:
+CMDR V
+
+Gossa
+Borg
+UNIMATRIX TWELVE
+Level:
+20
+Rank:
+LT. CMDR IV
+
+Gowron
+Klingon
+KHITOMER'S REVENGE
+Level:
+15
+Rank:
+LT. III
+
+Gul Dukat
+Neutral
+INTERCEPTOR STRIKE TEAM
+Level:
+15
+Rank:
+LT. III
+
+Geoffrey Hadley
+Federation
+SHAKEDOWN CRUISE
+Level:
+15
+Rank:
+LT. III
+
+John Harrison
+Federation
+SECTION 31
+Level:
+10
+Rank:
+LT. JG II
+
+Harry Kim
+Federation
+VOYAGER
+Level:
+30
+Rank:
+CMDR V
+
+Harcourt Fenton Mudd
+Neutral
+MUDD'S COMPANY
+Level:
+20
+Rank:
+CMDR V
+
+Helvia
+Romulan
+SURVEYORS & MINERS
+Level:
+30
+Rank:
+CMDR V
+
+Hendorff
+Federation
+SHAKEDOWN CRUISE
+Level:
+10
+Rank:
+LT. JG II
+
+Honorguard Worf
+Klingon
+KHITOMER'S REVENGE
+Level:
+24
+Rank:
+CMDR V
+
+Hoshi Sato
+Federation
+ENTERPRISE NX-01
+Level:
+15
+Rank:
+LT. III
+
+Hugh
+Borg
+UNIMATRIX TWELVE
+Level:
+20
+Rank:
+LT. CMDR IV
+
+Icheb
+Neutral
+⇥ RETALIATION SQUAD
+Level:
+10
+Rank:
+LT. JG II
+
+Ikat'ika
+Neutral
+EXPLORER STRIKE TEAM
+Level:
+10
+Rank:
+LT. JG II
+
+Infiltrator Tuvok
+Neutral
+⇥ RETALIATION SQUAD
+Level:
+10
+Rank:
+LT. JG II
+
+Instructor Spock
+Federation
+ANOTHER TIME
+Level:
+30
+Rank:
+CMDR V
+
+Jack Ransom
+Federation
+EXPLORER STRIKE TEAM
+Level:
+10
+Rank:
+LT. JG II
+
+Jadzia Dax
+Federation
+DEEP SPACE NINE
+Level:
+15
+Rank:
+LT. III
+
+Javaid
+Romulan
+NERO'S CREW
+Level:
+30
+Rank:
+CMDR V
+
+Jaylah
+Federation
+JAYLAH
+Level:
+5
+Rank:
+ENSIGN I
+
+Jean-Luc Picard
+Federation
+TNG CREW
+Level:
+30
+Rank:
+CMDR V
+
+Joachim
+Neutral
+KHAN'S CREW
+Level:
+30
+Rank:
+CMDR V
+
+Joaquin
+Neutral
+KHAN'S CREW
+Level:
+30
+Rank:
+CMDR V
+
+Jonathan Archer
+Federation
+ENTERPRISE NX-01
+Level:
+20
+Rank:
+LT. CMDR IV
+
+Julian Bashir
+Federation
+DEEP SPACE NINE
+Level:
+15
+Rank:
+LT. III
+
+Kang
+Klingon
+BLOOD & HONOR
+Level:
+20
+Rank:
+CMDR V
+
+Kathryn Janeway
+Federation
+VOYAGER
+Level:
+20
+Rank:
+LT. CMDR IV
+
+Kati
+Neutral
+KHAN'S CREW
+Level:
+30
+Rank:
+CMDR V
+
+K'Bisch
+Klingon
+SURVEYORS & MINERS
+Level:
+30
+Rank:
+CMDR V
+
+Keenser
+Federation
+AUXILIARY CONTROLS
+Level:
+30
+Rank:
+CMDR V
+
+Kerla
+Klingon
+KLINGON PATRIOTS
+Level:
+30
+Rank:
+CMDR V
+
+Khan Noonien Singh
+Neutral
+KHAN'S CREW
+Level:
+30
+Rank:
+CMDR V
+
+Kira Nerys
+Federation
+DEEP SPACE NINE
+Level:
+10
+Rank:
+LT. JG II
+
+James T. Kirk
+Federation
+ENTERPRISE CREW
+Level:
+30
+Rank:
+CMDR V
+
+Klaa
+Klingon
+GLORY IN THE KILL
+Level:
+30
+Rank:
+CMDR V
+
+Komal
+Klingon
+GLORY IN THE KILL
+Level:
+30
+Rank:
+CMDR V
+
+Koth
+Klingon
+KLINGON PATRIOTS
+Level:
+30
+Rank:
+CMDR V
+
+Kras
+Klingon
+GLORY IN THE KILL
+Level:
+20
+Rank:
+CMDR V
+
+Krell
+Klingon
+BLOOD & HONOR
+Level:
+23
+Rank:
+CMDR V
+
+Kumak
+Romulan
+NERO'S CREW
+Level:
+23
+Rank:
+CMDR V
+
+Kuron
+Klingon
+BLOOD & HONOR
+Level:
+30
+Rank:
+CMDR V
+
+Laliari
+Neutral
+Galaxy Quest
+Level:
+15
+Rank:
+LT. III
+
+Frank Leslie
+Federation
+SHAKEDOWN CRUISE
+Level:
+20
+Rank:
+LT. CMDR IV
+
+Lieutenant Picard
+Federation
+NEXT GEN
+Level:
+10
+Rank:
+LT. JG II
+
+Linkasa
+Klingon
+BLOOD & HONOR
+Level:
+30
+Rank:
+CMDR V
+
+Livis
+Romulan
+NERO'S CREW
+Level:
+23
+Rank:
+CMDR V
+
+L'Nar
+Romulan
+ROMULAN PATRIOTS
+Level:
+30
+Rank:
+CMDR V
+
+Gabriel Lorca
+Neutral
+TERRAN EMPIRE
+Level:
+24
+Rank:
+CMDR V
+
+Lursa
+Romulan
+PRIDE OF ROMULUS
+Level:
+5
+Rank:
+ENSIGN I
+
+Elea Mäkinen
+Federation
+SURVEYORS & MINERS
+Level:
+10
+Rank:
+LT. JG II
+
+Mara
+Klingon
+BLOOD & HONOR
+Level:
+30
+Rank:
+CMDR V
+
+Alexander Marcus
+Federation
+SECTION 31
+Level:
+20
+Rank:
+CMDR V
+
+Mariachi Q
+Neutral
+INTERCEPTOR RETALIATION SQUAD
+Level:
+10
+Rank:
+LT. JG II
+
+Marla McGivers
+Neutral
+KHAN'S CREW
+Level:
+30
+Rank:
+CMDR V
+
+Martok
+Klingon
+KHITOMER'S REVENGE
+Level:
+15
+Rank:
+LT. III
+
+Masriad Vael
+Neutral
+SYMBIOSIS
+Level:
+10
+Rank:
+LT. JG II
+
+Mavery
+Neutral
+Syndicate
+Level:
+26
+Rank:
+CMDR V
+
+Jabilo M'Benga
+Federation
+AUXILIARY CONTROLS
+Level:
+30
+Rank:
+CMDR V
+
+Michael Burnham
+Federation
+DISCOVERY CREW
+Level:
+20
+Rank:
+CMDR V
+
+Miles O'Brien
+Federation
+DEEP SPACE NINE
+Level:
+30
+Rank:
+CMDR V
+
+Mirek
+Romulan
+ROMULAN PATRIOTS
+Level:
+23
+Rank:
+CMDR V
+
+Mirror Data
+Federation
+MIRROR UNIVERSE
+Level:
+15
+Rank:
+LT. III
+
+Mirror Ezri
+Neutral
+MIRROR UNIVERSE
+Level:
+5
+Rank:
+ENSIGN I
+
+Mirror Kira
+Klingon
+MIRROR UNIVERSE
+Level:
+5
+Rank:
+ENSIGN I
+
+Mirror Picard
+Federation
+MIRROR UNIVERSE
+Level:
+15
+Rank:
+LT. III
+
+Mirror Troi
+Federation
+MIRROR UNIVERSE
+Level:
+5
+Rank:
+ENSIGN I
+
+Mirror Uhura
+Federation
+MIRROR UNIVERSE
+Level:
+0
+Rank:
+LOCKED
+
+Miss Q
+Neutral
+EXPLORER RETALIATION SQUAD
+Level:
+10
+Rank:
+LT. JG II
+
+Gary Mitchell
+Federation
+AUXILIARY CONTROLS
+Level:
+20
+Rank:
+CMDR V
+
+Marlena Moreau
+Federation
+SHAKEDOWN CRUISE
+Level:
+30
+Rank:
+CMDR V
+
+M'Ral
+Klingon
+KLINGON PATRIOTS
+Level:
+30
+Rank:
+CMDR V
+
+Harcourt Fenton Mudd
+Neutral
+MUDD'S COMPANY
+Level:
+20
+Rank:
+CMDR V
+
+Naga Delvos
+Neutral
+EMERALD CHAIN
+Level:
+15
+Rank:
+LT. III
+
+Navi
+Neutral
+KHAN'S CREW
+Level:
+30
+Rank:
+CMDR V
+
+Neelix
+Federation
+VOYAGER
+Level:
+30
+Rank:
+CMDR V
+
+Nero
+Romulan
+NERO'S CREW
+Level:
+30
+Rank:
+CMDR V
+
+Jason Nesmith
+Neutral
+Galaxy Quest
+Level:
+10
+Rank:
+LT. JG II
+
+Next Gen Crusher
+Federation
+NEXT GEN
+Level:
+30
+Rank:
+CMDR V
+
+Next Gen Data
+Federation
+NEXT GEN
+Level:
+30
+Rank:
+CMDR V
+
+Next Gen La Forge
+Federation
+NEXT GEN
+Level:
+30
+Rank:
+CMDR V
+
+Next Gen Riker
+Federation
+NEXT GEN
+Level:
+30
+Rank:
+CMDR V
+
+Next Gen Troi
+Federation
+NEXT GEN
+Level:
+30
+Rank:
+CMDR V
+
+Nine of Eleven
+Borg
+UNIMATRIX TWELVE
+Level:
+30
+Rank:
+CMDR V
+
+Odo
+Federation
+DEEP SPACE NINE
+Level:
+10
+Rank:
+LT. JG II
+
+One of Eleven
+Borg
+UNIMATRIX TWELVE
+Level:
+25
+Rank:
+CMDR V
+
+Origins Burnham
+Federation
+DISCOVERY ORIGINS
+Level:
+30
+Rank:
+CMDR V
+
+Origins Saru
+Federation
+DISCOVERY ORIGINS
+Level:
+30
+Rank:
+CMDR V
+
+Origins Stamets
+Federation
+DISCOVERY ORIGINS
+Level:
+30
+Rank:
+CMDR V
+
+Otto
+Neutral
+KHAN'S CREW
+Level:
+30
+Rank:
+CMDR V
+
+Pan
+Neutral
+KHAN'S CREW
+Level:
+30
+Rank:
+CMDR V
+
+Paul Stamets
+Federation
+DISCOVERY CREW
+Level:
+20
+Rank:
+LT. CMDR IV
+
+Phellun
+Neutral
+Syndicate
+Level:
+10
+Rank:
+LT. JG II
+
+Phlox
+Federation
+ENTERPRISE NX-01
+Level:
+15
+Rank:
+LT. III
+
+PIC Admiral Picard
+Federation
+PICARD
+Level:
+20
+Rank:
+LT. CMDR IV
+
+PIC Beverly Crusher
+Federation
+PICARD
+Level:
+23
+Rank:
+CMDR V
+
+PIC Hugh
+Ex-Borg
+EX-BORG
+Level:
+20
+Rank:
+LT. CMDR IV
+
+PIC RIKER
+Federation
+PICARD
+Level:
+15
+Rank:
+LT. III
+
+PIC Worf
+Federation
+PICARD
+Level:
+15
+Rank:
+LT. III
+
+Christopher Pike
+Federation
+SHAKEDOWN CRUISE
+Level:
+30
+Rank:
+CMDR V
+
+Pon
+Neutral
+EXPLORER STRIKE TEAM
+Level:
+15
+Rank:
+LT. III
+
+Qa'ug
+Klingon
+BLOOD & HONOR
+Level:
+30
+Rank:
+CMDR V
+
+Quark
+Neutral
+FERENGI CONGLOMERATE
+Level:
+20
+Rank:
+CMDR V
+
+Quasi
+Section 31
+MIRROR UNIVERSE
+Level:
+10
+Rank:
+LT. JG II
+
+Rachel Garrett
+Section 31
+ENTERPRISE-E
+Level:
+10
+Rank:
+LT. JG II
+
+Reginald Barclay
+Federation
+HOLODECK
+Level:
+20
+Rank:
+CMDR V
+
+Rima
+Neutral
+KHAN'S CREW
+Level:
+30
+Rank:
+CMDR V
+
+Ro Mudd
+Neutral
+MUDD'S COMPANY
+Level:
+23
+Rank:
+CMDR V
+
+Rom
+Neutral
+FERENGI CONGLOMERATE
+Level:
+20
+Rank:
+CMDR V
+
+Romi
+Neutral
+EXPLORER RETALIATION SQUAD
+Level:
+10
+Rank:
+LT. JG II
+
+Rukor
+Klingon
+GLORY IN THE KILL
+Level:
+30
+Rank:
+CMDR V
+
+S31 Georgiou
+Section 31
+STRANGE NEW WORLDS
+Level:
+5
+Rank:
+ENSIGN I
+
+Sam Rutherford
+Federation
+LOWER DECKS CREW
+Level:
+20
+Rank:
+LT. CMDR IV
+
+Saru
+Federation
+DISCOVERY CREW
+Level:
+23
+Rank:
+CMDR V
+
+Montgomery Scott
+Federation
+ENTERPRISE CREW
+Level:
+30
+Rank:
+CMDR V
+
+Sela
+Romulan
+PRIDE OF ROMULUS
+Level:
+20
+Rank:
+CMDR V
+
+Sesha
+Neutral
+MUDD'S COMPANY
+Level:
+30
+Rank:
+CMDR V
+
+Seska
+Neutral
+VOYAGER 30TH ANNIVERSARY
+Level:
+10
+Rank:
+LT. JG II
+
+Seven of Eleven
+Borg
+UNIMATRIX TWELVE
+Level:
+30
+Rank:
+CMDR V
+
+Seven of Nine
+Federation
+VOYAGER
+Level:
+20
+Rank:
+LT. CMDR IV
+
+Severus
+Romulan
+ROMULAN PATRIOTS
+Level:
+30
+Rank:
+CMDR V
+
+Shaxs
+Federation
+BATTLESHIP STRIKE TEAM
+Level:
+10
+Rank:
+LT. JG II
+
+Shev Akria
+Federation
+STARFLEET ACADEMY
+Level:
+30
+Rank:
+CMDR V
+
+Shran
+Federation
+ENTERPRISE NX-01
+Level:
+15
+Rank:
+LT. III
+
+Six of Eleven
+Borg
+UNIMATRIX TWELVE
+Level:
+30
+Rank:
+CMDR V
+
+SNW Hemmer
+Federation
+STRANGE NEW WORLDS
+Level:
+30
+Rank:
+CMDR V
+
+SNW James Kirk
+Federation
+STRANGE NEW WORLDS
+Level:
+10
+Rank:
+LT. JG II
+
+SNW La'an Noonien-Singh
+Federation
+STRANGE NEW WORLDS
+Level:
+15
+Rank:
+LT. III
+
+SNW M'Benga
+Federation
+STRANGE NEW WORLDS
+Level:
+15
+Rank:
+LT. III
+
+SNW Nurse Chapel
+Federation
+STRANGE NEW WORLDS
+Level:
+30
+Rank:
+CMDR V
+
+SNW Erica Ortegas
+Federation
+STRANGE NEW WORLDS
+Level:
+30
+Rank:
+CMDR V
+
+SNW Pelia
+Federation
+STRANGE NEW WORLDS
+Level:
+30
+Rank:
+CMDR V
+
+SNW Christopher Pike
+Federation
+STRANGE NEW WORLDS
+Level:
+30
+Rank:
+CMDR V
+
+SNW Sam Kirk
+Federation
+STRANGE NEW WORLDS
+Level:
+15
+Rank:
+LT. III
+
+SNW Spock
+Federation
+STRANGE NEW WORLDS
+Level:
+30
+Rank:
+CMDR V
+
+SNW Nyota Uhura
+Federation
+STRANGE NEW WORLDS
+Level:
+30
+Rank:
+CMDR V
+
+SNW Una Chin-Riley
+Federation
+STRANGE NEW WORLDS
+Level:
+15
+Rank:
+LT. III
+
+Soran
+Neutral
+EXPLORER RETALIATION SQUAD
+Level:
+10
+Rank:
+LT. JG II
+
+Specialist Seven
+Neutral
+⇥ RETALIATION SQUAD
+Level:
+5
+Rank:
+ENSIGN I
+
+Spock
+Federation
+ENTERPRISE CREW
+Level:
+30
+Rank:
+CMDR V
+
+Starfleet Q
+Neutral
+INTERCEPTOR RETALIATION SQUAD
+Level:
+5
+Rank:
+ENSIGN I
+
+Stonn
+Federation
+SURVEYORS & MINERS
+Level:
+30
+Rank:
+CMDR V
+
+Strike Team SNW La'an
+Federation
+BATTLESHIP STRIKE TEAM
+Level:
+10
+Rank:
+LT. JG II
+
+Strike Team SNW Ortegas
+Federation
+BATTLESHIP STRIKE TEAM
+Level:
+10
+Rank:
+LT. JG II
+
+Strike Team SNW Una
+Federation
+BATTLESHIP STRIKE TEAM
+Level:
+10
+Rank:
+LT. JG II
+
+Suder
+Neutral
+VOYAGER 30TH ANNIVERSARY
+Level:
+5
+Rank:
+ENSIGN I
+
+Hikaru Sulu
+Federation
+ENTERPRISE CREW
+Level:
+30
+Rank:
+CMDR V
+
+Tal
+Romulan
+ROMULAN PATRIOTS
+Level:
+5
+Rank:
+ENSIGN I
+
+Tasha Yar
+Federation
+TNG CREW
+Level:
+20
+Rank:
+LT. CMDR IV
+
+Ten of Eleven
+Borg
+UNIMATRIX TWELVE
+Level:
+20
+Rank:
+CMDR V
+
+The Doctor
+Federation
+VOYAGER
+Level:
+20
+Rank:
+LT. CMDR IV
+
+Three Of Eleven
+Borg
+UNIMATRIX TWELVE
+Level:
+20
+Rank:
+CMDR V
+
+Tilly
+Federation
+DISCOVERY CREW
+Level:
+20
+Rank:
+LT. CMDR IV
+
+Tiza
+Neutral
+MUDD'S COMPANY
+Level:
+30
+Rank:
+CMDR V
+
+T'Laan
+Federation
+STARFLEET ACADEMY
+Level:
+30
+Rank:
+CMDR V
+
+Toli
+Neutral
+SYMBIOSIS
+Level:
+15
+Rank:
+LT. III
+
+Tom Paris
+Federation
+VOYAGER
+Level:
+30
+Rank:
+CMDR V
+
+Tomalak
+Romulan
+PRIDE OF ROMULUS
+Level:
+15
+Rank:
+LT. III
+
+TOS Pavel Chekov
+Federation
+TOS ENTERPRISE CREW
+Level:
+15
+Rank:
+LT. III
+
+TOS James T. Kirk
+Federation
+TOS ENTERPRISE CREW
+Level:
+20
+Rank:
+CMDR V
+
+TOS Leonard McCoy
+Federation
+TOS ENTERPRISE CREW
+Level:
+15
+Rank:
+LT. III
+
+TOS Montgomery Scott
+Federation
+TOS ENTERPRISE CREW
+Level:
+15
+Rank:
+LT. III
+
+TOS Spock
+Federation
+TOS ENTERPRISE CREW
+Level:
+20
+Rank:
+CMDR V
+
+TOS Hikaru Sulu
+Federation
+TOS ENTERPRISE CREW
+Level:
+15
+Rank:
+LT. III
+
+TOS Nyota Uhura
+Federation
+TOS ENTERPRISE CREW
+Level:
+15
+Rank:
+LT. III
+
+T'Pol
+Federation
+ENTERPRISE NX-01
+Level:
+20
+Rank:
+LT. CMDR IV
+
+T'Pring
+Federation
+SURVEYORS & MINERS
+Level:
+30
+Rank:
+CMDR V
+
+Trip Tucker
+Federation
+ENTERPRISE NX-01
+Level:
+20
+Rank:
+LT. CMDR IV
+
+Tuvok
+Federation
+VOYAGER
+Level:
+23
+Rank:
+CMDR V
+
+Two of Eleven
+Borg
+UNIMATRIX TWELVE
+Level:
+23
+Rank:
+CMDR V
+
+Ash Tyler
+Federation
+DISCOVERY CREW
+Level:
+20
+Rank:
+LT. CMDR IV
+
+Nyota Uhura
+Federation
+ENTERPRISE CREW
+Level:
+30
+Rank:
+CMDR V
+
+Vartoq
+Klingon
+GLORY IN THE KILL
+Level:
+30
+Rank:
+CMDR V
+
+Vel K'Bentayr
+Federation
+STARFLEET ACADEMY
+Level:
+30
+Rank:
+CMDR V
+
+Vella
+Romulan
+NERO'S CREW
+Level:
+30
+Rank:
+CMDR V
+
+Vemet
+Romulan
+NERO'S CREW
+Level:
+23
+Rank:
+CMDR V
+
+Vixis
+Klingon
+GLORY IN THE KILL
+Level:
+30
+Rank:
+CMDR V
+
+Wesley Crusher
+Federation
+TNG CREW
+Level:
+15
+Rank:
+LT. III
+
+Weyoun
+Neutral
+EXPLORER STRIKE TEAM
+Level:
+10
+Rank:
+LT. JG II
+
+William T. Riker
+Federation
+TNG CREW
+Level:
+30
+Rank:
+CMDR V
+
+Worf
+Federation
+TNG CREW
+Level:
+15
+Rank:
+LT. III
+
+Woteln
+Klingon
+KLINGON PATRIOTS
+Level:
+30
+Rank:
+CMDR V
+
+Yan'agh
+Klingon
+BLOOD & HONOR
+Level:
+30
+Rank:
+CMDR V
+
+Yuki Sulu
+Federation
+SECTION 31
+Level:
+23
+Rank:
+CMDR V
+
+Zahra
+Federation
+AUXILIARY CONTROLS
+Level:
+30
+Rank:
+CMDR V
+
+Zeph
+Section 31
+SECTION 31
+Level:
+10
+Rank:
+LT. JG II
+
+Paul Zhou
+Federation
+SECTION 31
+Level:
+30
+Rank:
+CMDR V
+   
+
